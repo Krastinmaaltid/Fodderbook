@@ -8,6 +8,7 @@
     "desc": "Blød, saftig kylling pocheret i bouillon og serveret over ris kogt i det samme kraftfulde fond. Med friskhakket ingefær, hvidløg og forårsløg, agurk og pak choi ved siden af.",
     "ing": [
       "4 kyllingefileter",
+      "2 hønseboillong",
       "300 g jasminris",
       "3 cm ingefær",
       "4 fed hvidløg",
@@ -19,10 +20,11 @@
       "sojasauce og sesamolie"
     ],
     "steps": [
-      "Pocher kyllingen ved svag varme i vand med ingefær, citrongræs og forårsløg, til den lige er gennemkogt.",
-      "Rist hvidløg og ingefær i lidt olie, tilsæt risene og kog dem i kyllingefonden.",
+      "Pocher kyllingen ved svag varme i vand med ingefær, citrongræs og forårsløg, til den lige er gennemkogt (ca. 10-15 min).",
+      "Rist hvidløg og ingefær i lidt olie, tilsæt risene, lad dem poppe lidt, kom kyllingefonden i og lad det hele koge op. Sæt på lav når det koger og giv det 12 min med låg.",
+      "Dam pak choi, skær agurk i skiver.",
       "Skær kyllingen i skiver og server over risene med agurk, dampet pak choi og lime.",
-      "Lav en hurtig sauce af hakket ingefær, forårsløg, sojasauce og sesamolie."
+      "Lav en hurtig sauce af hakket ingefær, forårsløg, sojasauce og sesamolie. Drøs over."
     ],
     "src": "se:hainanese chicken rice;vr:hainan kylling ris"
   },
