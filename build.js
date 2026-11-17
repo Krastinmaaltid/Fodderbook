@@ -40,7 +40,7 @@ function sources(src) {
       const name = host.includes("seriouseats") ? "Serious Eats" : host.includes("valdemarsro") ? "Valdemarsro"
         : host.includes("youtube") ? "YouTube" : host.includes("delicious") ? "delicious.com.au"
         : host.includes("bonappetit") ? "Bon Appétit" : host;
-      return { url: p, label: host.includes("youtube") ? "Se videoen på YouTube" : `Original opskrift hos ${name}`, direct: true };
+      return { url: p, label: host.includes("youtube") ? "Se videoen på YouTube" : `Se opskrift hos ${name}`, direct: true };
     }
     const [k, ...q] = p.split(":");
     const query = encodeURIComponent(q.join(":"));
@@ -67,7 +67,7 @@ const head = (title, desc, rel) => `<!doctype html>
 </head>
 <body>
 <header class="site-header"><a class="brand" href="${rel}index.html"><span class="brand-mark">🍴</span> ${SITE.title}</a><span class="tagline">${TOTAL} retter fra vores køkken, med små opskrifter og links til de originale.</span></header>`;
-const foot = `<footer class="site-footer">Opskrifterne er korte sammendrag skrevet med egne ord. Følg linkene for de fulde originalopskrifter hos <a href="https://www.seriouseats.com/">Serious Eats</a> og <a href="https://www.valdemarsro.dk/">Valdemarsro</a>.</footer>`;
+const foot = `<footer class="site-footer">Opskrifterne er korte sammendrag skrevet med egne ord. Linkene peger på de fulde opskrifter (eller tæt beslægtede) hos <a href="https://www.seriouseats.com/">Serious Eats</a> og <a href="https://www.valdemarsro.dk/">Valdemarsro</a>.</footer>`;
 
 // ---------- build ----------
 function build() {
