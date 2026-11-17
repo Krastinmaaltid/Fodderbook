@@ -788,21 +788,19 @@
     "hue": 190,
     "desc": "Ovnstegt laks med en silkeblød løgsauce (soubise), skarp grøn purløgsolie, smørstegte kartofler, grillede asparges og cæsarsalat.",
     "ing": [
-      "4 stykker laks",
-      "3 løg",
-      "100 ml fløde",
-      "smør",
-      "1 bundt purløg",
-      "100 ml neutral olie",
-      "600 g kartofler",
-      "grønne asparges",
-      "romainesalat og parmesan"
+      "4 stykker laks (à ca. 150 g)",
+      "Soubise: 3 store løg i tynde skiver, 50 g smør, 1 dl fløde, 1 dl hønsebouillon",
+      "Purløgsolie: 1 stort bundt purløg, 1 dl neutral olie, lidt salt",
+      "600 g nye kartofler, smør til stegning",
+      "1 bundt grønne asparges",
+      "Cæsarsalat: 1 romainesalat, parmesan, croutoner, cæsardressing"
     ],
     "steps": [
-      "Kog løg møre i smør og fløde, blend til glat soubise.",
-      "Blend purløg med varm olie og sigt.",
-      "Steg kartofler i smør, grill asparges, bag laks.",
-      "Anret med saucerne og server med cæsarsalat."
+      "Soubise: svits løgene meget langsomt i smør under låg i ca. 30 minutter, uden at de får farve. Tilsæt bouillon og fløde, kog 10 minutter og blend til en silkeblød sauce. Si evt.",
+      "Purløgsolie: blend purløg og olie i 1-2 minutter, til olien er grøn. Si gennem et fint klæde og smag til med salt.",
+      "Kog kartoflerne, halver dem og steg dem gyldne i smør.",
+      "Bag laksen ved 180 grader i 10-12 minutter, til den lige er gennemstegt. Grill aspargesene 4-5 minutter.",
+      "Anret laks på soubise, dryp purløgsolien rundt og server med kartofler, asparges og cæsarsalat."
     ],
     "src": "https://www.youtube.com/watch?v=xniS7kMpW4I;se:sauce soubise"
   },
@@ -815,19 +813,16 @@
     "hue": 355,
     "desc": "Japansk aften med sprød karaage-kylling, risskål med okse (gyudon) og cremet kartoffelsalat med Kewpie-mayo.",
     "ing": [
-      "kyllingelår",
-      "sojasauce, ingefær, hvidløg",
-      "kartoffelstivelse",
-      "olie til friturestegning",
-      "tyndt skåret okse",
-      "ris",
-      "kartofler og agurk",
-      "japansk mayo"
+      "Karaage: 600 g kyllingelår uden ben, 3 spsk sojasauce, 1 spsk mirin, 2 cm ingefær og 2 fed hvidløg, revet, 5 spsk kartoffelstivelse, olie til friturestegning",
+      "Gyudon: 300 g tyndt skåret oksekød, 2 løg, 3 dl dashi, 4 spsk soja, 2 spsk mirin, 1 spsk sukker, ris, 4 æg",
+      "Kartoffelsalat: 600 g kartofler, 1 agurk, 1 gulerod, 4 spsk japansk mayo, 1 spsk riseddike"
     ],
     "steps": [
-      "Mariner kylling i soja, ingefær og hvidløg, vend i stivelse og fritér gylden.",
-      "Lav gyudon som beskrevet i den tidligere ret.",
-      "Kog kartofler og lav salat med mayo og agurk."
+      "Mariner kyllingen i soja, mirin, ingefær og hvidløg i mindst 20 minutter.",
+      "Kartoffelsalat: kog og mos kartoflerne groft, vend med eddike, tynde agurke- og gulerodsskiver og mayo. Køl ned.",
+      "Vend kyllingen i stivelse og fritér ved 170 grader i 5-6 minutter, til den er gylden og sprød.",
+      "Gyudon: simr dashi, soja, mirin og sukker med løg i 8 minutter, tilsæt oksekød og kog 2-3 minutter.",
+      "Server oksen over ris med blødt æg, og karaage og kartoffelsalat ved siden af."
     ],
     "src": "https://www.delicious.com.au/recipes/japanese-garage-chicken/SBdUaLei"
   },
@@ -840,21 +835,20 @@
     "hue": 32,
     "desc": "Uformel sommermiddag med grillede pølser, ovnbagte kartofler, creme coleslaw, græsk salat og pita med tun.",
     "ing": [
-      "pølser",
-      "4 bagekartofler",
-      "1/2 hvidkål",
-      "2 gulerødder",
-      "mayo og yoghurt",
-      "tomat, agurk og feta",
-      "pita og tunsalat"
+      "8 pølser",
+      "4 store bagekartofler",
+      "Coleslaw: 1/2 lille hvidkål, 3 gulerødder, 1 dl mayo, 1 dl creme fraiche, 1 spsk dijonsennep, 1 spsk æblecidereddike, 1 tsk sukker",
+      "Græsk salat: 4 tomater, 1 agurk, 1 rødløg, 150 g feta, oliven, olivenolie, oregano",
+      "4 pitabrød med tunsalat (1 dåse tun, 2 spsk mayo, 1 spsk creme fraiche, citron)"
     ],
     "steps": [
-      "Bag kartofler 1 time ved 200 grader.",
-      "Riv kål og gulerødder og vend med mayo, yoghurt og citron.",
-      "Hak græsk salat og grill pølser.",
-      "Fyld pita med tunsalat."
+      "Prik kartoflerne, gnid dem ind i olie og salt, og bag ved 200 grader i 60-70 minutter.",
+      "Hvidkål i meget tynde strimler, riv gulerødder, og vend med dressingen. Lad coleslawen trække mindst 1 time i køleskabet.",
+      "Hak tomat, agurk og rødløg groft, og top med feta, oliven, olivenolie og oregano.",
+      "Bland tun med mayo, creme fraiche og citron til en tunsalat og fyld i pita.",
+      "Grill eller steg pølserne og server alt sammen."
     ],
-    "src": "vr:coleslaw;vr:græsk salat"
+    "src": "https://www.valdemarsro.dk/coleslaw/;https://www.valdemarsro.dk/graesk-salat/"
   },
   {
     "title": "Kold sobasalat med grønkål, avocado og miso-sesamdressing",
@@ -866,18 +860,20 @@
     "desc": "Kolde sobanudler med massage-grønkål, avocado og en nøddeagtig miso-sesamdressing.",
     "ing": [
       "250 g sobanudler",
-      "grønkål",
+      "1/2 bundt grønkål uden stilk",
       "1 avocado",
-      "2 spsk miso",
-      "2 spsk sesampasta",
-      "riseddike",
-      "sesamfrø"
+      "2 spsk hvid miso",
+      "2 spsk sesampasta (tahini)",
+      "2 spsk riseddike",
+      "1 spsk sojasauce",
+      "1 tsk honning",
+      "sesamfrø og forårsløg"
     ],
     "steps": [
-      "Kog nudler, skyl i koldt vand.",
-      "Masser grønkål med lidt salt.",
-      "Rør dressing af miso, sesampasta og eddike.",
-      "Vend det hele sammen."
+      "Kog sobanudlerne efter pakken, skyl dem grundigt i koldt vand, og dræn.",
+      "Skær grønkålen i fine strimler og masser den 1-2 minutter med lidt salt og olie, til den bliver mørk og blød.",
+      "Rør miso, sesampasta, eddike, soja og honning sammen med 2-3 spsk vand til en glat dressing.",
+      "Vend nudler, kål og dressing sammen og top med avocadoskiver, sesam og forårsløg."
     ],
     "src": "https://www.seriouseats.com/cold-kale-salad-soba-noodle-sesame-dressing-recipe"
   },
@@ -891,17 +887,20 @@
     "desc": "Let sobasalat med havsalat, tynde agurkestrimler og asparges i en let dressing.",
     "ing": [
       "250 g sobanudler",
-      "tørret tang (wakame)",
+      "10 g tørret wakame-tang",
       "1 agurk",
-      "grønne asparges",
-      "sojasauce",
-      "riseddike",
-      "sesamolie"
+      "1 bundt grønne asparges",
+      "2 spsk sojasauce",
+      "2 spsk riseddike",
+      "1 tsk sesamolie",
+      "1 tsk sukker",
+      "sesamfrø"
     ],
     "steps": [
-      "Udblød tang og kog nudler.",
-      "Blancher asparges og skær i stykker.",
-      "Vend alt med dressing af soja, eddike og sesamolie."
+      "Udblød tangen i koldt vand i 10 minutter, og pres vandet fra.",
+      "Kog nudlerne efter pakken, skyl i koldt vand og dræn. Blancher aspargesene i kogende vand i 2 minutter og skær dem i stykker.",
+      "Skær agurk i tynde strimler.",
+      "Rør soja, eddike, sesamolie og sukker til dressing og vend alt sammen. Drys med sesam."
     ],
     "src": "https://www.seriouseats.com/soba-pasta-salad-seaweed-cucumber-asparagus-recipe"
   },
@@ -914,21 +913,23 @@
     "hue": 28,
     "desc": "Sprødt ristet brød med sauterede svampe i fløde og timian. Luksus-toast på ti minutter.",
     "ing": [
-      "4 skiver landbrød",
-      "300 g blandede svampe",
+      "4 skiver landbrød eller surdejsbrød",
+      "400 g blandede svampe",
+      "1 løg",
       "2 fed hvidløg",
-      "smør",
-      "100 ml fløde",
-      "timian",
-      "1 æg per portion (valgfrit)"
+      "2 tsk frisk timian",
+      "2 dl piskefløde",
+      "2 spsk smør",
+      "persille og evt. 4 spejlæg"
     ],
     "steps": [
-      "Rist brødet.",
-      "Steg svampene i smør, tilsæt hvidløg og timian.",
-      "Hæld fløde i og kog lidt ind.",
-      "Server oven på toasten."
+      "Rist brødet i brødristeren eller på en tør pande.",
+      "Steg svampene ved høj varme i smør uden at røre for ofte, til de er gyldne og har fået en stegeskorpe.",
+      "Tilsæt hakket løg, hvidløg og timian, og svits 2 minutter.",
+      "Hæld fløde i og kog ind i 3-4 minutter, til saucen er cremet.",
+      "Anret på toasten med persille og evt. et spejlæg."
     ],
-    "src": "vr:svampetoast;se:mushroom toast"
+    "src": "https://www.valdemarsro.dk/svampe-i-flode/"
   },
   {
     "title": "Blåbærsalat",
@@ -939,19 +940,20 @@
     "hue": 248,
     "desc": "Sommersalat med blåbær, feta, blandet salat og balsamico. Sød, syrlig og salt i ét.",
     "ing": [
-      "blandet salat",
+      "125 g blandet salat eller rucola",
       "150 g blåbær",
       "100 g feta",
-      "rødløg",
-      "valnødder",
-      "balsamico og olivenolie"
+      "1/2 rødløg",
+      "50 g valnødder",
+      "Dressing: 3 spsk olivenolie, 1 spsk balsamico, 1 tsk honning, salt og peber"
     ],
     "steps": [
-      "Kom salat, blåbær og tyndt skåret rødløg i en skål.",
-      "Drys med feta og nødder.",
-      "Dryp med balsamico og olie."
+      "Ryst dressingen sammen i et syltetøjsglas.",
+      "Læg salat, tynde ringe af rødløg og blåbær i en skål.",
+      "Smuldr feta og grovhakkede valnødder ovenpå.",
+      "Dryp dressing over lige før servering."
     ],
-    "src": "se:blueberry salad;vr:blåbærsalat"
+    "src": "https://www.valdemarsro.dk/grillet-fersken-salat/"
   },
   {
     "title": "Toscansk tomatsuppe",
@@ -962,21 +964,23 @@
     "hue": 5,
     "desc": "Rustik tomatsuppe med brød, hvidløg og basilikum, tyk og mættende.",
     "ing": [
-      "800 g flåede tomater",
-      "2 fed hvidløg",
+      "2 dåser flåede tomater (à 400 g)",
       "1 løg",
-      "bouillon",
-      "2 skiver gammelt brød",
-      "basilikum",
-      "olivenolie",
-      "parmesan"
+      "3 fed hvidløg",
+      "3 spsk olivenolie",
+      "6 dl bouillon",
+      "2 store skiver gammelt landbrød",
+      "en god håndfuld basilikum",
+      "parmesan",
+      "salt og peber"
     ],
     "steps": [
-      "Svits løg og hvidløg i olie.",
-      "Tilsæt tomater, bouillon og brød og simr 25 minutter.",
-      "Mos let og afslut med basilikum og parmesan."
+      "Svits løg og hvidløg i olivenolie i 5 minutter.",
+      "Tilsæt tomater, bouillon og brød i stykker, og kog 25 minutter.",
+      "Mos suppen groft med en stavblender, og lad noget brød stå tilbage.",
+      "Smag til med salt, peber og basilikum, og server med parmesan og et stænk olivenolie."
     ],
-    "src": "se:tuscan tomato soup;vr:toscansk tomatsuppe"
+    "src": "https://www.valdemarsro.dk/bagt-tomatsuppe/;se:tuscan tomato soup"
   },
   {
     "title": "Bibimbap",
@@ -987,19 +991,22 @@
     "hue": 25,
     "desc": "Koreansk risskål med farverige grøntsager, kød, spejlæg og pikant gochujang-sauce.",
     "ing": [
-      "ris",
-      "spinat, gulerødder og svampe",
-      "hakket oksekød",
-      "gochujang",
-      "sesamolie og sojasauce",
+      "300 g ris",
+      "300 g hakket oksekød",
+      "2 spsk sojasauce, 1 spsk sukker, 1 tsk sesamolie, 2 fed hvidløg til kødet",
+      "200 g spinat",
+      "2 gulerødder",
+      "200 g svampe",
       "4 æg",
-      "kimchi"
+      "gochujang",
+      "kimchi og sesamfrø"
     ],
     "steps": [
-      "Steg hvert grøntsag hver for sig og krydr med sesamolie.",
-      "Steg kød med soja og sukker.",
-      "Anret ris, grønt, kød og spejlæg.",
-      "Server med gochujang."
+      "Kog risene.",
+      "Steg kødet med soja, sukker, sesamolie og hvidløg, til det er gennemstegt og lidt karamelliseret.",
+      "Svits spinat, julienneskårne gulerødder og svampe hver for sig i lidt olie og krydr med salt og sesamolie.",
+      "Steg 4 spejlæg.",
+      "Anret ris i skåle, læg kød og grøntsager i grupper ovenpå, toppet med æg, gochujang og sesam. Rør det hele sammen, inden du spiser."
     ],
     "src": "https://www.youtube.com/shorts/5eSvGgT74s0;se:bibimbap"
   },
@@ -1013,16 +1020,18 @@
     "desc": "Smørbagt butterdejstærte med saftige tomater og røget feta. Sommer på en tærte.",
     "ing": [
       "1 plade butterdej",
-      "300 g tomater",
-      "150 g røget feta",
       "2 spsk creme fraiche",
-      "timian",
-      "olivenolie"
+      "300 g tomater i skiver",
+      "150 g røget feta",
+      "1 spsk frisk timian",
+      "2 spsk olivenolie",
+      "salt og peber"
     ],
     "steps": [
-      "Pensl dejen med creme fraiche og fordel tomater og feta.",
-      "Drys med timian og olie.",
-      "Bag ved 200 grader i 25 minutter."
+      "Varm ovnen op til 200 grader. Læg butterdejen på en bageplade med bagepapir og prik den med en gaffel, lad en kant på 2 cm stå fri.",
+      "Smør creme fraiche ud i midten og læg tomatskiver ovenpå.",
+      "Smuldr feta og timian over, dryp med olie og krydr.",
+      "Bag i 25 minutter, til dejen er hævet og gylden."
     ],
     "src": "https://www.seriouseats.com/easy-tomato-smoked-feta-tart-recipe"
   },
@@ -1040,14 +1049,16 @@
       "1 avocado",
       "salatblade",
       "2 spsk hvid miso",
-      "riseddike og olie",
+      "2 spsk riseddike",
+      "3 spsk olie",
+      "1 tsk honning",
       "sesamfrø"
     ],
     "steps": [
-      "Grill majs og kylling.",
-      "Skær majs af kolben og kylling i strimler.",
-      "Rør dressing af miso, eddike og olie.",
-      "Vend alt sammen med avocado."
+      "Grill majskolberne i 10-12 minutter, til de er gyldne og lidt svedne. Skær kernerne af kolben.",
+      "Steg eller grill kyllingen 5-6 minutter på hver side. Lad den hvile og skær i strimler.",
+      "Rør miso, eddike, olie, honning og lidt vand til en dressing.",
+      "Vend salat, majs, kylling og avocado med dressingen og drys med sesam."
     ],
     "src": "https://www.seriouseats.com/chicken-salad-miso-corn-avocado-recipe"
   },
@@ -1060,21 +1071,24 @@
     "hue": 8,
     "desc": "Varm og sur thailandsk suppe med citrongræs, galangal, lime og rejer.",
     "ing": [
-      "1 l bouillon",
+      "1 l grøntsags- eller kyllingebouillon",
       "2 stilke citrongræs",
-      "galangal eller ingefær",
-      "limeblade",
-      "champignon",
-      "rejer",
-      "fiskesauce og lime",
-      "chilipasta"
+      "3 cm galangal eller ingefær",
+      "4 limeblade",
+      "1 spsk tom yum-pasta",
+      "200 g svampe",
+      "200 g rejer",
+      "2 spsk fiskesauce",
+      "saft af 1-2 lime",
+      "koriander og frisk chili"
     ],
     "steps": [
-      "Simr bouillon med citrongræs, galangal og limeblade.",
-      "Tilsæt svampe og rejer.",
-      "Smag til med fiskesauce, lime og chili."
+      "Bring bouillon, bankede stilke citrongræs, galangal og limeblade i kog og simr 10 minutter.",
+      "Rør tom yum-pasta ud i suppen og tilsæt skårne svampe. Kog 5 minutter.",
+      "Tilsæt rejer og kog 2-3 minutter, til de er lyserøde.",
+      "Smag til med fiskesauce og limesaft, og server med koriander og chili."
     ],
-    "src": "se:tom yum soup;vr:tom yum"
+    "src": "https://www.valdemarsro.dk/tom-yum-suppe/"
   },
   {
     "title": "Mortadella-sando",
@@ -1085,16 +1099,19 @@
     "hue": 15,
     "desc": "Tykt skåret mortadella på blødt brød med pistacie-mayo og syltede grøntsager.",
     "ing": [
-      "ciabatta eller focaccia",
-      "150 g mortadella",
-      "burrata eller mozzarella",
-      "pistacienødder",
-      "mayo",
-      "syltede peberfrugter"
+      "4 bløde sandwichbrød eller focaccia",
+      "200 g mortadella i tykke skiver",
+      "1 kugle burrata eller mozzarella",
+      "50 g pistacienødder",
+      "3 spsk mayo",
+      "syltede peberfrugter eller pepperoncini",
+      "olivenolie"
     ],
     "steps": [
-      "Hak pistacier og rør med mayo.",
-      "Smør på brød, fyld med mortadella, ost og pickles."
+      "Hak pistacierne fint og bland halvdelen med mayo.",
+      "Smør mayo på begge sider af brødet.",
+      "Fyld med mortadella i folder, ost og pickles, og drys med resten af pistacierne.",
+      "Pres sammen, skær over og server straks."
     ],
     "src": "se:mortadella sandwich"
   },
@@ -1108,19 +1125,22 @@
     "desc": "Klassiske danske frikadeller med smørdampede nye kartofler og agurkesalat.",
     "ing": [
       "500 g hakket svine- og kalvekød",
-      "1 løg",
+      "1 løg, revet",
       "1 æg",
-      "mel og mælk",
-      "smør",
-      "nye kartofler",
-      "agurk og eddike"
+      "3 spsk hvedemel",
+      "1 dl mælk",
+      "1 tsk salt, peber",
+      "smør og olie til stegning",
+      "800 g nye kartofler",
+      "Agurkesalat: 1 agurk, 1 dl eddike, 1 dl vand, 2 spsk sukker"
     ],
     "steps": [
-      "Rør farsen med revet løg, æg, mel, mælk, salt og peber.",
-      "Form frikadeller og steg dem i smør 10-12 minutter.",
-      "Kog kartoflerne og server."
+      "Rør farsen med revet løg, æg, mel, mælk, salt og peber. Lad den hvile mindst 30 minutter i køleskabet.",
+      "Form frikadeller med en våd ske og steg dem i smør og olie ved middelvarme i ca. 5 minutter på hver side.",
+      "Skær agurk tyndt og læg i lage af eddike, vand og sukker.",
+      "Kog kartoflerne og vend dem med smør og persille. Server alt sammen."
     ],
-    "src": "vr:frikadeller"
+    "src": "https://www.valdemarsro.dk/frikadeller/"
   },
   {
     "title": "Spaghetti bolognese",
@@ -1132,20 +1152,24 @@
     "desc": "Rigtig bolognese: tyk, langtidssimret kødsauce, serveret over spaghetti med revet parmesan.",
     "ing": [
       "500 g hakket oksekød",
-      "1 løg, 2 gulerødder, 2 fed hvidløg",
+      "50 g bacon i tern",
+      "2 løg, 2 gulerødder, 3 fed hvidløg",
       "2 spsk tomatpuré",
-      "400 g flåede tomater",
-      "100 ml rødvin",
-      "spaghetti",
+      "1 dl rødvin",
+      "400 g hakkede tomater",
+      "2 dl bouillon",
+      "1 tsk timian",
+      "350 g spaghetti",
       "parmesan"
     ],
     "steps": [
-      "Brun kødet og svits grøntsagerne.",
-      "Tilsæt puré, vin og tomater.",
-      "Simr under låg i mindst en time.",
-      "Kog pasta og server."
+      "Steg bacon og kød i en gryde, til det er godt brunet.",
+      "Tilsæt hakkede løg, gulerødder og hvidløg og svits 5 minutter. Rør tomatpuré i.",
+      "Hæld vin i og lad den koge ind. Tilsæt tomater, bouillon og timian.",
+      "Lad saucen simre under låg ved lav varme i mindst 1 time.",
+      "Kog spaghetti, vend med saucen og server med parmesan."
     ],
-    "src": "vr:bolognese;se:bolognese sauce"
+    "src": "https://www.valdemarsro.dk/spaghetti-bolognese/"
   },
   {
     "title": "Zucchini-basilikumsuppe",
@@ -1156,20 +1180,24 @@
     "hue": 125,
     "desc": "Cremet grøn suppe, der smager af sommer. Hurtig og let.",
     "ing": [
-      "3 zucchini",
+      "1 kg zucchini i tern",
       "1 løg",
+      "2 fed hvidløg",
       "1 kartoffel",
-      "bouillon",
-      "stor håndfuld basilikum",
-      "fløde",
-      "parmesan"
+      "7 dl grøntsagsbouillon",
+      "en stor håndfuld basilikum",
+      "1 dl fløde",
+      "2 spsk olivenolie",
+      "salt og peber",
+      "parmesan til servering"
     ],
     "steps": [
-      "Svits løg, zucchini og kartoffel.",
-      "Kog møre i bouillon.",
-      "Blend med basilikum og fløde."
+      "Svits løg og hvidløg i olie. Tilsæt zucchini og kartoffel i tern og svits 5 minutter.",
+      "Hæld bouillon i og kog 15 minutter, til grøntsagerne er møre.",
+      "Tilsæt basilikum og blend til en glat suppe. Rør fløde i og smag til.",
+      "Server med parmesan og lidt olivenolie."
     ],
-    "src": "vr:zucchinisuppe basilikum"
+    "src": "https://www.valdemarsro.dk/squashsuppe/"
   },
   {
     "title": "BLT-sandwich",
@@ -1181,15 +1209,17 @@
     "desc": "Sprød bacon, salat og tomat på ristet brød med mayo. Så enkel, så god.",
     "ing": [
       "8 skiver bacon",
-      "4 skiver brød",
-      "salat",
-      "2 tomater",
-      "mayo"
+      "8 skiver brød",
+      "1 hovedsalat",
+      "2 modne tomater",
+      "4 spsk mayo",
+      "1 tsk citronsaft",
+      "salt og peber"
     ],
     "steps": [
-      "Steg baconen sprød.",
-      "Rist brødet og smør med mayo.",
-      "Byg med salat, tomat og bacon."
+      "Steg baconen sprød i panden eller ovnen (200 grader i 15 minutter).",
+      "Rist brødet og smør med mayo blandet med citronsaft.",
+      "Byg med salat, tomatskiver (drys med salt), og bacon, og slut med endnu en skive brød. Skær over."
     ],
     "src": "se:BLT sandwich"
   },
@@ -1202,20 +1232,17 @@
     "hue": 20,
     "desc": "Klassisk sommerdessert med fersken, hindbærsauce og vaniljeis. Til at drikke: frisk limonade.",
     "ing": [
-      "4 ferskner",
-      "200 g hindbær",
-      "sukker",
-      "vaniljeis",
-      "citroner",
-      "mynte"
+      "Peach melba: 4 modne ferskner, 200 g hindbær, 3 spsk sukker, 1 spsk citronsaft, vaniljeis",
+      "Limonade: 5 økologiske citroner, 100 g sukker, 1 dl vand, koldt vand og isterninger, mynte"
     ],
     "steps": [
-      "Blancher ferskner og pil dem.",
-      "Kog hindbær med sukker og sigt til sauce.",
-      "Server med is.",
-      "Limonade: pres citroner, bland med sukker og vand."
+      "Hæld kogende vand over fersknerne, lad dem stå 1 minut og skræl dem. Halver og fjern stenen.",
+      "Kog hindbær, sukker og citronsaft i 5 minutter og sigt saucen.",
+      "Anret ferskner med vaniljeis og hindbærsauce.",
+      "Limonade: kog sukker og 1 dl vand til sirup, tag af varmen og rør saften af citronerne i.",
+      "Fortynd med koldt vand og is efter smag og pynt med mynte."
     ],
-    "src": "vr:peach melba;vr:limonade"
+    "src": "https://www.valdemarsro.dk/hjemmelavet-lemonade/"
   },
   {
     "title": "Forårsruller og grøntsagswok",
@@ -1226,20 +1253,23 @@
     "hue": 130,
     "desc": "Hjemmelavede sprøde forårsruller med en hurtig grøntsagswok ved siden af.",
     "ing": [
-      "forårsrullepap",
-      "hvidkål, gulerødder og svampe",
-      "glasnudler",
-      "sojasauce",
-      "hvidløg og ingefær",
-      "olie til stegning"
+      "12 forårsrullepap",
+      "1/4 hvidkål, 2 gulerødder, 200 g champignon",
+      "50 g glasnudler",
+      "2 fed hvidløg, 2 cm ingefær",
+      "3 spsk sojasauce",
+      "olie til stegning",
+      "sød chilisauce til dip",
+      "Wok: broccoli, peberfrugt, pak choi, sojasauce"
     ],
     "steps": [
-      "Svits grøntsagerne og bland med nudler og soja.",
-      "Rul i pap og luk.",
-      "Steg gyldne.",
-      "Server med sød chilisauce."
+      "Udblød glasnudlerne efter pakken og klip dem i stykker.",
+      "Svits hvidløg, ingefær og strimlede grøntsager et par minutter og smag til med soja. Bland med nudlerne og lad fyldet køle af.",
+      "Fyld en klat i hvert rullepap, fold siderne ind og rul stramt. Luk med lidt vand.",
+      "Steg i olie ved middelvarme til de er gyldne og sprøde, eller bag ved 220 grader i ca. 20 minutter.",
+      "Wok de øvrige grøntsager med soja og server med rullerne og sød chilisauce."
     ],
-    "src": "vr:forårsruller;se:spring rolls"
+    "src": "https://www.valdemarsro.dk/sproede-foraarsruller/"
   },
   {
     "title": "Hjemmelavet instant noodles",
@@ -1250,17 +1280,20 @@
     "hue": 40,
     "desc": "Nudler med dit eget krydderi. Billigere og bedre end poseudgaven.",
     "ing": [
-      "nudler",
-      "bouillon",
-      "sojasauce",
-      "chiliolie",
-      "forårsløg",
-      "æg"
+      "200 g nudler (fx ramen eller hvedenudler)",
+      "7 dl bouillon",
+      "2 spsk sojasauce",
+      "1 tsk sesamolie",
+      "1 tsk chiliolie",
+      "2 æg",
+      "2 forårsløg",
+      "en håndfuld spinat"
     ],
     "steps": [
-      "Kog nudler.",
-      "Lav bouillon med soja og chiliolie.",
-      "Server med æg og løg."
+      "Kog æggene i 6-7 minutter, afkøl og pil dem.",
+      "Varm bouillon med soja og sesamolie.",
+      "Kog nudlerne i separat vand, til de er møre, og kom dem i skåle.",
+      "Hæld bouillon over, tilsæt spinat, halverede æg og forårsløg, og dryp med chiliolie."
     ],
     "src": "se:instant noodles homemade"
   },
@@ -1273,21 +1306,21 @@
     "hue": 170,
     "desc": "Sprøde fiskestykker i bløde tortillas med syrligt rødløg og cremet avocado.",
     "ing": [
-      "500 g torsk",
-      "mel og krydderi",
-      "tortillas",
-      "1 rødløg",
-      "2 avocadoer",
-      "lime",
-      "tomater, løg og koriander"
+      "500 g torskefilet i strimler",
+      "1 dl mel, 1 tsk paprika, 1 tsk spidskommen",
+      "8 små tortillas",
+      "Syltede rødløg: 1 rødløg, 1 dl eddike, 1 dl vand, 1 spsk sukker, 1 tsk salt",
+      "Avocadocreme: 2 avocadoer, saft af 1 lime, 1 dl creme fraiche",
+      "Pico de gallo: 3 tomater, 1/2 rødløg, koriander, saft af 1 lime, jalapeño"
     ],
     "steps": [
-      "Syltede rødløg: læg i eddike, sukker og salt.",
-      "Pico de gallo: hak tomat, løg og koriander.",
-      "Mos avocado med lime.",
-      "Steg fisk sprød og fyld tacos."
+      "Skær rødløg i tynde ringe og hæld varm lage af eddike, vand, sukker og salt over. Lad stå mindst 30 minutter.",
+      "Hak tomat, løg, koriander og chili til pico de gallo og vend med limesaft.",
+      "Mos avocado med limesaft og creme fraiche til en cremet sauce.",
+      "Vend fisken i mel og krydderier og steg i olie 2-3 minutter på hver side.",
+      "Varm tortillaerne og saml med fisk, avocadocreme, pico de gallo og syltet løg."
     ],
-    "src": "se:fish tacos;vr:fisketacos"
+    "src": "https://www.valdemarsro.dk/tacos-med-torsk/;se:fish tacos"
   },
   {
     "title": "Ramen",
@@ -1298,18 +1331,23 @@
     "hue": 18,
     "desc": "Dyb, rig ramen med langtidskogt bouillon, nudler og æg.",
     "ing": [
-      "1,5 l bouillon",
-      "hvidløg, ingefær",
-      "miso eller soja",
-      "ramennudler",
-      "æg",
-      "nori",
-      "forårsløg"
+      "1,5 l kyllingebouillon",
+      "3 cm ingefær",
+      "3 fed hvidløg",
+      "3 spsk miso eller sojasauce",
+      "1 spsk mirin",
+      "4 portioner ramennudler",
+      "4 æg",
+      "200 g svampe",
+      "2 forårsløg",
+      "nori og majs"
     ],
     "steps": [
-      "Simr bouillon med aromater.",
-      "Smag til med miso eller soja.",
-      "Kog nudler og æg og anret."
+      "Simr bouillon med ingefær og hvidløg i 20 minutter og si. Rør miso eller soja og mirin i.",
+      "Kog æggene i 6,5 minutter, afkøl og pil dem.",
+      "Svits svampene kort i en pande med lidt olie.",
+      "Kog nudlerne efter pakken og fordel dem i skåle.",
+      "Hæld bouillon over og top med halverede æg, svampe, forårsløg, nori og majs."
     ],
     "src": "se:ramen;vr:ramen"
   },
@@ -1322,21 +1360,21 @@
     "hue": 45,
     "desc": "Sprød chimichanga med frisk, sød mangosalsa. Hjemmelavede pølsebrød for en gangs skyld.",
     "ing": [
-      "tortillas",
-      "hakket kød eller bønner",
-      "ost",
-      "1 mango",
-      "rødløg",
-      "lime",
-      "koriander",
-      "jalapeño"
+      "4 store tortillas",
+      "400 g hakket oksekød",
+      "1 tsk spidskommen, 1 tsk paprika",
+      "200 g kogte sorte bønner",
+      "100 g revet ost",
+      "olie til stegning",
+      "Mangosalsa: 1 moden mango, 1/2 rødløg, saft af 1 lime, koriander, 1/2 jalapeño"
     ],
     "steps": [
-      "Bland fyld, rul i tortillas og luk.",
-      "Steg gyldne.",
-      "Hak mango, løg og chili til salsa."
+      "Steg kødet med krydderier. Bland med bønner og ost.",
+      "Fyld i tortillaerne, fold siderne ind og rul stramt.",
+      "Steg chimichangaerne i olie ved middelvarme 2-3 minutter på hver side, til de er gyldne og sprøde.",
+      "Hak mango, løg og chili og vend med limesaft og koriander. Server ved siden af."
     ],
-    "src": "se:chimichanga;vr:mangosalsa"
+    "src": "https://www.valdemarsro.dk/burritos-med-oksekoed/"
   },
   {
     "title": "Burger",
@@ -1347,19 +1385,21 @@
     "hue": 8,
     "desc": "Saftig hjemmelavet burger med ost, syltede agurker og hjemmerørt sauce.",
     "ing": [
-      "600 g hakket okse",
-      "burgerboller",
-      "cheddar",
-      "salat, tomat, løg",
+      "600 g hakket oksekød",
+      "4 burgerboller",
+      "4 skiver cheddar",
+      "salat, tomat og rødløg",
       "syltede agurker",
-      "mayo og ketchup"
+      "Sauce: 3 spsk mayo, 1 spsk ketchup, 1 tsk sennep, 1 spsk hakkede agurker",
+      "smør"
     ],
     "steps": [
-      "Form bøffer og steg dem.",
-      "Rist bollerne.",
-      "Byg burgeren."
+      "Rør saucen sammen.",
+      "Form 4 bøffer og krydr med salt og peber lige før stegning.",
+      "Steg bøfferne 3-4 minutter på hver side, og læg osten på til sidst.",
+      "Rist bollerne i smør og saml burgerne med sauce, salat, tomat, løg og agurk."
     ],
-    "src": "se:burger;vr:burger"
+    "src": "https://www.valdemarsro.dk/hjemmelavede-burgere/"
   },
   {
     "title": "Pita med syltet citronkylling, fries med chilimayo",
@@ -1370,19 +1410,21 @@
     "hue": 52,
     "desc": "Kylling marineret i syltet citron fra Ottolenghi, i pita med pommes frites og chilimayo.",
     "ing": [
-      "kyllingelår",
-      "syltet citron",
-      "hvidløg",
-      "pita",
-      "pommes frites",
-      "mayo og sriracha",
-      "agurk og salat"
+      "600 g kyllingelår uden ben",
+      "2 syltede citroner (skal og kød)",
+      "3 fed hvidløg",
+      "2 spsk olivenolie",
+      "4 pitabrød",
+      "agurk, salat og rødløg",
+      "800 g kartofler til pommes frites",
+      "Chilimayo: 1,5 dl mayo, 1-2 spsk sriracha, 1 tsk citronsaft"
     ],
     "steps": [
-      "Mariner kylling i hakket syltet citron.",
-      "Steg eller bag.",
+      "Hak den syltede citron fint og bland med hvidløg og olie. Mariner kyllingen mindst 1 time.",
+      "Skær kartoflerne i strimler, vend med olie og salt og bag ved 220 grader i 30-35 minutter.",
+      "Steg eller bag kyllingen til den er gennemstegt og gylden, og skær den i strimler.",
       "Rør chilimayo.",
-      "Server i pita med frites."
+      "Fyld pitabrødene med kylling, grønt og dressing og server med pommes frites."
     ],
     "src": "se:preserved lemon chicken;vr:pita kylling"
   },
@@ -1395,18 +1437,19 @@
     "hue": 38,
     "desc": "Hvid pizza med mozzarella, gorgonzola, parmesan og fontina.",
     "ing": [
-      "pizzadej",
-      "mozzarella",
-      "gorgonzola",
-      "parmesan",
-      "fontina",
-      "olivenolie",
-      "honning"
+      "1 portion pizzadej (ca. 500 g mel)",
+      "125 g mozzarella",
+      "75 g gorgonzola",
+      "50 g parmesan",
+      "75 g fontina eller gruyère",
+      "1 spsk olivenolie",
+      "honning og friske timiankviste"
     ],
     "steps": [
-      "Rul dejen ud.",
-      "Fordel ostene og bag ved højeste varme.",
-      "Dryp med honning."
+      "Varm ovnen op til den højeste temperatur (250-275 grader) med en bageplade eller pizzasten indeni.",
+      "Rul dejen ud, pensl med olivenolie og fordel de fire oste.",
+      "Bag i 8-10 minutter, til kanten er gylden og osten boblende.",
+      "Dryp med honning og drys med timian."
     ],
     "src": "se:four cheese pizza;vr:pizza"
   },
@@ -1419,16 +1462,21 @@
     "hue": 85,
     "desc": "Saftig ovnstegt kylling i peruviansk marinade med grøn aji-sauce.",
     "ing": [
-      "1 hel kylling",
-      "spidskommen, paprika, hvidløg",
-      "lime",
-      "sojasauce",
-      "koriander, jalapeño og mayo til sauce"
+      "1 hel kylling (ca. 1,5 kg)",
+      "6 fed hvidløg",
+      "2 spsk sojasauce",
+      "2 spsk olie",
+      "1 spsk spidskommen",
+      "1 spsk paprika",
+      "saft af 2 limefrugter",
+      "1 tsk oregano",
+      "Grøn sauce: 1 bundt koriander, 1 jalapeño, 1 dl mayo, saft af 1 lime, 1 fed hvidløg"
     ],
     "steps": [
-      "Mariner kylling natten over.",
-      "Bag ved 220 grader til sprød.",
-      "Blend sauce af koriander, chili og mayo."
+      "Blend hvidløg, soja, olie, krydderier, lime og oregano til en marinade. Gnid ind i kyllingen og lad den stå i køleskabet natten over.",
+      "Bag kyllingen ved 220 grader i 15 minutter, og skru derefter ned til 190 grader og bag i ca. 50 minutter, til kernen er 75 grader.",
+      "Lad den hvile 10 minutter.",
+      "Blend koriander, jalapeño, mayo, lime og hvidløg til grøn sauce og server med kyllingen."
     ],
     "src": "se:peruvian chicken;vr:peruviansk kylling"
   },
@@ -1441,22 +1489,18 @@
     "hue": 8,
     "desc": "Fransk aften med tomatquiche, grøn salat med vinaigrette og et lille ostebord.",
     "ing": [
-      "mørdej",
-      "4 æg",
-      "200 ml fløde",
-      "tomater",
-      "ost",
-      "dijonsennep",
-      "salat",
-      "udvalg af oste"
+      "Quiche: 1 portion mørdej (200 g mel, 100 g smør, 1 æg), 4 æg, 2 dl fløde, 2 spsk dijonsennep, 400 g tomater, 100 g revet ost, timian",
+      "Fransk salat: grøn salat, 1 spsk dijonsennep, 1 spsk rødvinseddike, 3 spsk olivenolie",
+      "Ostebord: 3-4 slags ost, druer, nødder og baguette"
     ],
     "steps": [
-      "Forbag bunden.",
-      "Fordel sennep og tomater.",
-      "Pisk æg og fløde og hæld i.",
-      "Bag 35 minutter."
+      "Ælt mørdejen, lad den hvile 30 minutter og beklæd en tærteform. Forbag bunden ved 200 grader i 10 minutter.",
+      "Smør sennep på bunden, fordel tomatskiver og ost.",
+      "Pisk æg og fløde sammen med salt, peber og timian og hæld over.",
+      "Bag ved 180 grader i 35 minutter, til fyldet er sat og gyldent.",
+      "Rør vinaigrette og server med salat og ostebord."
     ],
-    "src": "vr:tomatquiche;se:tomato tart"
+    "src": "https://www.valdemarsro.dk/taerte-med-tomat-og-feta/"
   },
   {
     "title": "Kyllingeburgere",
@@ -1467,18 +1511,21 @@
     "hue": 40,
     "desc": "Møre kyllingeburgere. Tricket: kog kyllingen i vand først, så den bliver saftig.",
     "ing": [
-      "kyllingebryst",
-      "burgerboller",
-      "mayo",
+      "4 kyllingebryster",
+      "1 l vand og 1 tsk salt til pochering",
+      "1 dl mel, 2 æg, 2 dl rasp",
+      "4 burgerboller",
       "salat, tomat",
-      "rasp og æg"
+      "3 spsk mayo, 1 tsk sennep",
+      "olie til stegning"
     ],
     "steps": [
-      "Pocher kylling forsigtigt i vand.",
-      "Pane og steg sprød.",
-      "Server i boller med mayo og salat."
+      "Pochér kyllingen i let saltet vand ved svag varme i 12-15 minutter, til den lige er gennemkogt. Det giver saftigt kød.",
+      "Tør kyllingen, og vend den i mel, sammenpisket æg og rasp.",
+      "Steg i olie ved middelvarme, til panéringen er gylden og sprød, ca. 3 minutter på hver side.",
+      "Rist bollerne og saml med mayo, salat og tomat."
     ],
-    "src": "https://www.youtube.com/watch?v=4j9JK05aFqk"
+    "src": "https://www.valdemarsro.dk/kyllingeburger/;https://www.youtube.com/watch?v=4j9JK05aFqk"
   },
   {
     "title": "Bønne- og svampegryde",
@@ -1489,19 +1536,23 @@
     "hue": 25,
     "desc": "Vegetarisk gryde med hvide bønner, svampe og krydderurter, toppet med gylden ostekrone.",
     "ing": [
-      "400 g bønner",
+      "400 g kogte hvide bønner",
       "300 g svampe",
-      "løg og hvidløg",
-      "tomat",
-      "ost",
+      "1 løg",
+      "3 fed hvidløg",
+      "400 g hakkede tomater",
+      "1 tsk timian",
+      "1 spsk tomatpuré",
+      "100 g revet ost",
       "persille"
     ],
     "steps": [
-      "Svits løg og svampe.",
-      "Tilsæt bønner og tomat.",
-      "Top med ost og bag."
+      "Svits løg og hvidløg, tilsæt svampe i skiver og steg, til de er gyldne.",
+      "Rør tomatpuré, tomater og timian i, og simr 10 minutter.",
+      "Vend bønnerne i og kom det hele i et ovnfast fad.",
+      "Drys med ost og bag ved 200 grader i 15-20 minutter, til toppen er gylden. Pynt med persille."
     ],
-    "src": "vr:bønnegryde svampe"
+    "src": "https://www.valdemarsro.dk/boennegryde/"
   },
   {
     "title": "Portobelloburger",
@@ -1512,19 +1563,19 @@
     "hue": 28,
     "desc": "Stor portobellosvamp som bøf i en burgerbolle. Rigtig god vegetarburger.",
     "ing": [
-      "4 portobello",
-      "balsamico og olie",
-      "burgerboller",
-      "ost",
-      "salat, tomat",
-      "mayo"
+      "4 store portobellosvampe",
+      "2 spsk balsamico, 3 spsk olivenolie, 1 fed hvidløg",
+      "4 burgerboller",
+      "4 skiver ost",
+      "salat og tomat",
+      "mayo og sennep"
     ],
     "steps": [
-      "Mariner svampe i balsamico og olie.",
-      "Grill eller steg.",
-      "Byg burger."
+      "Rens svampene og fjern stilkene. Mariner dem i balsamico, olie og hvidløg i 15 minutter.",
+      "Steg eller grill svampene 4-5 minutter på hver side, til de er bløde. Læg ost på til sidst.",
+      "Rist bollerne og byg burgerne med mayo, salat og tomat."
     ],
-    "src": "se:portobello burger;vr:portobelloburger"
+    "src": "https://www.valdemarsro.dk/greasy-portobello-burger-med-boenneboef/"
   },
   {
     "title": "Burrito og chili con carne",
@@ -1535,19 +1586,16 @@
     "hue": 8,
     "desc": "Mættende burritos fyldt med ris, bønner og chili con carne.",
     "ing": [
-      "tortillas",
-      "ris",
-      "hakket kød",
-      "kidneybønner",
-      "chili, spidskommen",
-      "tomat",
-      "ost, creme fraiche"
+      "Chili: 500 g hakket oksekød, 1 løg, 3 fed hvidløg, 1 spsk spidskommen, 1 spsk paprika, 1 tsk chili, 400 g hakkede tomater, 2 spsk tomatpuré, 400 g kidneybønner, 1 dl vand",
+      "Burritos: 4 store tortillas, 3 dl kogte ris, ost, creme fraiche, salat og avocado"
     ],
     "steps": [
-      "Lav chili: brun kød, tilsæt tomat og bønner, simr 40 minutter.",
-      "Fyld tortillas og rul."
+      "Brun kødet og tilsæt løg, hvidløg og krydderier. Svits et par minutter.",
+      "Rør tomatpuré, tomater og vand i og simr under låg i 40 minutter. Tilsæt bønner de sidste 10 minutter.",
+      "Varm tortillaerne og fyld dem med ris, chili, ost, salat og avocado.",
+      "Fold siderne ind og rul stramt. Server med creme fraiche."
     ],
-    "src": "se:chili con carne;vr:chili con carne"
+    "src": "https://www.valdemarsro.dk/chili-con-carne/;https://www.valdemarsro.dk/burritos-med-kylling/"
   },
   {
     "title": "Fransk løgsuppe",
@@ -1558,17 +1606,21 @@
     "hue": 35,
     "desc": "Dybt karamelliserede løg i bouillon, med gratineret ost på ristet brød ovenpå.",
     "ing": [
-      "1 kg løg",
-      "50 g smør",
-      "100 ml hvidvin eller sherry",
+      "1 kg løg i tynde skiver",
+      "50 g smør og 1 spsk olie",
+      "1 tsk sukker",
+      "1 dl hvidvin eller sherry",
       "1,2 l oksebouillon",
-      "baguette",
-      "200 g gruyère"
+      "2 grene timian og 1 laurbærblad",
+      "1 baguette i skiver",
+      "200 g revet gruyère",
+      "salt og peber"
     ],
     "steps": [
-      "Karamellisér løg langsomt i smør i 45 minutter.",
-      "Tilsæt vin og bouillon, simr 30 minutter.",
-      "Hæld i skåle, top med brød og ost og gratiner under grillen."
+      "Smelt smør og olie i en bred gryde og svits løgene ved middel-lav varme i 45-60 minutter, under omrøring, til de er dybt gyldenbrune og karamelliserede. Drys med sukker, salt og peber.",
+      "Hæld vin i og kog ind. Tilsæt bouillon, timian og laurbær og simr 30 minutter.",
+      "Rist baguetteskiverne i ovnen.",
+      "Fordel suppen i ovnfaste skåle, læg brød og ost ovenpå og gratiner under grillen i 3-5 minutter, til osten er gylden og boblende."
     ],
     "src": "https://www.seriouseats.com/french-onion-soup-recipe"
   },
@@ -1581,19 +1633,21 @@
     "hue": 110,
     "desc": "Fuldkornspasta med masser af grønt, kikærter og citronvinaigrette.",
     "ing": [
-      "fuldkornspasta",
-      "kikærter",
-      "agurk, tomat, peberfrugt",
-      "rødløg",
-      "citron og olivenolie",
-      "persille"
+      "250 g fuldkornspasta",
+      "1 dåse kikærter (240 g afdryppet)",
+      "1 agurk",
+      "200 g cherrytomater",
+      "1 rød peberfrugt",
+      "1/2 rødløg",
+      "en håndfuld persille",
+      "Dressing: 4 spsk olivenolie, saft af 1 citron, 1 tsk dijonsennep, salt og peber"
     ],
     "steps": [
-      "Kog pasta og afkøl.",
-      "Skær grønt og bland med kikærterne.",
-      "Vend med citron, olie, salt og peber."
+      "Kog pastaen efter pakken, skyl i koldt vand og dræn.",
+      "Skær agurk, tomater, peberfrugt og rødløg i små tern.",
+      "Rør dressingen og vend alt sammen med kikærter og persille. Lad salaten trække 15 minutter."
     ],
-    "src": "vr:pastasalat"
+    "src": "https://www.valdemarsro.dk/pastasalat/"
   },
   {
     "title": "Brændende kærlighed",
@@ -1605,17 +1659,19 @@
     "desc": "Dansk comfort food: kartoffelmos med sprødt bacon og løg ovenpå.",
     "ing": [
       "1 kg kartofler",
-      "smør og mælk",
-      "200 g bacon",
-      "2 løg",
-      "rødbeder"
+      "50 g smør og 2 dl mælk til mos",
+      "200 g bacon i tern",
+      "2 løg i tern",
+      "1 chili (valgfri)",
+      "syltede rødbeder",
+      "purløg"
     ],
     "steps": [
-      "Kog og mos kartoflerne med smør og mælk.",
-      "Steg bacon og løg sprøde.",
-      "Server mosen med baconen ovenpå og rødbeder ved siden af."
+      "Kog kartoflerne møre, mos dem med smør og varm mælk, og smag til med salt og lidt muskat.",
+      "Steg bacon sprød i en pande. Tilsæt løg (og chili) og steg til de er bløde og gyldne.",
+      "Anret mosen med bacon og løg ovenpå og server med syltede rødbeder og purløg."
     ],
-    "src": "vr:brændende kærlighed"
+    "src": "https://www.valdemarsro.dk/braendende-kaerlighed/"
   },
   {
     "title": "Pasta med chorizo og fløde",
@@ -1627,18 +1683,21 @@
     "desc": "Cremet pasta med røget chorizo, hvidløg og fløde.",
     "ing": [
       "350 g pasta",
-      "150 g chorizo",
+      "150 g chorizo i tern",
+      "1 løg",
       "2 fed hvidløg",
-      "200 ml fløde",
       "1 spsk tomatpuré",
+      "2 dl piskefløde",
+      "50 g parmesan",
       "persille"
     ],
     "steps": [
-      "Steg chorizo, så den afgiver fedt.",
-      "Tilsæt hvidløg, puré og fløde og lad det koge ind.",
-      "Vend kogt pasta i og top med persille."
+      "Kog pastaen al dente og gem 1 dl kogevand.",
+      "Steg chorizo, til den afgiver sit røde fedt. Tilsæt løg og hvidløg og svits 3 minutter.",
+      "Rør tomatpuré og fløde i og lad saucen koge ind i 3-4 minutter.",
+      "Vend pasta og parmesan i med lidt kogevand og drys med persille."
     ],
-    "src": "vr:pasta med chorizo"
+    "src": "https://www.valdemarsro.dk/pasta-med-chorizo-og-svampe/"
   },
   {
     "title": "Porrepandekager med grøn dressing, couscous og grillet courgettesalat",
@@ -1649,18 +1708,18 @@
     "hue": 128,
     "desc": "Saftige porrepandekager med frisk, grøn urtedressing, couscous og grillet courgette.",
     "ing": [
-      "2 porrer",
-      "2 æg, 150 g mel og 3 dl mælk",
-      "200 g couscous",
-      "2 courgetter",
-      "persille, purløg og 150 g yoghurt til dressing",
-      "citron"
+      "Pandekager: 2 porrer, 3 æg, 2 dl mel, 3 dl mælk, smør",
+      "Grøn dressing: 2 dl græsk yoghurt, 1 bundt persille, lidt purløg, 1 fed hvidløg, saft af 1/2 citron",
+      "250 g couscous",
+      "2 courgetter i skiver, olivenolie",
+      "1 citron, mynte"
     ],
     "steps": [
-      "Lav pandekagedej med fintskåret porre og steg små pandekager.",
-      "Grill courgetteskiver og vend med citron og olie.",
-      "Blend urter og yoghurt til dressing.",
-      "Server med couscous."
+      "Pisk æg, mel og mælk til en tynd dej og hvil den 15 minutter. Svits tynde skiver porre i smør og rør i dejen.",
+      "Steg små pandekager i smør, ca. 2 minutter på hver side.",
+      "Blend yoghurt, urter, hvidløg og citron til grøn dressing.",
+      "Grill eller steg courgetteskiverne i olie, til de er møre og har fået farve, og vend med citron og mynte.",
+      "Hæld kogende vand over couscous, lad den trække 5 minutter og pil den op med en gaffel. Server alt sammen."
     ],
     "src": "vr:porrepandekager"
   },
@@ -1673,19 +1732,21 @@
     "hue": 28,
     "desc": "Pizza uden tomatsauce: creme fraiche, mozzarella, svampe og friske tomater.",
     "ing": [
-      "pizzadej",
-      "creme fraiche",
-      "mozzarella",
-      "svampe",
-      "tomat",
-      "hvidløg"
+      "1 portion pizzadej",
+      "2 dl creme fraiche",
+      "2 fed hvidløg, presset",
+      "125 g mozzarella",
+      "200 g champignon i skiver",
+      "2 tomater i skiver",
+      "olivenolie og timian"
     ],
     "steps": [
-      "Rul dej ud og smør med creme fraiche og hvidløg.",
-      "Fordel mozzarella, svampe og tomat.",
-      "Bag ved 250 grader til gyldne."
+      "Varm ovnen op til 250 grader med en bageplade indeni.",
+      "Rul dejen ud og smør med creme fraiche blandet med hvidløg.",
+      "Fordel mozzarella, svampe og tomatskiver og dryp med olie.",
+      "Bag 8-10 minutter, til kanten er gylden. Drys med timian."
     ],
-    "src": "vr:pizza hvid"
+    "src": "https://www.valdemarsro.dk/hvid-pizza-med-kartoffel-og-rosmarin/"
   },
   {
     "title": "Pasta med blistrede cherrytomater",
@@ -1698,15 +1759,17 @@
     "ing": [
       "350 g pasta",
       "500 g cherrytomater",
-      "hvidløg",
-      "olivenolie",
+      "4 fed hvidløg",
+      "4 spsk olivenolie",
+      "1/2 tsk chiliflager",
       "basilikum",
-      "parmesan"
+      "50 g parmesan"
     ],
     "steps": [
-      "Steg tomater og hvidløg i olie til de blistrer.",
-      "Mos let med en ske.",
-      "Vend pasta og basilikum i."
+      "Kog pastaen al dente og gem 1 dl kogevand.",
+      "Varm olie i en bred pande ved høj varme og steg hele tomater, til skindet revner og de blistrer, ca. 5 minutter. Tilsæt hvidløg og chili de sidste 2 minutter.",
+      "Mos tomaterne let med en ske, så de danner en sauce.",
+      "Vend pasta, kogevand, basilikum og parmesan i."
     ],
     "src": "https://www.seriouseats.com/fast-easy-pasta-blistered-cherry-tomato-sauce-recipe"
   },
@@ -1719,18 +1782,22 @@
     "hue": 8,
     "desc": "Tomatsuppe med tre slags ost i grilled cheese-sandwichen.",
     "ing": [
-      "800 g flåede tomater",
+      "2 dåser flåede tomater (à 400 g)",
       "1 løg",
-      "bouillon",
-      "brød",
-      "cheddar, gouda og mozzarella",
+      "2 fed hvidløg",
+      "4 dl bouillon",
+      "1 dl fløde",
+      "8 skiver brød",
+      "50 g cheddar, 50 g gouda og 50 g mozzarella, revet",
       "smør"
     ],
     "steps": [
-      "Kog tomater, løg og bouillon og blend til suppe.",
-      "Fyld brød med de tre oste og steg gyldent i smør."
+      "Svits løg og hvidløg, tilsæt tomater og bouillon og kog 20 minutter. Blend og rør fløde i.",
+      "Bland de tre oste og læg dem mellem brødskiverne.",
+      "Smør brødet udvendigt og steg sandwichene ved middel-lav varme i 3-4 minutter på hver side, til osten er smeltet og brødet gyldent.",
+      "Server med suppen."
     ],
-    "src": "se:grilled cheese;se:tomato soup"
+    "src": "https://www.valdemarsro.dk/bagt-tomatsuppe/;se:grilled cheese"
   },
   {
     "title": "Naan-kebab, shoyu-grøntsager over ris og kyllingesuppe",
@@ -1741,20 +1808,16 @@
     "hue": 35,
     "desc": "En uge med forskellige hverdagsretter: naan-kebab, sojastegte grøntsager på ris og en varm kyllingesuppe.",
     "ing": [
-      "naanbrød",
-      "lammekebab",
-      "yoghurtsauce",
-      "grøntsager",
-      "sojasauce",
-      "ris",
-      "kylling og suppegrønt"
+      "Naan-kebab: 4 naanbrød, 500 g lammefars, 1 tsk spidskommen, 1 tsk koriander, 1 løg, yoghurtsauce, salat og tomat",
+      "Shoyu-grøntsager: 400 g grøntsager (broccoli, gulerod, peberfrugt), 3 spsk sojasauce, 1 tsk sesamolie, 1 tsk sukker, 300 g ris",
+      "Kyllingesuppe: 1 kylling eller 4 lår, 2 gulerødder, 1 porre, 1 selleri, 1 løg, 2 l vand, nudler eller ris"
     ],
     "steps": [
-      "Lav kebab og server i naan.",
-      "Steg grøntsager i soja og server på ris.",
-      "Kog kyllingesuppe af kylling og rodfrugter."
+      "Kebab: ælt fars med revet løg og krydderier, form langs spyd eller små pølser og steg 8-10 minutter. Server i varm naan med salat, tomat og yoghurtsauce.",
+      "Shoyu-grøntsager: wok grøntsagerne i olie og tilsæt soja, sukker og sesamolie. Server over kogte ris.",
+      "Kyllingesuppe: kog kylling med suppegrønt i 1-1,5 time, pil kødet af og si fonden. Kog nudler eller ris i suppen og tilsæt kyllingen igen."
     ],
-    "src": "vr:kyllingesuppe;se:naan kebab"
+    "src": "https://www.valdemarsro.dk/hoensekoedssuppe-med-koedboller/"
   },
   {
     "title": "Bolognese og peanut-chilinudler",
@@ -1765,18 +1828,18 @@
     "hue": 25,
     "desc": "Sommer-bolognese og kolde nudler med peanutsauce og chiliolie.",
     "ing": [
-      "hakket kød og tomat",
-      "nudler",
-      "peanutbutter",
-      "sojasauce",
-      "chiliolie",
-      "forårsløg"
+      "Bolognese: se Spaghetti bolognese (500 g hakket okse, tomater, løg, gulerod)",
+      "Peanutsauce: 3 spsk peanutbutter, 3 spsk sojasauce, 1 spsk riseddike, 1 spsk chiliolie, 1 spsk honning, 1 fed hvidløg, lidt varmt vand",
+      "250 g nudler",
+      "2 forårsløg, 1 agurk og ristede peanuts til pynt"
     ],
     "steps": [
-      "Lav bolognese.",
-      "Rør peanutsauce af peanutbutter, soja og chiliolie, og vend i nudlerne."
+      "Lav bolognesen som beskrevet i Spaghetti bolognese.",
+      "Kog nudlerne efter pakken og skyl dem i koldt vand.",
+      "Rør peanutbutter, soja, eddike, chiliolie, honning og hvidløg sammen og tynd ud med varmt vand.",
+      "Vend nudler og sauce, og top med agurk, forårsløg og peanuts."
     ],
-    "src": "se:chili peanut noodles;vr:bolognese"
+    "src": "https://www.valdemarsro.dk/spaghetti-bolognese/"
   },
   {
     "title": "Gyros med græsk grilltallerken",
@@ -1787,18 +1850,20 @@
     "hue": 52,
     "desc": "Grillet gyros med pita, tzatziki, tomater og pommes frites.",
     "ing": [
-      "svinekød i strimler",
-      "oregano, hvidløg",
-      "pita",
-      "tzatziki",
-      "tomat, løg",
-      "pommes frites"
+      "600 g nakkekotelet i tynde skiver",
+      "3 fed hvidløg, 1 tsk oregano, 1 tsk spidskommen, 1 tsk paprika, 3 spsk olivenolie",
+      "4 pitabrød",
+      "Tzatziki: 1 agurk, 2 dl græsk yoghurt, 1 fed hvidløg",
+      "tomater, rødløg, pommes frites"
     ],
     "steps": [
-      "Mariner kød i oregano og hvidløg og grill.",
-      "Server med tilbehør i pita."
+      "Mariner kødet i hvidløg, krydderier og olie i mindst 2 timer.",
+      "Lav tzatziki af revet, udpresset agurk, yoghurt og hvidløg.",
+      "Steg kødet ved høj varme i omgange 3-4 minutter, til det er gyldent.",
+      "Bag eller friter pommes frites.",
+      "Server kød i pita med tzatziki, tomat og løg, og pommes frites ved siden af."
     ],
-    "src": "se:gyro;vr:gyros"
+    "src": "https://www.valdemarsro.dk/gyros/"
   },
   {
     "title": "Cæsarsalat, bruschetta og salade niçoise",
@@ -1809,13 +1874,14 @@
     "hue": 90,
     "desc": "En sommerbuffet med tre franske og italienske klassikere.",
     "ing": [
-      "romaine og parmesan",
-      "baguette, tomat og basilikum",
-      "tun, æg, bønner og oliven",
-      "dressing"
+      "Cæsar: 2 romainesalater, 50 g parmesan, croutoner, dressing af 1 dl mayo, 1 ansjos, 1 fed hvidløg, citron",
+      "Bruschetta: 1 baguette, 500 g modne tomater, 2 fed hvidløg, basilikum, olivenolie",
+      "Niçoise: 4 æg, 400 g kogte kartofler, 200 g grønne bønner, 1 dåse tun, oliven, tomat, vinaigrette"
     ],
     "steps": [
-      "Lav hver salat for sig og server på fade til deling."
+      "Cæsar: rør dressingen, vend med salat, parmesan og croutoner.",
+      "Bruschetta: rist brødet, gnid med hvidløg, og top med hakkede tomater vendt med olie, basilikum og salt.",
+      "Niçoise: kog æg 8 minutter, blancher bønnerne 3 minutter, og anret kartofler, bønner, tun, æg, tomat og oliven. Dryp med vinaigrette."
     ],
     "src": "se:salade nicoise;se:caesar salad"
   },
@@ -1828,17 +1894,17 @@
     "hue": 45,
     "desc": "Tyske spätzle som underlag for en cremet carbonara, med friske bønner i salat.",
     "ing": [
-      "spätzle",
-      "bacon",
-      "æg og parmesan",
-      "bønner",
-      "persille",
-      "citron"
+      "500 g spätzle (færdige eller hjemmelavede)",
+      "150 g bacon i tern",
+      "3 æggeblommer og 1 helt æg",
+      "50 g parmesan",
+      "Bønnesalat: 400 g grønne bønner, 1/2 rødløg, saft af 1/2 citron, 3 spsk olivenolie, persille"
     ],
     "steps": [
-      "Kog spätzle og vend i stegt bacon.",
-      "Rør æg og ost og vend sammen af varmen.",
-      "Lav bønnesalat med citron."
+      "Kog spätzle efter pakken og dræn.",
+      "Steg bacon sprød.",
+      "Pisk æg og parmesan sammen med peber. Vend varm spätzle og bacon i panden af varmen, og rør ægblandingen i, så den danner en cremet sauce.",
+      "Blancher bønnerne 3-4 minutter og vend med løg, citron, olie og persille."
     ],
     "src": "se:spätzle carbonara"
   },
@@ -1851,17 +1917,15 @@
     "hue": 15,
     "desc": "En uge med to klassikere: burgere og flæskesteg med sprød svær.",
     "ing": [
-      "hakket okse",
-      "boller",
-      "flæskesteg med svær",
-      "kartofler",
-      "brun sovs"
+      "Flæskesteg: 1,5 kg svinekam med svær, laurbærblade, salt, peber, 800 g kartofler, brun sovs",
+      "Burger: 600 g hakket okse, 4 boller, ost, salat, tomat, mayo"
     ],
     "steps": [
-      "Lav burger.",
-      "Flæskesteg: bag i ovnen til sværen bliver sprød."
+      "Flæskesteg: skær sværen, gnid med salt og læg stegen i ovnen ved 200 grader i 30 minutter, skru derefter ned til 160 grader og steg til kernen er 65-68 grader. Grill til sværen er sprød.",
+      "Kog kartofler og lav sovs af fonden.",
+      "Burger: form bøffer, steg 3-4 minutter på hver side og saml med ost og grønt."
     ],
-    "src": "vr:flæskesteg;se:burger"
+    "src": "https://www.valdemarsro.dk/flaeskesteg/;https://www.valdemarsro.dk/hjemmelavede-burgere/"
   },
   {
     "title": "Hvid pizza med tre oste, salsiccia og østershatte",
@@ -1872,17 +1936,18 @@
     "hue": 20,
     "desc": "Hvid pizza med salsiccia, østershatte, frisk oregano og syltede rødløg.",
     "ing": [
-      "pizzadej",
-      "tre slags ost",
-      "salsiccia",
-      "østershatte",
-      "oregano",
-      "syltede rødløg"
+      "1 portion pizzadej",
+      "125 g mozzarella, 50 g gorgonzola og 50 g parmesan",
+      "200 g salsiccia, uden skind",
+      "200 g østershatte",
+      "frisk oregano",
+      "Syltede rødløg: 1 rødløg, 1 dl eddike, 1 spsk sukker, salt"
     ],
     "steps": [
-      "Rul dej ud, fordel ost og pålæg.",
-      "Bag ved høj varme.",
-      "Top med oregano og syltede løg."
+      "Skær rødløg i ringe og læg i varm lage af eddike, sukker og salt. Lad trække 30 minutter.",
+      "Varm ovnen til 250 grader med en bageplade indeni.",
+      "Rul dejen ud og fordel ostene, klumper af salsiccia og skiver af østershatte.",
+      "Bag 8-10 minutter. Top med syltede løg og friskplukket oregano."
     ],
     "src": "se:white pizza sausage mushroom"
   },
@@ -1895,19 +1960,17 @@
     "hue": 15,
     "desc": "Japanske kyllingespyd med grillede grøntsager og cremet risotto på perlebyg.",
     "ing": [
-      "kyllingelår",
-      "sojasauce, mirin, sukker",
-      "perlebyg",
-      "bouillon",
-      "parmesan",
-      "grøntsager"
+      "Yakitori: 600 g kyllingelår i store tern, 4 spsk sojasauce, 3 spsk mirin, 1 spsk sukker, 2 forårsløg, spyd",
+      "Grøntsager: peberfrugt, courgette og champignon",
+      "Risotto: 250 g perlebyg, 1 løg, 7 dl bouillon, 1 dl hvidvin, 50 g parmesan, smør"
     ],
     "steps": [
-      "Mariner og grill spyd med glaze.",
-      "Kog byg som risotto med bouillon.",
-      "Server."
+      "Kog soja, mirin og sukker ind til en tyk glaze. Træk kylling og forårsløg på spyd.",
+      "Grill spyd og grøntsager og pensl med glaze undervejs, ca. 10 minutter.",
+      "Svits løg og byg i smør, tilsæt vin og derefter bouillon lidt ad gangen under omrøring. Byggen skal bruge 30-40 minutter.",
+      "Rør parmesan og smør i og server med spyd og grøntsager."
     ],
-    "src": "se:yakitori;vr:perlebygsrisotto"
+    "src": "https://www.valdemarsro.dk/bygotto-med-varmroget-laks/"
   },
   {
     "title": "Mulligatawny",
@@ -1918,19 +1981,22 @@
     "hue": 40,
     "desc": "Krydret indisk-engelsk linsesuppe med karry og kokos.",
     "ing": [
-      "røde linser",
-      "løg, æble, gulerod",
-      "karry",
-      "kokosmælk",
-      "bouillon",
-      "citron"
+      "1 løg, 1 gulerod, 1 æble",
+      "2 fed hvidløg, 2 cm ingefær",
+      "2 spsk karrypulver",
+      "200 g røde linser",
+      "1 l bouillon",
+      "2 dl kokosmælk",
+      "saft af 1/2 citron",
+      "koriander og ris til servering"
     ],
     "steps": [
-      "Svits grøntsager med karry.",
-      "Tilsæt linser og bouillon, kog møre.",
-      "Blend og rør kokos i."
+      "Svits hakket løg, gulerod, æble, hvidløg og ingefær i olie i 5 minutter. Tilsæt karry og rist 1 minut.",
+      "Tilsæt linser og bouillon og kog 20 minutter.",
+      "Blend halvdelen glat, og rør kokosmælk og citronsaft i.",
+      "Server med koriander og evt. ris."
     ],
-    "src": "se:mulligatawny soup"
+    "src": "https://www.valdemarsro.dk/mulligatawny-suppe/"
   },
   {
     "title": "Okonomiyaki",
@@ -1941,17 +2007,18 @@
     "hue": 18,
     "desc": "Japansk kålpandekage med bacon, toppet med okonomisovs, mayo og bonito.",
     "ing": [
-      "hvidkål",
-      "mel og æg",
-      "bacon",
-      "okonomisovs",
-      "japansk mayo",
-      "forårsløg"
+      "1/2 hvidkål i fine strimler",
+      "200 g hvedemel",
+      "2 dl dashi eller vand",
+      "4 æg",
+      "1 tsk bagepulver",
+      "8 skiver bacon",
+      "okonomisovs, japansk mayo, bonitoflager, forårsløg"
     ],
     "steps": [
-      "Bland dej af kål, mel og æg.",
-      "Steg tykke pandekager med bacon.",
-      "Top med sovs og mayo."
+      "Rør mel, dashi, æg og bagepulver til en dej og vend kålen i.",
+      "Steg tykke pandekager (ca. 12 cm) ved middelvarme, læg baconskiver ovenpå og vend efter 4-5 minutter. Steg 4-5 minutter mere.",
+      "Pensl med okonomisovs, dryp med mayo og drys med bonito og forårsløg."
     ],
     "src": "se:okonomiyaki"
   },
@@ -1964,18 +2031,19 @@
     "hue": 125,
     "desc": "Kyllingeburger uden bolle: squashskiver som brød og hjemmelavet ketchup.",
     "ing": [
-      "hakket kylling",
-      "squash",
-      "tomatpuré",
-      "eddike, sukker",
-      "salat og tomat"
+      "500 g hakket kylling",
+      "1 æg, 1 dl rasp, 1 løg",
+      "2 store squash i skiver",
+      "salat og tomat",
+      "Ketchup: 400 g hakkede tomater, 2 spsk tomatpuré, 3 spsk eddike, 2 spsk brun farin, 1/2 tsk salt, krydderier"
     ],
     "steps": [
-      "Form bøffer og steg.",
-      "Grill squash.",
-      "Kog ketchup af puré, eddike og sukker."
+      "Kog tomater, puré, eddike, sukker og salt til en tyk ketchup, ca. 30 minutter, og blend.",
+      "Rør kyllingefars med æg, rasp og revet løg. Form bøffer.",
+      "Grill eller steg squashskiverne 2-3 minutter på hver side.",
+      "Steg bøfferne 5 minutter på hver side. Byg med squash som 'boller', salat, tomat og ketchup."
     ],
-    "src": "vr:hjemmelavet ketchup;vr:kyllingeburger"
+    "src": "https://www.valdemarsro.dk/hjemmelavet-ketchup/;https://www.valdemarsro.dk/kyllingeburger/"
   },
   {
     "title": "Kikærte-, kokos- og cashewkarry",
@@ -1986,19 +2054,22 @@
     "hue": 38,
     "desc": "Cremet vegetarkarry med kikærter, kokosmælk og cashewnødder.",
     "ing": [
-      "kikærter",
-      "kokosmælk",
-      "cashewnødder",
-      "løg, hvidløg",
-      "karrypasta",
-      "ris"
+      "2 dåser kikærter",
+      "1 løg, 3 fed hvidløg, 3 cm ingefær",
+      "2 spsk karrypasta",
+      "400 ml kokosmælk",
+      "400 g hakkede tomater",
+      "100 g cashewnødder",
+      "spinat",
+      "basmatiris og koriander"
     ],
     "steps": [
-      "Svits løg og karrypasta.",
-      "Tilsæt kikærter og kokos.",
-      "Simr og top med cashew."
+      "Svits løg, hvidløg og ingefær i olie. Rør karrypasta i og rist 1 minut.",
+      "Tilsæt tomater og kokosmælk og lad det koge 10 minutter.",
+      "Tilsæt kikærter og simr 10 minutter. Rør spinat i til sidst.",
+      "Rist cashewnødderne i en tør pande og drys over. Server med ris."
     ],
-    "src": "vr:kikærtekarry;se:chickpea curry"
+    "src": "https://www.valdemarsro.dk/kikaertegryde/"
   },
   {
     "title": "Shio-ramen til fødselsdag",
@@ -2009,15 +2080,19 @@
     "hue": 195,
     "desc": "Fødselsdags-ramen med let saltet shio-bouillon.",
     "ing": [
-      "kyllingebouillon",
-      "salt, mirin",
-      "nudler",
-      "æg",
-      "forårsløg"
+      "1,5 l klar kyllingebouillon",
+      "2 tsk havsalt og 1 spsk mirin",
+      "1 spsk sake (valgfri)",
+      "ingefær og hvidløg",
+      "4 portioner ramennudler",
+      "4 æg",
+      "4 skiver kylling eller svinekød",
+      "forårsløg, majs og nori"
     ],
     "steps": [
-      "Lav let, klar bouillon.",
-      "Anret med nudler og æg."
+      "Simr bouillon med ingefær og hvidløg i 20 minutter og si. Smag til med salt, mirin og sake, så smagen er ren og let.",
+      "Kog æggene i 6,5 minutter og læg dem i marinade af soja og mirin, hvis du vil.",
+      "Kog nudlerne, anret og hæld bouillon over. Top med kød, æg, majs, forårsløg og nori."
     ],
     "src": "se:shio ramen"
   },
@@ -2030,18 +2105,21 @@
     "hue": 195,
     "desc": "Muslinger i hvidløg og hvidvin, vendt med linguine.",
     "ing": [
-      "1 kg muslinger",
-      "linguine",
-      "hvidløg",
-      "hvidvin",
-      "persille",
-      "smør"
+      "1 kg blåmuslinger",
+      "350 g linguine",
+      "4 fed hvidløg",
+      "1 dl hvidvin",
+      "50 g smør",
+      "1/2 rød chili",
+      "persille og citron"
     ],
     "steps": [
-      "Damp muslinger i vin og hvidløg.",
-      "Vend med pasta og smør."
+      "Skyl muslingerne og kassér åbne, der ikke lukker, når du banker på dem.",
+      "Kog linguine al dente.",
+      "Svits hvidløg og chili i smør, tilsæt muslinger og vin, læg låg på og damp 4-5 minutter, til de åbner sig. Kassér dem, der forbliver lukkede.",
+      "Vend pasta, persille og lidt kogevand i og server med citron."
     ],
-    "src": "https://kitchenswagger.com/mussels-linguine-garlic-butter-sauce-recipe/"
+    "src": "https://www.valdemarsro.dk/spaghetti-vongole/;https://kitchenswagger.com/mussels-linguine-garlic-butter-sauce-recipe/"
   },
   {
     "title": "Vietnamesiske frikadeller med nudelsalat",
@@ -2052,19 +2130,20 @@
     "hue": 100,
     "desc": "Duftende vietnamesiske frikadeller med nudelsalat, friske urter og pickles.",
     "ing": [
-      "hakket svinekød",
-      "hvidløg, fiskesauce",
-      "risnudler",
-      "salat, mynte, koriander",
+      "500 g hakket svinekød",
+      "2 fed hvidløg, 2 spsk fiskesauce, 1 spsk sukker, 2 forårsløg",
+      "200 g risnudler",
+      "salat, mynte, koriander, agurk",
       "syltede gulerødder",
-      "nuoc cham"
+      "Dressing: 3 spsk fiskesauce, saft af 2 lime, 2 spsk sukker, 1 chili, vand"
     ],
     "steps": [
-      "Form og steg frikadeller.",
-      "Kog nudler.",
-      "Anret med urter og pickles."
+      "Bland kød med hvidløg, fiskesauce, sukker og forårsløg. Form små frikadeller og steg dem gyldne, ca. 10 minutter.",
+      "Rør dressingen, til sukkeret er opløst.",
+      "Kog risnudlerne efter pakken og skyl i koldt vand.",
+      "Anret nudler, urter, agurk og pickles i skåle, top med frikadeller og dressing."
     ],
-    "src": "se:vietnamese meatballs;vr:vietnamesiske frikadeller"
+    "src": "https://www.valdemarsro.dk/asiatisk-nudelsalat-med-kyllingekoedboller/"
   },
   {
     "title": "Pita-falafel",
@@ -2075,19 +2154,21 @@
     "hue": 70,
     "desc": "Sprød falafel i pita med hummus og friske grøntsager.",
     "ing": [
-      "kikærter",
-      "persille, koriander",
-      "hvidløg",
-      "kommen",
-      "pita",
-      "tahini"
+      "250 g tørrede kikærter, udblødt i 12-24 timer",
+      "1 løg",
+      "3 fed hvidløg",
+      "1 bundt persille og koriander",
+      "1 tsk spidskommen, 1 tsk koriander, 1/2 tsk bagepulver",
+      "olie til stegning",
+      "4 pitabrød, hummus, tomat, agurk, salat",
+      "tahini-yoghurt"
     ],
     "steps": [
-      "Blend kikærter og urter.",
-      "Form og steg.",
-      "Server i pita."
+      "Dræn de udblødte, rå kikærter og blend dem groft med løg, hvidløg, urter og krydderier.",
+      "Form små boller og steg dem ved 170 grader i olie i 3-4 minutter, til de er gyldne.",
+      "Fyld pita med hummus, grøntsager og falafel, og dryp med tahini-yoghurt."
     ],
-    "src": "se:falafel;vr:falafel"
+    "src": "https://www.valdemarsro.dk/falafler/"
   },
   {
     "title": "Svampe i fløde med kartofler og dampede grøntsager",
@@ -2098,18 +2179,22 @@
     "hue": 30,
     "desc": "Cremet svamperagout, kogte kartofler og dampet grønt.",
     "ing": [
-      "svampe",
-      "fløde",
-      "kartofler",
-      "broccoli, gulerod",
+      "500 g svampe",
+      "1 løg",
+      "2 dl piskefløde",
+      "1 tsk timian",
+      "smør",
+      "800 g kartofler",
+      "broccoli og gulerødder",
       "persille"
     ],
     "steps": [
-      "Steg svampe.",
-      "Tilsæt fløde.",
-      "Server med kartofler og grønt."
+      "Kog kartoflerne.",
+      "Steg svampe og løg i smør ved høj varme til de er gyldne. Tilsæt timian og fløde og kog ind.",
+      "Damp broccoli og gulerødder 5-6 minutter.",
+      "Server svamperagout med kartofler og grønt, drysset med persille."
     ],
-    "src": "vr:svampe i fløde"
+    "src": "https://www.valdemarsro.dk/svampe-i-flode/"
   },
   {
     "title": "15-minutters chili",
@@ -2120,17 +2205,21 @@
     "hue": 8,
     "desc": "En hurtig chili til travle dage.",
     "ing": [
-      "hakket kød",
-      "kidneybønner",
-      "tomat",
-      "chili",
-      "spidskommen"
+      "400 g hakket oksekød",
+      "1 løg",
+      "2 fed hvidløg",
+      "1 spsk spidskommen, 1 tsk chili",
+      "1 dåse hakkede tomater",
+      "1 dåse kidneybønner",
+      "1 dåse majs",
+      "ris eller tortillachips, creme fraiche"
     ],
     "steps": [
-      "Brun kød.",
-      "Tilsæt resten og simr 15 minutter."
+      "Steg kød og løg ved høj varme i 4 minutter og tilsæt hvidløg og krydderier.",
+      "Tilsæt tomater, bønner og majs og lad det simre 10 minutter.",
+      "Server med ris eller chips og creme fraiche."
     ],
-    "src": "se:15 minute chili"
+    "src": "https://www.valdemarsro.dk/chili-con-carne/"
   },
   {
     "title": "Rösti og svinegryde",
@@ -2141,15 +2230,14 @@
     "hue": 15,
     "desc": "Schweizisk rösti af revne kartofler med langtidsstegt svinegryde.",
     "ing": [
-      "kartofler",
-      "svinekød",
-      "løg",
-      "bouillon",
-      "smør"
+      "Rösti: 800 g kogte, kolde kartofler, 3 spsk smør, salt",
+      "Gryde: 700 g svinekød (bov) i tern, 2 løg, 2 gulerødder, 2 fed hvidløg, 2 spsk tomatpuré, 4 dl bouillon, 1 dl hvidvin, timian"
     ],
     "steps": [
-      "Lav svinegryde.",
-      "Riv kartofler til rösti og steg sprød."
+      "Brun svinekødet, tilsæt grøntsager, hvidløg og puré, og svits.",
+      "Hæld vin og bouillon i, tilsæt timian og lad det simre under låg i 1,5-2 timer, til kødet er mørt.",
+      "Riv de kolde kartofler groft og steg dem i smør som en stor, flad rösti ved middelvarme i ca. 15 minutter, med vending halvvejs.",
+      "Server rösti med gryden."
     ],
     "src": "se:rosti;vr:svinegryde"
   },
@@ -2162,13 +2250,19 @@
     "hue": 4,
     "desc": "Hurtig ramen med kimchi.",
     "ing": [
-      "kimchi",
-      "ramen",
-      "æg",
-      "forårsløg"
+      "4 dl kimchi med lage",
+      "1 l bouillon",
+      "2 spsk gochujang",
+      "1 spsk sojasauce",
+      "4 portioner ramennudler",
+      "4 æg",
+      "2 forårsløg",
+      "1 tsk sesamolie"
     ],
     "steps": [
-      "Lav ramen med kimchi."
+      "Steg kimchien i sesamolie i 3 minutter og tilsæt gochujang.",
+      "Hæld bouillon og soja i og simr 10 minutter.",
+      "Kog nudler og æg (6,5 minutter), og server i skåle med forårsløg."
     ],
     "src": "se:quick kimchi ramen"
   },
@@ -2181,17 +2275,20 @@
     "hue": 110,
     "desc": "Saftig tærte med spinat og ricotta på bund af kartoffelskiver.",
     "ing": [
-      "spinat",
-      "ricotta",
-      "kartofler",
-      "æg",
-      "ost"
+      "500 g kartofler i tynde skiver",
+      "300 g frossen spinat, optøet og presset tør",
+      "250 g ricotta",
+      "3 æg",
+      "1 dl fløde",
+      "50 g parmesan",
+      "muskat, salt og peber"
     ],
     "steps": [
-      "Lav bund af kartoffelskiver.",
-      "Fyld og bag."
+      "Beklæd en smurt tærteform med overlappende kartoffelskiver og forbag ved 200 grader i 15 minutter.",
+      "Rør spinat, ricotta, æg, fløde, parmesan og krydderier sammen.",
+      "Hæld fyldet i formen og bag ved 180 grader i 30-35 minutter, til det er sat og gyldent."
     ],
-    "src": "vr:spinat ricotta tærte"
+    "src": "https://www.valdemarsro.dk/spinattaerte/"
   },
   {
     "title": "Kartoffelmos med sovs, rødbeder og veggiedeller",
@@ -2202,17 +2299,18 @@
     "hue": 350,
     "desc": "Hygge på tallerkenen: kartoffelmos med sovs, bagte rødbeder og rodfrugter og veggiedeller.",
     "ing": [
-      "kartofler",
-      "rødbeder, rodfrugter",
-      "bønner til veggiedeller",
-      "sovs"
+      "1 kg kartofler, 50 g smør, 2 dl mælk",
+      "3 rødbeder og 3 gulerødder i både",
+      "Veggiedeller: 400 g kogte bønner, 1 løg, 1 æg, 1 dl havregryn, persille, spidskommen",
+      "brun sovs af grøntsagsbouillon"
     ],
     "steps": [
-      "Mos kartofler.",
-      "Bag grønt.",
-      "Steg deller."
+      "Bag rødbeder og rodfrugter ved 200 grader i 40 minutter med olie, salt og timian.",
+      "Kog og mos kartoflerne med smør og mælk.",
+      "Mos bønner med løg, æg, havregryn og krydderier, form deller og steg dem i 3-4 minutter på hver side.",
+      "Lav sovs af bouillon, jævnet med mel og smør, og server alt sammen."
     ],
-    "src": "vr:veggiedeller"
+    "src": "https://www.valdemarsro.dk/krydrede-boennedeller/;https://www.valdemarsro.dk/kartoffelmos/"
   },
   {
     "title": "Frysepizza med gedeost og pærer",
@@ -2223,16 +2321,17 @@
     "hue": 85,
     "desc": "Frysepizza sat i vejret med gedeost og pære, og en salat ved siden af.",
     "ing": [
-      "frysepizza",
-      "gedeost",
-      "pære",
+      "2 frysepizzaer (fx margherita)",
+      "100 g gedeost",
+      "1 moden pære i tynde skiver",
       "honning",
-      "salat"
+      "rucola eller salat",
+      "valnødder"
     ],
     "steps": [
-      "Pynt pizza.",
-      "Bag.",
-      "Top med honning."
+      "Bag pizzaerne efter pakken, men tag dem ud 5 minutter før tiden.",
+      "Læg gedeost og pæreskiver på og bag de sidste 5 minutter.",
+      "Dryp med honning og top med rucola og nødder."
     ],
     "src": "vr:pizza gedeost pære"
   },
@@ -2245,19 +2344,20 @@
     "hue": 150,
     "desc": "Pastasalat med feta, oliven, agurk og oregano.",
     "ing": [
-      "pasta",
-      "feta",
-      "oliven",
-      "agurk, tomat",
-      "oregano",
-      "olie og citron"
+      "300 g pasta",
+      "250 g cherrytomater",
+      "1 agurk",
+      "1 rød peberfrugt, 1 rødløg",
+      "150 g feta",
+      "1 dl sorte oliven",
+      "Dressing: 4 spsk olivenolie, saft af 1 citron, 1 tsk oregano"
     ],
     "steps": [
-      "Kog pasta.",
-      "Bland.",
-      "Dress."
+      "Kog pasta, skyl og afkøl.",
+      "Skær grøntsager i tern.",
+      "Vend alt med dressing og feta og lad trække 15 minutter."
     ],
-    "src": "vr:græsk pastasalat"
+    "src": "https://www.valdemarsro.dk/graesk-pastasalat/"
   },
   {
     "title": "Mexicansk kyllingesuppe",
@@ -2268,18 +2368,20 @@
     "hue": 20,
     "desc": "Kraftig suppe med kylling, majs og bønner, toppet med tortillachips.",
     "ing": [
-      "kylling",
-      "majs og bønner",
-      "tomat",
-      "chili og lime",
-      "koriander",
-      "tortillachips"
+      "400 g kyllingebryst",
+      "1 løg, 3 fed hvidløg",
+      "1 dåse hakkede tomater",
+      "1 dåse majs, 1 dåse sorte bønner",
+      "1 l bouillon",
+      "1 spsk spidskommen, 1 tsk chili",
+      "tortillachips, avocado, lime, koriander"
     ],
     "steps": [
-      "Simr alt sammen.",
-      "Top med chips og lime."
+      "Svits løg og hvidløg med krydderier. Tilsæt tomater, bouillon og kylling og kog 20 minutter.",
+      "Tag kyllingen op, pil den i stykker og læg den tilbage med majs og bønner.",
+      "Simr 5 minutter og server med chips, avocado, lime og koriander."
     ],
-    "src": "se:chicken tortilla soup;vr:mexicansk kyllingesuppe"
+    "src": "https://www.valdemarsro.dk/tacosuppe/"
   },
   {
     "title": "Indisk fest",
@@ -2290,17 +2392,20 @@
     "hue": 25,
     "desc": "Kikærtemasala, paneer, naan, raita og pilauris. En hel indisk menu.",
     "ing": [
-      "kikærter",
-      "paneer",
-      "naan",
-      "yoghurt",
-      "ris",
-      "garam masala"
+      "Kikærtemasala: 2 dåser kikærter, 1 løg, 400 g tomater, garam masala, ingefær og hvidløg",
+      "Paneer: 250 g paneer, 1 dl yoghurt, tandoorikrydderi",
+      "Raita: 2 dl yoghurt, 1/2 agurk, mynte, spidskommen",
+      "Pilauris: 300 g basmati, kardemomme, kanel, nelliker",
+      "naanbrød"
     ],
     "steps": [
-      "Lav hver ret og server samlet."
+      "Svits løg, ingefær, hvidløg og krydderier, tilsæt tomater og kikærter og simr 20 minutter.",
+      "Mariner paneer i yoghurt og krydderier og steg gyldent.",
+      "Rør raita af yoghurt, revet agurk og mynte.",
+      "Rist ris med hele krydderier og kog dem i vand 12 minutter.",
+      "Varm naan og server alt som en indisk buffet."
     ],
-    "src": "se:chana masala;vr:indisk"
+    "src": "https://www.valdemarsro.dk/butter_chicken/;https://www.valdemarsro.dk/indisk_curry_med_kylling/"
   },
   {
     "title": "4-dollar-pasta med polenta og tomatsalat",
@@ -2311,15 +2416,18 @@
     "hue": 4,
     "desc": "Italiensk aften med simpel pasta, polenta, tomatsalat, italiensk salat og brød.",
     "ing": [
-      "pasta",
-      "polenta",
-      "tomater",
-      "salat",
+      "350 g pasta",
+      "400 g hakkede tomater, 3 fed hvidløg, olivenolie",
+      "Polenta: 2 dl polenta, 8 dl bouillon, parmesan, smør",
+      "Tomatsalat: 4 modne tomater, rødløg, basilikum, olivenolie",
+      "Italiensk salat: romaine, oliven, pepperoncini, vinaigrette",
       "brød"
     ],
     "steps": [
-      "Lav hver ret.",
-      "Server samlet."
+      "Kog tomatsauce af hvidløg i olie og hakkede tomater i 15 minutter.",
+      "Kog polentaen i bouillon under omrøring i 10 minutter og rør smør og parmesan i.",
+      "Kog pastaen og vend med saucen.",
+      "Skær tomatsalat og salat og server alt sammen med brød."
     ],
     "src": "se:polenta;vr:italiensk"
   },
@@ -2332,19 +2440,21 @@
     "hue": 48,
     "desc": "Cremet risotto af arborioris, løg og parmesan.",
     "ing": [
-      "arborioris",
-      "løg",
-      "hvidvin",
-      "bouillon",
-      "parmesan",
-      "smør"
+      "350 g arborioris",
+      "1 løg, 2 fed hvidløg",
+      "1 dl hvidvin",
+      "1 l varm bouillon",
+      "50 g smør",
+      "60 g parmesan",
+      "salt og peber"
     ],
     "steps": [
-      "Svits løg og ris.",
-      "Tilsæt bouillon lidt ad gangen.",
-      "Rør parmesan i."
+      "Svits løg og hvidløg i halvdelen af smørret. Rist risene 1-2 minutter.",
+      "Hæld vin i og lad den koge ind.",
+      "Tilsæt varm bouillon lidt ad gangen under omrøring, ca. 18-20 minutter, til risene er møre, men har lidt bid.",
+      "Rør resten af smørret og parmesan i."
     ],
-    "src": "se:risotto;vr:risotto"
+    "src": "https://www.valdemarsro.dk/risotto-med-svampe/"
   },
   {
     "title": "Fiskewraps",
@@ -2355,16 +2465,18 @@
     "hue": 205,
     "desc": "Wraps med sprød fisk, salat og dressing.",
     "ing": [
-      "fisk",
-      "wraps",
-      "salat",
-      "dressing"
+      "500 g hvid fisk (torsk eller sej)",
+      "1 dl mel, 1 tsk paprika",
+      "4 store wraps",
+      "salat, agurk og rødløg",
+      "Dressing: 1 dl creme fraiche, 2 spsk mayo, citronsaft, dild"
     ],
     "steps": [
-      "Steg fisk.",
-      "Rul."
+      "Skær fisken i strimler, vend i mel og paprika og steg 2-3 minutter på hver side.",
+      "Rør dressingen.",
+      "Fyld wraps med salat, agurk, fisk og dressing og rul."
     ],
-    "src": "vr:fiskewraps"
+    "src": "https://www.valdemarsro.dk/wraps-med-varmroeget-laks/"
   },
   {
     "title": "Eggs benedict",
@@ -2375,17 +2487,18 @@
     "hue": 50,
     "desc": "Pocherede æg på ristet engelsk muffin med skinke og hollandaise.",
     "ing": [
-      "æg",
-      "muffins",
-      "skinke",
-      "smør, æggeblomme og citron til hollandaise"
+      "4 engelske muffins",
+      "8 skiver skinke eller bacon",
+      "8 æg",
+      "Hollandaise: 3 æggeblommer, 150 g smeltet smør, saft af 1/2 citron, salt",
+      "eddike til pochering"
     ],
     "steps": [
-      "Lav hollandaise.",
-      "Pocher æg.",
-      "Anret."
+      "Hollandaise: pisk æggeblommer over vandbad, til de er tykke, og pisk det varme smør i en tynd stråle. Smag til med citron og salt.",
+      "Bring vand med en skvæt eddike til let kogning og pochér æggene 3 minutter.",
+      "Rist muffinsene, læg skinke og æg ovenpå og hæld hollandaise over."
     ],
-    "src": "se:eggs benedict;vr:eggs benedict"
+    "src": "https://www.valdemarsro.dk/egg-benedict/"
   },
   {
     "title": "Fermenteret hot sauce",
@@ -2396,16 +2509,19 @@
     "hue": 5,
     "desc": "Hjemmelavet hot sauce af fermenterede chilier med mango, hvidløg og æblecidereddike.",
     "ing": [
-      "chilier",
-      "peber",
-      "tomat",
-      "mango",
-      "hvidløg",
-      "æblecidereddike og riseddike"
+      "300 g friske chilier",
+      "2 fed hvidløg",
+      "1 lille mango",
+      "3% saltlage (30 g salt pr. liter vand)",
+      "1 dl æblecidereddike",
+      "1 spsk riseddike",
+      "1 tsk sukker"
     ],
     "steps": [
-      "Fermenter chilier i saltlage.",
-      "Blend med mango og eddike."
+      "Hak chilier og hvidløg groft og pres dem ned i en ren glaskrukke. Hæld saltlage over, så alt er dækket.",
+      "Lad krukken stå ved stuetemperatur i 5-7 dage, med låget på løst, til det bobler og dufter syrligt.",
+      "Si lagen fra (gem noget) og blend med mango, eddike og sukker. Tynd ud med lage, til du har den ønskede konsistens.",
+      "Hæld på rene flasker og opbevar i køleskab."
     ],
     "src": "se:fermented hot sauce"
   },
@@ -2419,18 +2535,21 @@
     "desc": "Søndagsstegen: sennepsmarineret højreb med løgsovs, kartoffelmos og ovnbagt kål med blåskimmelcreme.",
     "ing": [
       "1,2 kg højreb",
-      "sennep",
-      "3 løg",
-      "brun fond",
-      "kartofler og smør",
-      "1/2 hvidkål",
-      "blåskimmelost og fløde"
+      "2 spsk grov sennep",
+      "salt og peber",
+      "3 løg i skiver",
+      "3 dl oksefond",
+      "1 spsk smør og 1 spsk mel til jævning",
+      "1 kg kartofler, 50 g smør, 2 dl mælk",
+      "1/2 hvidkål i både, olivenolie",
+      "Blåskimmelcreme: 100 g blåskimmelost, 1 dl fløde"
     ],
     "steps": [
-      "Gnid højrebet med sennep og steg ved lav varme til mørt.",
-      "Kog løg møre til sovs.",
-      "Mos kartofler.",
-      "Bag kålskiver og top med blåskimmelcreme."
+      "Gnid højrebet med sennep, salt og peber. Brun det i en varm gryde på alle sider og stil det i ovnen ved 140 grader, til kernen er 62-65 grader (ca. 1,5-2 timer, afhængigt af størrelsen).",
+      "Svits løg i smør i fedtet fra gryden, tilsæt fond og jævn med smør og mel til en sovs.",
+      "Bag kålbådene med olie og salt ved 200 grader i 25 minutter. Smelt blåskimmelost i varm fløde og hæld over.",
+      "Kog og mos kartoflerne med smør og mælk.",
+      "Lad stegen hvile 15 minutter, skær i skiver og server med alt tilbehøret."
     ],
     "src": "se:sunday roast;vr:højreb"
   },
@@ -2443,20 +2562,20 @@
     "hue": 50,
     "desc": "Pasta med hvidløg, olie og chili. Fem ingredienser, ti minutter.",
     "ing": [
-      "350 g spaghetti",
-      "6 fed hvidløg",
-      "100 ml olivenolie",
-      "chiliflager",
-      "persille",
-      "parmesan"
+      "400 g spaghetti",
+      "5 fed hvidløg i tynde skiver",
+      "1/2 rød chili",
+      "1 dl olivenolie",
+      "en håndfuld persille",
+      "50 g parmesan",
+      "salt"
     ],
     "steps": [
-      "Kog spaghetti.",
-      "Steg hvidløg og chili i olie.",
-      "Vend pasta og kogevand i.",
-      "Top med persille."
+      "Kog spaghetti al dente og gem 1-2 dl kogevand.",
+      "Varm olie, hvidløg og chili forsigtigt ved lav varme, så hvidløget bliver gyldent, men ikke brændt.",
+      "Vend spaghetti, kogevand og persille i og rør til saucen klæber. Server med parmesan."
     ],
-    "src": "se:spaghetti aglio e olio;vr:aglio e olio"
+    "src": "https://www.valdemarsro.dk/pasta-aglio-e-olio/;se:spaghetti aglio e olio"
   },
   {
     "title": "Hakkebøffer med bløde løg",
@@ -2467,19 +2586,23 @@
     "hue": 28,
     "desc": "Saftige hakkebøffer med stegte løg og brun sovs, som mor lavede dem.",
     "ing": [
-      "500 g hakket kød",
+      "500 g hakket svine- og kalvekød",
       "1 æg",
-      "mælk og mel",
-      "løg",
-      "smør",
-      "bouillon til sovs"
+      "2 spsk mel",
+      "1 dl mælk",
+      "salt og peber",
+      "smør til stegning",
+      "3 løg i skiver",
+      "3 dl bouillon, 1 spsk mel til sovs",
+      "kartofler og syltede rødbeder"
     ],
     "steps": [
-      "Rør farsen og form bøffer.",
-      "Steg i smør.",
-      "Kog løg bløde og lav sovs i panden."
+      "Ælt farsen med æg, mel, mælk, salt og peber og form 4 bøffer.",
+      "Steg bøfferne i smør ved middelvarme i ca. 5 minutter på hver side, og tag dem op.",
+      "Steg løgene bløde og gyldne i samme pande, drys med mel og hæld bouillon i for at lave sovs.",
+      "Server med kogte kartofler og rødbeder."
     ],
-    "src": "vr:hakkebøffer"
+    "src": "https://www.valdemarsro.dk/hakkeboeffer-med-bloede-loeg/"
   },
   {
     "title": "Gullasch",
@@ -2490,20 +2613,23 @@
     "hue": 15,
     "desc": "Ungarsk gryderet med oksekød, paprika og løg, serveret med kartofler eller nudler.",
     "ing": [
-      "800 g oksekød",
+      "800 g oksebov i tern",
       "3 løg",
-      "2 spsk paprika",
+      "3 fed hvidløg",
+      "2 spsk sød paprika",
       "2 spsk tomatpuré",
-      "bouillon",
-      "peberfrugt",
-      "kartofler"
+      "1 liter bouillon",
+      "1 rød peberfrugt",
+      "1 tsk kommen",
+      "kartofler eller nudler til servering, creme fraiche"
     ],
     "steps": [
-      "Brun kød og løg.",
-      "Tilsæt paprika, puré og bouillon.",
-      "Simr 2 timer."
+      "Brun kødet i omgange i en gryde og tag det op.",
+      "Svits løg og hvidløg, tilsæt paprika, kommen og tomatpuré og rist 1 minut.",
+      "Kom kødet og bouillon i og lad det simre under låg i 2-2,5 timer.",
+      "Tilsæt peberfrugt de sidste 20 minutter og server med kartofler og creme fraiche."
     ],
-    "src": "se:goulash;vr:gullasch"
+    "src": "https://www.valdemarsro.dk/gullash/"
   },
   {
     "title": "Kyllingebolognese",
@@ -2514,18 +2640,21 @@
     "hue": 28,
     "desc": "En lettere variant af bolognese med hakket kylling.",
     "ing": [
-      "hakket kylling",
-      "løg, gulerod",
-      "tomat",
-      "pasta",
-      "basilikum"
+      "500 g hakket kylling",
+      "1 løg, 2 gulerødder, 2 fed hvidløg",
+      "2 spsk tomatpuré",
+      "400 g hakkede tomater",
+      "1 dl hønsebouillon",
+      "1 tsk oregano",
+      "350 g pasta",
+      "basilikum og parmesan"
     ],
     "steps": [
-      "Brun kylling og grøntsager.",
-      "Tilsæt tomat og simr 30 minutter.",
-      "Server med pasta."
+      "Brun kyllingen godt i olie, og tilsæt hakkede grøntsager og hvidløg.",
+      "Rør puré, tomater, bouillon og oregano i og simr 30-40 minutter.",
+      "Kog pasta og server med saucen, basilikum og parmesan."
     ],
-    "src": "vr:kylling bolognese"
+    "src": "https://www.valdemarsro.dk/spaghetti-bolognese/"
   },
   {
     "title": "Vegetarfrikadeller med stuvet hvidkål",
@@ -2536,18 +2665,17 @@
     "hue": 100,
     "desc": "Frikadeller af bønner og grønt med klassisk stuvet hvidkål og kartofler.",
     "ing": [
-      "bønner og havregryn",
-      "løg, gulerod",
-      "1/2 hvidkål",
-      "smør, mel og mælk",
-      "kartofler"
+      "Frikadeller: 400 g kogte hvide bønner, 1 løg, 1 æg, 1 dl havregryn, 1 gulerod, persille, salt og peber",
+      "Stuvet hvidkål: 750 g hvidkål, 40 g smør, 40 g mel, 4 dl mælk, 1 dl fløde, muskat",
+      "800 g kartofler"
     ],
     "steps": [
-      "Mos bønner med havre og grønt, form og steg.",
-      "Kog kål og lav béchamel.",
-      "Kog kartofler."
+      "Mos bønner groft og bland med revet løg og gulerod, æg, havregryn og krydderier. Lad hvile 15 minutter.",
+      "Form frikadeller og steg dem i olie, 4 minutter på hver side.",
+      "Kog hvidkålen i vand, til den falder sammen, og dræn. Lav en hvid sovs af smør, mel, mælk og fløde, vend kålen i og smag til med muskat.",
+      "Kog kartoflerne og server alt sammen."
     ],
-    "src": "vr:vegetarfrikadeller;vr:stuvet hvidkål"
+    "src": "https://www.valdemarsro.dk/krydrede-boennedeller/;https://www.valdemarsro.dk/stuvet-hvidkaal/"
   },
   {
     "title": "Smash burger",
@@ -2558,19 +2686,20 @@
     "hue": 5,
     "desc": "Tynde, sprøde burgerbøffer smadret på varm pande, med smeltet ost og blød bolle.",
     "ing": [
-      "500 g hakket okse (20 % fedt)",
-      "burgerboller",
-      "amerikansk ost",
-      "syltede agurker",
-      "løg",
-      "burgerdressing"
+      "600 g hakket oksekød (20 % fedt) i 8 kugler",
+      "4 burgerboller",
+      "8 skiver amerikansk ost",
+      "syltede agurker og rødløg",
+      "Burgerdressing: 3 spsk mayo, 1 spsk ketchup, 1 tsk sennep, 1 tsk hakkede agurker",
+      "smør"
     ],
     "steps": [
-      "Form kugler og smadr dem hårdt ned på en meget varm pande.",
-      "Vend efter 1 minut og læg ost på.",
-      "Rist bollerne og saml."
+      "Rør dressingen.",
+      "Varm en tung pande eller grillplade op til meget høj varme.",
+      "Læg en kugle på panden og smadr den ned til en tynd bøf med en spatel. Krydr med salt og peber og steg 1-2 minutter, til kanten er sprød.",
+      "Vend, læg ost på og steg 30 sekunder. Rist bollerne i smør og stable to bøffer pr. burger med dressing, agurk og løg."
     ],
-    "src": "se:smash burger"
+    "src": "https://www.valdemarsro.dk/hjemmelavede-burgere/;se:smash burger"
   },
   {
     "title": "Ærtesuppe",
@@ -2581,17 +2710,20 @@
     "hue": 100,
     "desc": "Gul ærtesuppe med flæsk og pølser, krydret med timian.",
     "ing": [
-      "gule ærter",
-      "flæsk",
-      "gulerødder, løg, porre",
-      "pølser",
-      "timian"
+      "300 g gule ærter, udblødt natten over",
+      "300 g røget flæsk",
+      "2 gulerødder, 1 porre, 1 løg, 1 pastinak",
+      "1 tsk timian",
+      "4 medisterpølser",
+      "sennep og rugbrød"
     ],
     "steps": [
-      "Kog ærter med flæsk og grønt i 1,5 time.",
-      "Tilsæt pølser til sidst."
+      "Kog ærter og flæsk i frisk vand i ca. 1 time, til ærterne er møre.",
+      "Tilsæt grøntsager i tern og timian og kog 30 minutter.",
+      "Tag flæsket op, skær i skiver og læg det tilbage i suppen. Steg eller kog medisterpølserne.",
+      "Server med sennep og rugbrød."
     ],
-    "src": "vr:gule ærter suppe"
+    "src": "https://www.valdemarsro.dk/gule-aerter/"
   },
   {
     "title": "Ramen med chashu",
@@ -2602,17 +2734,18 @@
     "hue": 20,
     "desc": "Ramen med langtidsstegt svinekød (chashu), blødkogt æg og krydret bouillon. Også en vegetarversion.",
     "ing": [
-      "svinekam",
-      "soja, mirin",
-      "nudler",
-      "æg",
-      "bouillon",
-      "løg"
+      "Chashu: 600 g svinebryst eller -nakke, 1 dl sojasauce, 1 dl mirin, 1 spsk sukker, 2 fed hvidløg, ingefær, 3 dl vand",
+      "1,5 l kyllingebouillon",
+      "4 portioner ramennudler",
+      "4 æg",
+      "forårsløg og nori",
+      "Vegetar: svampe og tofu i stedet for chashu"
     ],
     "steps": [
-      "Rul og braiser svinekød i soja og mirin.",
-      "Lav bouillon.",
-      "Server med æg."
+      "Chashu: rul kødet, bind det med snor, og brun det. Tilsæt soja, mirin, sukker, vand, hvidløg og ingefær og simr i 2 timer, til det er mørt. Skær i skiver.",
+      "Kog æggene i 6,5 minutter og læg dem i lidt af braiseringsvæsken.",
+      "Varm bouillon med lidt af braiseringsvæsken som smag.",
+      "Kog nudler, fordel dem i skåle og top med bouillon, chashu, æg og forårsløg."
     ],
     "src": "se:ramen chashu;vr:ramen"
   },
@@ -2625,16 +2758,19 @@
     "hue": 8,
     "desc": "Klassisk kombination til kolde dage.",
     "ing": [
-      "brød",
-      "ost",
-      "smør",
-      "tomatsuppe"
+      "2 dåser flåede tomater",
+      "1 løg, 2 fed hvidløg",
+      "4 dl bouillon",
+      "8 skiver brød",
+      "200 g cheddar",
+      "smør"
     ],
     "steps": [
-      "Lav suppe af tomater.",
-      "Steg grilled cheese."
+      "Svits løg og hvidløg, tilsæt tomater og bouillon og kog 20 minutter. Blend.",
+      "Fyld brødskiverne med ost, smør dem udvendigt og steg gyldne i panden.",
+      "Server sandwichene med suppen."
     ],
-    "src": "se:grilled cheese;se:tomato soup"
+    "src": "https://www.valdemarsro.dk/bagt-tomatsuppe/;se:grilled cheese"
   },
   {
     "title": "Risengrød",
@@ -2646,17 +2782,17 @@
     "desc": "Dansk risengrød med smør, kanel og sukker.",
     "ing": [
       "250 g grødris",
+      "2,5 dl vand",
       "1 l mælk",
       "1 tsk salt",
-      "smør",
-      "kanel og sukker"
+      "smør, kanel og sukker"
     ],
     "steps": [
-      "Kog ris i vand, tilsæt mælk.",
-      "Rør af og til, 40 minutter.",
-      "Server med smørklat."
+      "Kog risene med vand i 5 minutter, til vandet er optaget.",
+      "Tilsæt mælk og salt og lad grøden simre ved lav varme i 35-45 minutter under omrøring, til den er tyk og cremet.",
+      "Server med en klat smør, kanel og sukker."
     ],
-    "src": "vr:risengrød"
+    "src": "https://www.valdemarsro.dk/risengroed/"
   },
   {
     "title": "Kikærtekarry",
@@ -2667,19 +2803,20 @@
     "hue": 38,
     "desc": "Hurtig, mættende kikærtekarry med tomat og spinat.",
     "ing": [
-      "kikærter",
-      "tomat",
-      "løg, hvidløg, ingefær",
-      "karry",
-      "spinat",
-      "ris"
+      "2 dåser kikærter",
+      "1 løg, 3 fed hvidløg, 3 cm ingefær",
+      "2 spsk karrypulver",
+      "400 g hakkede tomater",
+      "1 dl vand",
+      "200 g spinat",
+      "ris og koriander"
     ],
     "steps": [
-      "Svits krydderier.",
-      "Tilsæt kikærter og tomat.",
-      "Simr 20 minutter."
+      "Svits løg, hvidløg og ingefær i olie, tilsæt karry og rist 1 minut.",
+      "Tilsæt tomater, kikærter og vand og simr 20 minutter.",
+      "Rør spinat i til den falder sammen og server med ris og koriander."
     ],
-    "src": "se:chickpea curry"
+    "src": "https://www.valdemarsro.dk/kikaertegryde/;se:chickpea curry"
   },
   {
     "title": "Lasagne",
@@ -2690,18 +2827,18 @@
     "hue": 5,
     "desc": "Rigtig lasagne med kødsauce, béchamel og masser af ost.",
     "ing": [
-      "lasagneplader",
-      "kødsauce",
-      "béchamel",
-      "mozzarella",
-      "parmesan"
+      "Kødsauce: 500 g hakket okse, 1 løg, 2 gulerødder, 3 fed hvidløg, 2 spsk puré, 400 g hakkede tomater, oregano",
+      "Béchamel: 50 g smør, 50 g mel, 6 dl mælk, muskat",
+      "9-12 lasagneplader",
+      "150 g mozzarella, 50 g parmesan"
     ],
     "steps": [
-      "Lav kødsauce og béchamel.",
-      "Lag plader, sauce og ost.",
-      "Bag 40 minutter."
+      "Lav kødsauce og simr 40-60 minutter.",
+      "Smelt smør, pisk mel i og tilsæt mælken lidt ad gangen. Kog til en tyk sauce og smag til med muskat.",
+      "Læg lag af kødsauce, plader og béchamel i et fad. Slut med béchamel og ost.",
+      "Bag ved 180 grader i 35-40 minutter, til toppen er gyldenbrun. Lad den hvile 10 minutter."
     ],
-    "src": "se:lasagna;vr:lasagne"
+    "src": "https://www.valdemarsro.dk/lasagne/"
   },
   {
     "title": "Shakshuka",
@@ -2712,19 +2849,20 @@
     "hue": 8,
     "desc": "Æg pocheret i krydret tomatsauce med peberfrugt.",
     "ing": [
-      "tomater",
-      "peberfrugt",
-      "løg, hvidløg",
-      "spidskommen, paprika",
-      "æg",
-      "feta og persille"
+      "1 løg, 1 rød peberfrugt, 3 fed hvidløg",
+      "1 tsk spidskommen, 1 tsk paprika, 1/2 tsk chili",
+      "800 g hakkede tomater",
+      "6 æg",
+      "100 g feta",
+      "persille, brød"
     ],
     "steps": [
-      "Lav sauce.",
-      "Lav huller og slå æg i.",
-      "Kog til æggene er stivnede."
+      "Svits løg og peberfrugt i olie, tilsæt hvidløg og krydderier.",
+      "Tilsæt tomater og simr 15 minutter, til saucen er tyk.",
+      "Lav 6 små fordybninger, slå et æg i hver og kog under låg i 5-8 minutter, til hviderne er stivnet.",
+      "Top med feta og persille og server med brød."
     ],
-    "src": "se:shakshuka;vr:shakshuka"
+    "src": "https://www.valdemarsro.dk/shakshuka/;se:shakshuka"
   },
   {
     "title": "Tunpasta",
@@ -2735,19 +2873,20 @@
     "hue": 200,
     "desc": "Hurtig pasta med tun, citron, kapers og persille.",
     "ing": [
-      "pasta",
-      "dåsetun",
-      "kapers",
-      "citron",
-      "hvidløg",
+      "350 g pasta",
+      "2 dåser tun",
+      "2 fed hvidløg",
+      "1 spsk kapers",
+      "skal og saft af 1 citron",
+      "3 spsk olivenolie",
       "persille"
     ],
     "steps": [
-      "Kog pasta.",
-      "Svits hvidløg og tilsæt tun.",
-      "Vend med citron."
+      "Kog pasta og gem lidt kogevand.",
+      "Svits hvidløg i olie, tilsæt drænet tun og kapers og varm igennem.",
+      "Vend pasta, citronsaft og -skal og persille i med lidt kogevand."
     ],
-    "src": "vr:tunpasta"
+    "src": "https://www.valdemarsro.dk/pasta-med-tunsauce/"
   },
   {
     "title": "Agurke-, tomat- og bønnesalat",
@@ -2758,17 +2897,17 @@
     "hue": 130,
     "desc": "Syrlig sommersalat med lime, brun farin og fiskesauce.",
     "ing": [
-      "agurk",
-      "tomater",
-      "grønne bønner",
-      "lime",
-      "brun farin",
-      "fiskesauce"
+      "1 agurk",
+      "300 g tomater",
+      "200 g grønne bønner",
+      "1 rødløg",
+      "Dressing: saft af 2 lime, 2 spsk brun farin, 1 spsk fiskesauce, 1 chili",
+      "koriander og ristede peanuts"
     ],
     "steps": [
-      "Skær grønt.",
-      "Rør dressing af lime, sukker og fiskesauce.",
-      "Vend sammen."
+      "Blancher bønnerne 3 minutter og afkøl.",
+      "Skær agurk, tomat og løg i stykker.",
+      "Rør dressingen, til sukkeret er opløst, og vend alt sammen. Top med koriander og peanuts."
     ],
     "src": "se:cucumber tomato green bean salad"
   },
@@ -2781,15 +2920,16 @@
     "hue": 120,
     "desc": "Grøn, urtefyldt sandwich med avocado og cremet dressing.",
     "ing": [
-      "brød",
-      "avocado",
-      "agurk",
-      "spirer",
-      "urter, mayo og yoghurt"
+      "8 skiver godt brød",
+      "1 avocado",
+      "1 agurk",
+      "spirer eller salat",
+      "Green goddess-dressing: 1 dl mayo, 1 dl yoghurt, 1 bundt persille, purløg, estragon, 1 ansjos, 1 fed hvidløg, saft af 1/2 citron"
     ],
     "steps": [
-      "Blend dressing.",
-      "Byg sandwich."
+      "Blend dressingens ingredienser til en grøn, glat sauce.",
+      "Rist brødet og smør tykt med dressing.",
+      "Fyld med avocado, agurk og spirer og skær over."
     ],
     "src": "se:green goddess sandwich"
   },
@@ -2802,19 +2942,21 @@
     "hue": 190,
     "desc": "Sprøde fisketacos fra Baja California med kålsalat og lime-crema.",
     "ing": [
-      "hvid fisk",
-      "øl og mel til dej",
-      "tortillas",
-      "kål",
-      "lime",
-      "creme fraiche"
+      "500 g torsk i strimler",
+      "Dej: 1 dl mel, 1 dl øl, 1 tsk bagepulver, salt",
+      "olie til friturestegning",
+      "8 majstortillas",
+      "1/4 hvidkål i strimler",
+      "Lime-crema: 1 dl creme fraiche, saft af 1 lime, 1 spsk hakket koriander",
+      "koriander og lime"
     ],
     "steps": [
-      "Fritér fisk.",
-      "Lav kålsalat.",
-      "Saml."
+      "Pisk dej af mel, øl, bagepulver og salt.",
+      "Vend fisken i dejen og fritér ved 180 grader i 3-4 minutter, til den er gylden.",
+      "Vend kålen i lidt lime og salt.",
+      "Varm tortillas og fyld med fisk, kål og lime-crema."
     ],
-    "src": "se:baja fish tacos"
+    "src": "https://www.valdemarsro.dk/tacos-med-torsk/;se:baja fish tacos"
   },
   {
     "title": "Tacos al pastor",
@@ -2825,17 +2967,19 @@
     "hue": 20,
     "desc": "Marineret svinekød med ananas på tortillas. Klassisk mexicansk street food.",
     "ing": [
-      "svinekød",
-      "chilier, ananas",
-      "løg",
-      "koriander",
-      "tortillas",
-      "lime"
+      "600 g svinekam eller nakke i tynde skiver",
+      "3 tørrede guajillochilier",
+      "3 fed hvidløg",
+      "1 spsk eddike, 1 tsk oregano, 1 tsk spidskommen",
+      "1/2 ananas i skiver",
+      "12 små majstortillas",
+      "hakket løg, koriander og lime"
     ],
     "steps": [
-      "Mariner kød i chili og ananas.",
-      "Steg.",
-      "Server på tortillas."
+      "Udblød chilier i varmt vand og blend dem med hvidløg, eddike og krydderier til en marinade.",
+      "Mariner svinekødet mindst 2 timer.",
+      "Steg eller grill kød og ananas ved høj varme, til de har fået farve.",
+      "Skær i mindre stykker og server på varme tortillas med løg, koriander og lime."
     ],
     "src": "se:tacos al pastor"
   },
@@ -2848,17 +2992,19 @@
     "hue": 48,
     "desc": "Sprød kålsalat med sesamkylling og asiatisk dressing.",
     "ing": [
-      "kylling",
-      "kål",
-      "sesam",
-      "sojasauce",
-      "riseddike",
-      "forårsløg"
+      "4 kyllingelår eller 2 bryster",
+      "2 spsk sojasauce, 1 spsk sesamolie, 1 spsk honning",
+      "3 spsk sesamfrø",
+      "1/2 hvidkål eller spidskål i strimler",
+      "2 gulerødder",
+      "3 forårsløg",
+      "Dressing: 3 spsk riseddike, 2 spsk olie, 1 spsk soja, 1 tsk sukker"
     ],
     "steps": [
-      "Steg kylling.",
-      "Skær kål.",
-      "Vend med dressing."
+      "Mariner kyllingen i soja, sesamolie og honning i 30 minutter.",
+      "Rul kyllingen i sesamfrø og bag ved 200 grader i 25 minutter, til den er gylden og gennemstegt.",
+      "Vend kål, gulerod og forårsløg med dressingen.",
+      "Skær kyllingen i skiver og server oven på salaten."
     ],
     "src": "https://www.bonappetit.com/recipe/sesame-chicken-and-cabbage-salad-recipe"
   },
@@ -2871,15 +3017,17 @@
     "hue": 6,
     "desc": "Simpel tomatsovs med hvidløg og basilikum.",
     "ing": [
-      "pasta",
-      "tomater",
-      "hvidløg",
-      "basilikum",
-      "olivenolie"
+      "350 g spaghetti",
+      "2 dåser flåede tomater",
+      "3 fed hvidløg",
+      "3 spsk olivenolie",
+      "1 tsk sukker",
+      "en håndfuld basilikum",
+      "parmesan"
     ],
     "steps": [
-      "Kog sovs.",
-      "Vend pasta."
+      "Svits hvidløg i olie ved lav varme i 1 minut, tilsæt tomater og sukker og simr 20 minutter.",
+      "Kog pastaen al dente, vend den i saucen med basilikum og lidt kogevand, og server med parmesan."
     ],
     "src": "se:tomato sauce"
   }
