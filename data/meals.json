@@ -1,6 +1,7 @@
 [
   {
     "title": "Hainan-ris med kylling",
+    "cuisine": "Asiatisk",
     "year": 2025,
     "week": null,
     "emoji": "🍗",
@@ -30,6 +31,7 @@
   },
   {
     "title": "Sticky meatballs med ris og æblesalat og yoghurtdressing",
+    "cuisine": "Andet",
     "year": 2025,
     "week": null,
     "emoji": "🥗",
@@ -66,6 +68,7 @@
   },
   {
     "title": "Græske kødboller med tzatziki og horiatiki",
+    "cuisine": "Græsk & mellemøstlig",
     "year": 2025,
     "week": null,
     "emoji": "🫒",
@@ -93,6 +96,7 @@
   },
   {
     "title": "Mynte-melon-smoothie",
+    "cuisine": "Andet",
     "year": 2025,
     "week": null,
     "emoji": "🍈",
@@ -114,6 +118,7 @@
   },
   {
     "title": "Bagt tomat-pasta",
+    "cuisine": "Italiensk",
     "year": 2025,
     "week": null,
     "emoji": "🍅",
@@ -138,6 +143,7 @@
   },
   {
     "title": "Sheet-pan kylling med asparges i citronvinaigrette",
+    "cuisine": "Andet",
     "year": 2025,
     "week": null,
     "emoji": "🍋",
@@ -162,6 +168,7 @@
   },
   {
     "title": "Grillet laks med japansk kartoffelsalat og dampede grøntsager",
+    "cuisine": "Japansk & koreansk",
     "year": 2025,
     "week": null,
     "emoji": "🐟",
@@ -186,6 +193,7 @@
   },
   {
     "title": "Bulgursalat med kødboller",
+    "cuisine": "Græsk & mellemøstlig",
     "year": 2025,
     "week": null,
     "emoji": "🌾",
@@ -210,6 +218,7 @@
   },
   {
     "title": "Fiskefilet med hjemmerørt remoulade",
+    "cuisine": "Dansk",
     "year": 2025,
     "week": null,
     "emoji": "🐠",
@@ -235,6 +244,7 @@
   },
   {
     "title": "Squashdeller, mexi-ris og skirt steak-fajitas",
+    "cuisine": "Mexicansk",
     "year": 2025,
     "week": null,
     "emoji": "🌮",
@@ -261,6 +271,7 @@
   },
   {
     "title": "Laksepatties, kyllingeboller og farsbrød",
+    "cuisine": "Dansk",
     "year": 2025,
     "week": null,
     "emoji": "🍞",
@@ -285,6 +296,7 @@
   },
   {
     "title": "Shoyu-ramen",
+    "cuisine": "Japansk & koreansk",
     "year": 2025,
     "week": null,
     "emoji": "🍜",
@@ -310,6 +322,7 @@
   },
   {
     "title": "Fettuccine scampi",
+    "cuisine": "Italiensk",
     "year": 2025,
     "week": null,
     "emoji": "🍤",
@@ -335,6 +348,7 @@
   },
   {
     "title": "Grillburger med kartoffelsalat og vandmelonsalat",
+    "cuisine": "Amerikansk",
     "year": 2025,
     "week": null,
     "emoji": "🍔",
@@ -359,6 +373,7 @@
   },
   {
     "title": "Japansk nudelsuppe med koreansk-inspireret hvidløgsbrød",
+    "cuisine": "Japansk & koreansk",
     "year": 2025,
     "week": null,
     "emoji": "🍲",
@@ -383,6 +398,7 @@
   },
   {
     "title": "Laksedeller med bagte grøntsager",
+    "cuisine": "Dansk",
     "year": 2025,
     "week": null,
     "emoji": "🥕",
@@ -408,6 +424,7 @@
   },
   {
     "title": "Cæsar-wrap",
+    "cuisine": "Amerikansk",
     "year": 2025,
     "week": 17,
     "emoji": "🌯",
@@ -430,6 +447,7 @@
   },
   {
     "title": "Kylling-pesto-pasta (fryseret)",
+    "cuisine": "Italiensk",
     "year": 2025,
     "week": 12,
     "emoji": "🧊",
@@ -452,6 +470,7 @@
   },
   {
     "title": "Butter chicken",
+    "cuisine": "Indisk",
     "year": 2025,
     "week": 11,
     "emoji": "🍛",
@@ -478,6 +497,7 @@
   },
   {
     "title": "Gyudon",
+    "cuisine": "Japansk & koreansk",
     "year": 2025,
     "week": 9,
     "emoji": "🥢",
@@ -502,6 +522,7 @@
   },
   {
     "title": "Birria-tacos",
+    "cuisine": "Mexicansk",
     "year": 2025,
     "week": 9,
     "emoji": "🌮",
@@ -526,6 +547,7 @@
   },
   {
     "title": "Appelsinsalat",
+    "cuisine": "Andet",
     "year": 2025,
     "week": 9,
     "emoji": "🍊",
@@ -548,6 +570,7 @@
   },
   {
     "title": "Italiensk salat og tomatsuppe med grilled cheese",
+    "cuisine": "Amerikansk",
     "year": 2025,
     "week": null,
     "emoji": "🥪",
@@ -572,6 +595,7 @@
   },
   {
     "title": "Pastasalat",
+    "cuisine": "Italiensk",
     "year": 2025,
     "week": null,
     "emoji": "🥗",
@@ -595,6 +619,7 @@
   },
   {
     "title": "Laksebowl",
+    "cuisine": "Japansk & koreansk",
     "year": 2025,
     "week": 5,
     "emoji": "🍚",
@@ -619,6 +644,7 @@
   },
   {
     "title": "Hjemmelavede pølsebrød",
+    "cuisine": "Dansk",
     "year": 2025,
     "week": 5,
     "emoji": "🌭",
@@ -642,6 +668,7 @@
   },
   {
     "title": "Pasta med svampe i fløde",
+    "cuisine": "Italiensk",
     "year": 2025,
     "week": 5,
     "emoji": "🍄",
@@ -665,6 +692,7 @@
   },
   {
     "title": "Cassoulet",
+    "cuisine": "Fransk",
     "year": 2025,
     "week": 4,
     "emoji": "🥘",
@@ -688,6 +716,7 @@
   },
   {
     "title": "Kartoffel-porresuppe med pita",
+    "cuisine": "Dansk",
     "year": 2025,
     "week": 4,
     "emoji": "🥣",
@@ -712,6 +741,7 @@
   },
   {
     "title": "Laks med sauce soubise og purløgsolie",
+    "cuisine": "Fransk",
     "year": 2024,
     "week": null,
     "emoji": "🐟",
@@ -738,6 +768,7 @@
   },
   {
     "title": "Gyudon, karaage-kylling og japansk kartoffelsalat",
+    "cuisine": "Japansk & koreansk",
     "year": 2024,
     "week": 32,
     "emoji": "🍱",
@@ -762,6 +793,7 @@
   },
   {
     "title": "Pølser med bagekartofler, coleslaw og græsk salat",
+    "cuisine": "Dansk",
     "year": 2024,
     "week": 30,
     "emoji": "🥔",
@@ -786,6 +818,7 @@
   },
   {
     "title": "Kold sobasalat med grønkål, avocado og miso-sesamdressing",
+    "cuisine": "Japansk & koreansk",
     "year": 2024,
     "week": 30,
     "emoji": "🥬",
@@ -810,6 +843,7 @@
   },
   {
     "title": "Sobasalat med tang, agurk og asparges",
+    "cuisine": "Japansk & koreansk",
     "year": 2024,
     "week": 30,
     "emoji": "🥒",
@@ -833,6 +867,7 @@
   },
   {
     "title": "Svampetoast",
+    "cuisine": "Dansk",
     "year": 2024,
     "week": 29,
     "emoji": "🍄",
@@ -857,6 +892,7 @@
   },
   {
     "title": "Blåbærsalat",
+    "cuisine": "Andet",
     "year": 2024,
     "week": 29,
     "emoji": "🫐",
@@ -879,6 +915,7 @@
   },
   {
     "title": "Toscansk tomatsuppe",
+    "cuisine": "Italiensk",
     "year": 2024,
     "week": 28,
     "emoji": "🍅",
@@ -903,6 +940,7 @@
   },
   {
     "title": "Bibimbap",
+    "cuisine": "Japansk & koreansk",
     "year": 2024,
     "week": 28,
     "emoji": "🍚",
@@ -927,6 +965,7 @@
   },
   {
     "title": "Tomat- og røget fetatærte",
+    "cuisine": "Andet",
     "year": 2024,
     "week": 27,
     "emoji": "🥧",
@@ -949,6 +988,7 @@
   },
   {
     "title": "Kyllingesalat med avocado, majs og misodressing",
+    "cuisine": "Japansk & koreansk",
     "year": 2024,
     "week": 27,
     "emoji": "🌽",
@@ -973,6 +1013,7 @@
   },
   {
     "title": "Tom yum-suppe",
+    "cuisine": "Asiatisk",
     "year": 2024,
     "week": 26,
     "emoji": "🌶️",
@@ -997,6 +1038,7 @@
   },
   {
     "title": "Mortadella-sando",
+    "cuisine": "Italiensk",
     "year": 2024,
     "week": 26,
     "emoji": "🥪",
@@ -1018,6 +1060,7 @@
   },
   {
     "title": "Frikadeller med nye kartofler",
+    "cuisine": "Dansk",
     "year": 2024,
     "week": 26,
     "emoji": "🥩",
@@ -1041,6 +1084,7 @@
   },
   {
     "title": "Spaghetti bolognese",
+    "cuisine": "Italiensk",
     "year": 2024,
     "week": 25,
     "emoji": "🍝",
@@ -1065,6 +1109,7 @@
   },
   {
     "title": "Zucchini-basilikumsuppe",
+    "cuisine": "Italiensk",
     "year": 2024,
     "week": 25,
     "emoji": "🥒",
@@ -1088,6 +1133,7 @@
   },
   {
     "title": "BLT-sandwich",
+    "cuisine": "Amerikansk",
     "year": 2024,
     "week": 25,
     "emoji": "🥓",
@@ -1109,6 +1155,7 @@
   },
   {
     "title": "Peach melba og hjemmelavet limonade",
+    "cuisine": "Fransk",
     "year": 2024,
     "week": 25,
     "emoji": "🍑",
@@ -1132,6 +1179,7 @@
   },
   {
     "title": "Forårsruller og grøntsagswok",
+    "cuisine": "Asiatisk",
     "year": 2024,
     "week": 24,
     "emoji": "🥟",
@@ -1155,6 +1203,7 @@
   },
   {
     "title": "Hjemmelavet instant noodles",
+    "cuisine": "Asiatisk",
     "year": 2024,
     "week": 24,
     "emoji": "🍜",
@@ -1177,6 +1226,7 @@
   },
   {
     "title": "Fiske-tacos med syltet rødløg, avocadocreme og pico de gallo",
+    "cuisine": "Mexicansk",
     "year": 2024,
     "week": 24,
     "emoji": "🌮",
@@ -1201,6 +1251,7 @@
   },
   {
     "title": "Ramen",
+    "cuisine": "Japansk & koreansk",
     "year": 2024,
     "week": 23,
     "emoji": "🍜",
@@ -1224,6 +1275,7 @@
   },
   {
     "title": "Chimichanga med mangosalsa",
+    "cuisine": "Mexicansk",
     "year": 2024,
     "week": 17,
     "emoji": "🥭",
@@ -1248,6 +1300,7 @@
   },
   {
     "title": "Burger",
+    "cuisine": "Amerikansk",
     "year": 2024,
     "week": 8,
     "emoji": "🍔",
@@ -1270,6 +1323,7 @@
   },
   {
     "title": "Pita med syltet citronkylling, fries med chilimayo",
+    "cuisine": "Græsk & mellemøstlig",
     "year": 2024,
     "week": 7,
     "emoji": "🍋",
@@ -1294,6 +1348,7 @@
   },
   {
     "title": "Fire-oste-pizza",
+    "cuisine": "Italiensk",
     "year": 2024,
     "week": 6,
     "emoji": "🍕",
@@ -1317,6 +1372,7 @@
   },
   {
     "title": "Peruviansk kylling",
+    "cuisine": "Mexicansk",
     "year": 2024,
     "week": 6,
     "emoji": "🍗",
@@ -1338,6 +1394,7 @@
   },
   {
     "title": "Tomatquiche med fransk salat og ostebord",
+    "cuisine": "Fransk",
     "year": 2024,
     "week": 5,
     "emoji": "🧀",
@@ -1363,6 +1420,7 @@
   },
   {
     "title": "Kyllingeburgere",
+    "cuisine": "Amerikansk",
     "year": 2024,
     "week": 4,
     "emoji": "🍔",
@@ -1384,6 +1442,7 @@
   },
   {
     "title": "Bønne- og svampegryde",
+    "cuisine": "Andet",
     "year": 2024,
     "week": 2,
     "emoji": "🫘",
@@ -1406,6 +1465,7 @@
   },
   {
     "title": "Portobelloburger",
+    "cuisine": "Amerikansk",
     "year": 2024,
     "week": 2,
     "emoji": "🍔",
@@ -1428,6 +1488,7 @@
   },
   {
     "title": "Burrito og chili con carne",
+    "cuisine": "Mexicansk",
     "year": 2024,
     "week": 1,
     "emoji": "🌯",
@@ -1450,6 +1511,7 @@
   },
   {
     "title": "Fransk løgsuppe",
+    "cuisine": "Fransk",
     "year": 2023,
     "week": 51,
     "emoji": "🧅",
@@ -1472,6 +1534,7 @@
   },
   {
     "title": "Sund pastasalat",
+    "cuisine": "Italiensk",
     "year": 2023,
     "week": 50,
     "emoji": "🥗",
@@ -1494,6 +1557,7 @@
   },
   {
     "title": "Brændende kærlighed",
+    "cuisine": "Dansk",
     "year": 2023,
     "week": 49,
     "emoji": "🔥",
@@ -1515,6 +1579,7 @@
   },
   {
     "title": "Pasta med chorizo og fløde",
+    "cuisine": "Italiensk",
     "year": 2023,
     "week": 49,
     "emoji": "🌶️",
@@ -1537,6 +1602,7 @@
   },
   {
     "title": "Porrepandekager med grøn dressing, couscous og grillet courgettesalat",
+    "cuisine": "Andet",
     "year": 2023,
     "week": 48,
     "emoji": "🥞",
@@ -1560,6 +1626,7 @@
   },
   {
     "title": "Hvid pizza med tomat og svampe",
+    "cuisine": "Italiensk",
     "year": 2023,
     "week": 48,
     "emoji": "🍕",
@@ -1582,6 +1649,7 @@
   },
   {
     "title": "Pasta med blistrede cherrytomater",
+    "cuisine": "Italiensk",
     "year": 2023,
     "week": 48,
     "emoji": "🍅",
@@ -1604,6 +1672,7 @@
   },
   {
     "title": "Tomatsuppe og trefoldig grilled cheese",
+    "cuisine": "Amerikansk",
     "year": 2023,
     "week": 47,
     "emoji": "🧀",
@@ -1625,6 +1694,7 @@
   },
   {
     "title": "Naan-kebab, shoyu-grøntsager over ris og kyllingesuppe",
+    "cuisine": "Indisk",
     "year": 2023,
     "week": 40,
     "emoji": "🍢",
@@ -1648,6 +1718,7 @@
   },
   {
     "title": "Bolognese og peanut-chilinudler",
+    "cuisine": "Italiensk",
     "year": 2023,
     "week": 31,
     "emoji": "🥜",
@@ -1669,6 +1740,7 @@
   },
   {
     "title": "Gyros med græsk grilltallerken",
+    "cuisine": "Græsk & mellemøstlig",
     "year": 2023,
     "week": 30,
     "emoji": "🥙",
@@ -1690,6 +1762,7 @@
   },
   {
     "title": "Cæsarsalat, bruschetta og salade niçoise",
+    "cuisine": "Andet",
     "year": 2023,
     "week": 29,
     "emoji": "🥗",
@@ -1708,6 +1781,7 @@
   },
   {
     "title": "Spätzle-carbonara og bønnesalat",
+    "cuisine": "Andet",
     "year": 2023,
     "week": 28,
     "emoji": "🍝",
@@ -1730,6 +1804,7 @@
   },
   {
     "title": "Burger og flæskesteg med kartofler",
+    "cuisine": "Dansk",
     "year": 2023,
     "week": 27,
     "emoji": "🍖",
@@ -1750,6 +1825,7 @@
   },
   {
     "title": "Hvid pizza med tre oste, salsiccia og østershatte",
+    "cuisine": "Italiensk",
     "year": 2023,
     "week": 26,
     "emoji": "🍕",
@@ -1772,6 +1848,7 @@
   },
   {
     "title": "Yakitori med grillede grøntsager og perlebygrisotto",
+    "cuisine": "Japansk & koreansk",
     "year": 2023,
     "week": 19,
     "emoji": "🍢",
@@ -1794,6 +1871,7 @@
   },
   {
     "title": "Mulligatawny",
+    "cuisine": "Indisk",
     "year": 2023,
     "week": 18,
     "emoji": "🍲",
@@ -1816,6 +1894,7 @@
   },
   {
     "title": "Okonomiyaki",
+    "cuisine": "Japansk & koreansk",
     "year": 2023,
     "week": 18,
     "emoji": "🥞",
@@ -1838,6 +1917,7 @@
   },
   {
     "title": "Kyllingeburger på squash med hjemmelavet ketchup",
+    "cuisine": "Amerikansk",
     "year": 2023,
     "week": 17,
     "emoji": "🥒",
@@ -1859,6 +1939,7 @@
   },
   {
     "title": "Kikærte-, kokos- og cashewkarry",
+    "cuisine": "Indisk",
     "year": 2023,
     "week": 17,
     "emoji": "🥥",
@@ -1881,6 +1962,7 @@
   },
   {
     "title": "Shio-ramen til fødselsdag",
+    "cuisine": "Japansk & koreansk",
     "year": 2023,
     "week": 15,
     "emoji": "🎂",
@@ -1901,6 +1983,7 @@
   },
   {
     "title": "Muslinger med linguine",
+    "cuisine": "Italiensk",
     "year": 2023,
     "week": 14,
     "emoji": "🦪",
@@ -1922,6 +2005,7 @@
   },
   {
     "title": "Vietnamesiske frikadeller med nudelsalat",
+    "cuisine": "Asiatisk",
     "year": 2023,
     "week": 13,
     "emoji": "🍜",
@@ -1944,6 +2028,7 @@
   },
   {
     "title": "Pita-falafel",
+    "cuisine": "Græsk & mellemøstlig",
     "year": 2023,
     "week": 7,
     "emoji": "🧆",
@@ -1966,6 +2051,7 @@
   },
   {
     "title": "Svampe i fløde med kartofler og dampede grøntsager",
+    "cuisine": "Dansk",
     "year": 2023,
     "week": 7,
     "emoji": "🍄",
@@ -1987,6 +2073,7 @@
   },
   {
     "title": "15-minutters chili",
+    "cuisine": "Mexicansk",
     "year": 2023,
     "week": 7,
     "emoji": "🌶️",
@@ -2007,6 +2094,7 @@
   },
   {
     "title": "Rösti og svinegryde",
+    "cuisine": "Andet",
     "year": 2023,
     "week": 6,
     "emoji": "🥔",
@@ -2027,6 +2115,7 @@
   },
   {
     "title": "Kimchi-ramen",
+    "cuisine": "Japansk & koreansk",
     "year": 2023,
     "week": 5,
     "emoji": "🥬",
@@ -2045,6 +2134,7 @@
   },
   {
     "title": "Spinat-ricottatærte med kartoffelskivebund",
+    "cuisine": "Italiensk",
     "year": 2023,
     "week": 5,
     "emoji": "🥧",
@@ -2065,6 +2155,7 @@
   },
   {
     "title": "Kartoffelmos med sovs, rødbeder og veggiedeller",
+    "cuisine": "Dansk",
     "year": 2023,
     "week": 4,
     "emoji": "🥕",
@@ -2085,6 +2176,7 @@
   },
   {
     "title": "Frysepizza med gedeost og pærer",
+    "cuisine": "Italiensk",
     "year": 2023,
     "week": 4,
     "emoji": "🍐",
@@ -2106,6 +2198,7 @@
   },
   {
     "title": "Græsk pastasalat",
+    "cuisine": "Græsk & mellemøstlig",
     "year": 2023,
     "week": 3,
     "emoji": "🫒",
@@ -2128,6 +2221,7 @@
   },
   {
     "title": "Mexicansk kyllingesuppe",
+    "cuisine": "Mexicansk",
     "year": 2023,
     "week": 3,
     "emoji": "🌮",
@@ -2149,6 +2243,7 @@
   },
   {
     "title": "Indisk fest",
+    "cuisine": "Indisk",
     "year": 2023,
     "week": 3,
     "emoji": "🍛",
@@ -2169,6 +2264,7 @@
   },
   {
     "title": "4-dollar-pasta med polenta og tomatsalat",
+    "cuisine": "Italiensk",
     "year": 2023,
     "week": 3,
     "emoji": "🍝",
@@ -2189,6 +2285,7 @@
   },
   {
     "title": "Risotto",
+    "cuisine": "Italiensk",
     "year": 2023,
     "week": 2,
     "emoji": "🍚",
@@ -2211,6 +2308,7 @@
   },
   {
     "title": "Fiskewraps",
+    "cuisine": "Andet",
     "year": 2023,
     "week": 2,
     "emoji": "🌯",
@@ -2230,6 +2328,7 @@
   },
   {
     "title": "Eggs benedict",
+    "cuisine": "Amerikansk",
     "year": 2023,
     "week": 2,
     "emoji": "🍳",
@@ -2250,6 +2349,7 @@
   },
   {
     "title": "Fermenteret hot sauce",
+    "cuisine": "Andet",
     "year": 2023,
     "week": 2,
     "emoji": "🌶️",
@@ -2271,6 +2371,7 @@
   },
   {
     "title": "Sunday roast med løgsovs og ovnbagt kål",
+    "cuisine": "Andet",
     "year": 2022,
     "week": 52,
     "emoji": "🥩",
@@ -2295,6 +2396,7 @@
   },
   {
     "title": "Spaghetti aglio e olio",
+    "cuisine": "Italiensk",
     "year": 2022,
     "week": 52,
     "emoji": "🧄",
@@ -2318,6 +2420,7 @@
   },
   {
     "title": "Hakkebøffer med bløde løg",
+    "cuisine": "Dansk",
     "year": 2022,
     "week": 50,
     "emoji": "🥩",
@@ -2340,6 +2443,7 @@
   },
   {
     "title": "Gullasch",
+    "cuisine": "Andet",
     "year": 2022,
     "week": 50,
     "emoji": "🍲",
@@ -2363,6 +2467,7 @@
   },
   {
     "title": "Kyllingebolognese",
+    "cuisine": "Italiensk",
     "year": 2022,
     "week": 50,
     "emoji": "🍝",
@@ -2384,6 +2489,7 @@
   },
   {
     "title": "Vegetarfrikadeller med stuvet hvidkål",
+    "cuisine": "Dansk",
     "year": 2022,
     "week": 49,
     "emoji": "🥬",
@@ -2405,6 +2511,7 @@
   },
   {
     "title": "Smash burger",
+    "cuisine": "Amerikansk",
     "year": 2022,
     "week": 49,
     "emoji": "🍔",
@@ -2427,6 +2534,7 @@
   },
   {
     "title": "Ærtesuppe",
+    "cuisine": "Dansk",
     "year": 2022,
     "week": 48,
     "emoji": "🥣",
@@ -2447,6 +2555,7 @@
   },
   {
     "title": "Ramen med chashu",
+    "cuisine": "Japansk & koreansk",
     "year": 2022,
     "week": 48,
     "emoji": "🍜",
@@ -2469,6 +2578,7 @@
   },
   {
     "title": "Grilled cheese og tomatsuppe",
+    "cuisine": "Amerikansk",
     "year": 2022,
     "week": 47,
     "emoji": "🧀",
@@ -2488,6 +2598,7 @@
   },
   {
     "title": "Risengrød",
+    "cuisine": "Dansk",
     "year": 2022,
     "week": 47,
     "emoji": "🍚",
@@ -2509,6 +2620,7 @@
   },
   {
     "title": "Kikærtekarry",
+    "cuisine": "Indisk",
     "year": 2022,
     "week": 47,
     "emoji": "🍛",
@@ -2531,6 +2643,7 @@
   },
   {
     "title": "Lasagne",
+    "cuisine": "Italiensk",
     "year": 2022,
     "week": 47,
     "emoji": "🍝",
@@ -2552,6 +2665,7 @@
   },
   {
     "title": "Shakshuka",
+    "cuisine": "Græsk & mellemøstlig",
     "year": 2022,
     "week": 45,
     "emoji": "🍳",
@@ -2574,6 +2688,7 @@
   },
   {
     "title": "Tunpasta",
+    "cuisine": "Italiensk",
     "year": 2022,
     "week": 45,
     "emoji": "🐟",
@@ -2596,6 +2711,7 @@
   },
   {
     "title": "Agurke-, tomat- og bønnesalat",
+    "cuisine": "Asiatisk",
     "year": 2022,
     "week": 45,
     "emoji": "🥒",
@@ -2618,6 +2734,7 @@
   },
   {
     "title": "Green goddess-sandwich",
+    "cuisine": "Amerikansk",
     "year": 2022,
     "week": 45,
     "emoji": "🥪",
@@ -2638,6 +2755,7 @@
   },
   {
     "title": "Baja-tacos",
+    "cuisine": "Mexicansk",
     "year": 2022,
     "week": 44,
     "emoji": "🌮",
@@ -2660,6 +2778,7 @@
   },
   {
     "title": "Tacos al pastor",
+    "cuisine": "Mexicansk",
     "year": 2022,
     "week": 44,
     "emoji": "🌮",
@@ -2682,6 +2801,7 @@
   },
   {
     "title": "Sesamkylling og kålsalat",
+    "cuisine": "Asiatisk",
     "year": 2022,
     "week": 43,
     "emoji": "🥬",
@@ -2704,6 +2824,7 @@
   },
   {
     "title": "Pasta med tomatsovs",
+    "cuisine": "Italiensk",
     "year": 2022,
     "week": 43,
     "emoji": "🍝",
