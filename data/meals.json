@@ -1,0 +1,2723 @@
+[
+  {
+    "title": "Hainan-ris med kylling",
+    "year": 2025,
+    "week": null,
+    "emoji": "🍗",
+    "hue": 48,
+    "desc": "Blød, saftig kylling pocheret i bouillon og serveret over ris kogt i det samme kraftfulde fond. Med friskhakket ingefær, hvidløg og forårsløg, agurk og pak choi ved siden af.",
+    "ing": [
+      "4 kyllingefileter",
+      "300 g jasminris",
+      "3 cm ingefær",
+      "4 fed hvidløg",
+      "4 forårsløg",
+      "1 agurk",
+      "2 pak choi",
+      "1 lime",
+      "1 stilk citrongræs",
+      "sojasauce og sesamolie"
+    ],
+    "steps": [
+      "Pocher kyllingen ved svag varme i vand med ingefær, citrongræs og forårsløg, til den lige er gennemkogt.",
+      "Rist hvidløg og ingefær i lidt olie, tilsæt risene og kog dem i kyllingefonden.",
+      "Skær kyllingen i skiver og server over risene med agurk, dampet pak choi og lime.",
+      "Lav en hurtig sauce af hakket ingefær, forårsløg, sojasauce og sesamolie."
+    ],
+    "src": "se:hainanese chicken rice;vr:hainan kylling ris"
+  },
+  {
+    "title": "Sticky meatballs med ris og æblesalat og yoghurtdressing",
+    "year": 2025,
+    "week": null,
+    "emoji": "🥗",
+    "hue": 89,
+    "desc": "En sprød, frisk salat med syrlige æbler og en cremet yoghurtdressing, som klæder de lune kødboller godt.",
+    "ing": [
+      "2 æbler",
+      "1 hjertesalat",
+      "1 agurk",
+      "200 ml græsk yoghurt",
+      "1 spsk citronsaft",
+      "1 tsk honning",
+      "400 g hakket gris/kalv til kødboller",
+      "2 forårsløg",
+      "3 cm ingefær",
+      "1 æg",
+      "20g Rasp",
+      "40 ml Soja",
+      "2 tsk Brun farin",
+      "1 tsk fiskesauce",
+      "2 hvidløg",
+      "300 g ris"
+    ],
+    "steps": [
+      "Bland kød, æg, rasp, forårsløg og ingefær i en skål.",
+      "Form kødboller og lad dem hvile i køleskab ca. 20 min.",
+      "Rør yoghurt, citronsaft, honning, soja til en dressing.",
+      "Vend salat, skåret æble og agurk sammen.",
+      "Form kødboller og steg i neutral olie til brune.",
+      "tilføj soja (lad det boble lidt), brun farin, fiskesauce og hvidløg og lad det simre sammen i 5 min.",
+      "Server kødbollerne ovenpå risen med saucen. Top med forårsløg."
+    ],
+    "src": "vr:kødboller;se:apple salad yogurt dressing"
+  },
+  {
+    "title": "Græske kødboller med tzatziki og horiatiki",
+    "year": 2025,
+    "week": null,
+    "emoji": "🫒",
+    "hue": 150,
+    "desc": "Krydrede kødboller med oregano og mynte, kølig tzatziki og en klassisk græsk bondesalat med tomat, agurk, feta og oliven.",
+    "ing": [
+      "500 g hakket lam eller svinekød",
+      "1 løg",
+      "2 fed hvidløg",
+      "1 tsk tørret oregano",
+      "mynte",
+      "250 g græsk yoghurt",
+      "1 agurk",
+      "tomater",
+      "rødløg",
+      "feta og kalamataoliven"
+    ],
+    "steps": [
+      "Bland kød, revet løg, hvidløg, krydderurter, salt og peber, og form små boller.",
+      "Bag eller steg kødbollerne gyldne.",
+      "Riv agurk til tzatziki, vrid den tør og rør den med yoghurt, hvidløg og olivenolie.",
+      "Hak grøntsager til salaten og top med feta, oliven og oregano."
+    ],
+    "src": "se:greek meatballs keftedes;vr:græske kødboller tzatziki"
+  },
+  {
+    "title": "Mynte-melon-smoothie",
+    "year": 2025,
+    "week": null,
+    "emoji": "🍈",
+    "hue": 130,
+    "desc": "Forfriskende sommerdrik af moden melon, frisk mynte og lidt lime. Perfekt som start på middagen en varm dag.",
+    "ing": [
+      "1/2 cantaloupe- eller honningmelon",
+      "en håndfuld frisk mynte",
+      "saft af 1/2 lime",
+      "isterninger",
+      "evt. lidt honning"
+    ],
+    "steps": [
+      "Skær melonen i stykker og fjern kernerne.",
+      "Blend med mynte, limesaft og is til glat konsistens.",
+      "Smag til med honning, hvis melonen ikke er sød nok."
+    ],
+    "src": "vr:melon smoothie"
+  },
+  {
+    "title": "Bagt tomat-pasta",
+    "year": 2025,
+    "week": null,
+    "emoji": "🍅",
+    "hue": 8,
+    "desc": "Cherrytomater og hvidløg bages bløde i ovnen og bliver til en sød, intens sauce, som pasta vendes direkte i.",
+    "ing": [
+      "500 g cherrytomater",
+      "4 fed hvidløg",
+      "4 spsk olivenolie",
+      "400 g pasta",
+      "frisk basilikum",
+      "parmesan",
+      "chiliflager"
+    ],
+    "steps": [
+      "Bag tomater, hele hvidløgsfed og olie ved 200 grader i ca. 25 minutter.",
+      "Kog pastaen al dente.",
+      "Mos tomaterne let med en gaffel, vend pastaen i med lidt kogevand.",
+      "Top med basilikum og parmesan."
+    ],
+    "src": "se:blistered cherry tomato pasta;vr:bagt tomat pasta"
+  },
+  {
+    "title": "Sheet-pan kylling med asparges i citronvinaigrette",
+    "year": 2025,
+    "week": null,
+    "emoji": "🍋",
+    "hue": 55,
+    "desc": "Alt på én bageplade: sprød kylling og grønne asparges i en frisk citronvinaigrette. Minimal opvask og maksimal smag.",
+    "ing": [
+      "4 kyllingelår eller bryst",
+      "1 bundt grønne asparges",
+      "1 økologisk citron",
+      "3 spsk olivenolie",
+      "1 tsk dijonsennep",
+      "1 fed hvidløg",
+      "nye kartofler"
+    ],
+    "steps": [
+      "Bag kylling og halverede kartofler ved 220 grader i 25 minutter.",
+      "Tilsæt asparges til sidste 10 minutter.",
+      "Pisk olie, citronsaft og -skal, sennep og hvidløg til en vinaigrette.",
+      "Dryp over og server."
+    ],
+    "src": "se:sheet pan chicken asparagus lemon;vr:ovnbagt kylling asparges citron"
+  },
+  {
+    "title": "Grillet laks med japansk kartoffelsalat og dampede grøntsager",
+    "year": 2025,
+    "week": null,
+    "emoji": "🐟",
+    "hue": 18,
+    "desc": "Saftig grillet laks ved siden af cremet japansk kartoffelsalat med agurk og gulerod, og enkle dampede grøntsager.",
+    "ing": [
+      "4 stykker laks",
+      "600 g kartofler",
+      "1 agurk",
+      "1 gulerod",
+      "3 spsk Kewpie- eller japansk mayo",
+      "1 spsk riseddike",
+      "broccoli eller grønne bønner",
+      "sojasauce"
+    ],
+    "steps": [
+      "Kog kartoflerne, mos dem groft og bland med mayo, eddike, salt og tyndt skåret agurk og gulerod.",
+      "Pensl laksen med sojasauce og grill eller steg til den er lige mør.",
+      "Damp grøntsagerne og server alt sammen."
+    ],
+    "src": "https://www.seriouseats.com/japanese-potato-salad-recipe"
+  },
+  {
+    "title": "Bulgursalat med kødboller",
+    "year": 2025,
+    "week": null,
+    "emoji": "🌾",
+    "hue": 40,
+    "desc": "Luftig bulgursalat med masser af persille, mynte, tomat og citron, serveret med lune kødboller.",
+    "ing": [
+      "250 g bulgur",
+      "3 tomater",
+      "1 agurk",
+      "1 bundt persille",
+      "mynte",
+      "1 citron",
+      "olivenolie",
+      "400 g kødboller (fx lam)"
+    ],
+    "steps": [
+      "Udblød bulgur i varmt vand i ca. 15 minutter og dræn.",
+      "Hak grøntsager og krydderurter fint og vend dem i med citron og olie.",
+      "Server med nystegte kødboller."
+    ],
+    "src": "vr:bulgursalat;se:tabbouleh"
+  },
+  {
+    "title": "Fiskefilet med hjemmerørt remoulade",
+    "year": 2025,
+    "week": null,
+    "emoji": "🐠",
+    "hue": 205,
+    "desc": "Sprødstegt panérede fiskefileter med klassisk dansk remoulade rørt fra bunden, til kartofler.",
+    "ing": [
+      "4 fiskefileter (rødspætte eller torsk)",
+      "2 æg",
+      "mel og rasp",
+      "smør til stegning",
+      "200 g mayo",
+      "syltede asier og kapers",
+      "karry og gurkemeje",
+      "kartofler og citron"
+    ],
+    "steps": [
+      "Vend fisken i mel, sammenpisket æg og rasp.",
+      "Steg i smør til gyldne, ca. 3 minutter på hver side.",
+      "Rør remoulade af mayo, hakkede asier, kapers, karry og lidt gurkemeje.",
+      "Server med kogte kartofler og citron."
+    ],
+    "src": "vr:hjemmelavet remoulade;vr:fiskefilet panerede"
+  },
+  {
+    "title": "Squashdeller, mexi-ris og skirt steak-fajitas",
+    "year": 2025,
+    "week": null,
+    "emoji": "🌮",
+    "hue": 22,
+    "desc": "Mexicansk aften med sprøde squashdeller, krydret ris og saftige fajitas af skirt steak med peberfrugt og løg.",
+    "ing": [
+      "2 squash",
+      "2 æg og lidt mel",
+      "300 g skirt steak",
+      "2 peberfrugter",
+      "2 løg",
+      "fajitakrydderi",
+      "250 g ris",
+      "tomatpuré og spidskommen",
+      "tortillas, lime og creme fraiche"
+    ],
+    "steps": [
+      "Riv squash, pres vandet fra og bland med æg, mel og salt. Steg små deller.",
+      "Kog ris med tomatpuré og spidskommen til mexi-ris.",
+      "Mariner steak i krydderi og steg hurtigt. Hvil og skær i strimler på tværs.",
+      "Svits peber og løg og server med varme tortillas."
+    ],
+    "src": "se:skirt steak fajitas;vr:fajitas"
+  },
+  {
+    "title": "Laksepatties, kyllingeboller og farsbrød",
+    "year": 2025,
+    "week": null,
+    "emoji": "🍞",
+    "hue": 28,
+    "desc": "En trio af hverdagsfavoritter: sprøde laksepatties, møre kyllingeboller og et saftigt farsbrød. Gode til madpakker dagen efter.",
+    "ing": [
+      "400 g laks",
+      "1 æg",
+      "rasp",
+      "forårsløg",
+      "500 g hakket kylling",
+      "500 g hakket svinekød",
+      "1 løg",
+      "mælk"
+    ],
+    "steps": [
+      "Hak laks groft og bland med æg, rasp og forårsløg. Form patties og steg dem.",
+      "Kyllingeboller formes af hakket kylling, løg og æg og steges.",
+      "Farsbrød: ælt farsen med løg, æg og mælk, bag ved 180 grader i ca. 50 minutter."
+    ],
+    "src": "vr:farsbrød;vr:laksefrikadeller"
+  },
+  {
+    "title": "Shoyu-ramen",
+    "year": 2025,
+    "week": null,
+    "emoji": "🍜",
+    "hue": 20,
+    "desc": "Klar, saltsyrlig ramen med sojabaseret bouillon, nudler, blødkogt æg og grønt ovenpå.",
+    "ing": [
+      "1 l kyllingebouillon",
+      "4 spsk sojasauce",
+      "2 spsk mirin",
+      "ingefær og hvidløg",
+      "4 portioner ramennudler",
+      "4 æg",
+      "forårsløg",
+      "nori"
+    ],
+    "steps": [
+      "Simr bouillon med ingefær, hvidløg, sojasauce og mirin.",
+      "Kog æg i 6,5 minutter, afkøl og pil.",
+      "Kog nudlerne separat og fordel dem i skåle.",
+      "Hæld bouillon over, top med æg, forårsløg og nori."
+    ],
+    "src": "se:shoyu ramen;vr:ramen"
+  },
+  {
+    "title": "Fettuccine scampi",
+    "year": 2025,
+    "week": null,
+    "emoji": "🍤",
+    "hue": 12,
+    "desc": "Fettuccine i smør-hvidløgssauce med hvidvin og citron, toppet med bløde rejer.",
+    "ing": [
+      "350 g fettuccine",
+      "400 g rejer",
+      "5 fed hvidløg",
+      "100 ml hvidvin",
+      "50 g smør",
+      "1 citron",
+      "persille",
+      "chiliflager"
+    ],
+    "steps": [
+      "Kog pastaen al dente.",
+      "Svits hvidløg og chili i smør, tilsæt rejer og steg et par minutter.",
+      "Tilsæt vin og citronsaft og lad det koge ind.",
+      "Vend pasta og persille i."
+    ],
+    "src": "se:shrimp scampi pasta;vr:pasta rejer hvidløg"
+  },
+  {
+    "title": "Grillburger med kartoffelsalat og vandmelonsalat",
+    "year": 2025,
+    "week": null,
+    "emoji": "🍔",
+    "hue": 5,
+    "desc": "Klassisk sommerbuffet: saftig grillet burger, cremet kartoffelsalat og en frisk vandmelonsalat med feta og mynte.",
+    "ing": [
+      "600 g hakket oksekød",
+      "4 burgerboller",
+      "ost og salat",
+      "600 g kartofler",
+      "mayo og rødløg",
+      "1/4 vandmelon",
+      "feta og mynte"
+    ],
+    "steps": [
+      "Form bøffer, krydr med salt og peber og grill dem.",
+      "Kog kartofler, vend dem med mayo, rødløg og purløg.",
+      "Skær vandmelon i tern og vend med feta, mynte og lime.",
+      "Saml burgerne."
+    ],
+    "src": "se:grilled burger;vr:burger"
+  },
+  {
+    "title": "Japansk nudelsuppe med koreansk-inspireret hvidløgsbrød",
+    "year": 2025,
+    "week": null,
+    "emoji": "🍲",
+    "hue": 35,
+    "desc": "Varm nudelsuppe med rig bouillon, serveret med sprødt hvidløgsbrød i koreansk stil med flødeost og honning.",
+    "ing": [
+      "1 l bouillon",
+      "udon- eller soba-nudler",
+      "sojasauce og mirin",
+      "forårsløg",
+      "svampe",
+      "1 baguette",
+      "flødeost",
+      "hvidløg, smør og honning"
+    ],
+    "steps": [
+      "Simr bouillon med sojasauce og mirin, tilsæt svampe og nudler.",
+      "Bland hvidløgssmør og flødeost, fyld i snittet baguette og bag.",
+      "Dryp med honning og server ved siden af suppen."
+    ],
+    "src": "vr:nudelsuppe;se:korean cream cheese garlic bread"
+  },
+  {
+    "title": "Laksedeller med bagte grøntsager",
+    "year": 2025,
+    "week": null,
+    "emoji": "🥕",
+    "hue": 24,
+    "desc": "Lyse, saftige laksedeller og ovnbagte grøntsager i alle farver, serveret med hjemmerørt remoulade.",
+    "ing": [
+      "500 g laks",
+      "1 æg",
+      "1 løg",
+      "dild",
+      "rasp",
+      "gulerødder, kartofler og rodfrugter",
+      "olivenolie",
+      "hjemmerørt remoulade"
+    ],
+    "steps": [
+      "Hak laks fint med løg og dild, bland med æg og rasp.",
+      "Form deller og steg dem gyldne.",
+      "Bag grøntsager med olie ved 200 grader i 35 minutter.",
+      "Server med remoulade."
+    ],
+    "src": "vr:laksefrikadeller"
+  },
+  {
+    "title": "Cæsar-wrap",
+    "year": 2025,
+    "week": 17,
+    "emoji": "🌯",
+    "hue": 85,
+    "desc": "Den klassiske cæsarsalat pakket i en wrap: sprød kylling, romaine, parmesan og cremet dressing.",
+    "ing": [
+      "2 kyllingefileter",
+      "4 store tortillas",
+      "1 romaine-salat",
+      "parmesan",
+      "croutoner",
+      "cæsardressing (mayo, citron, ansjoser, hvidløg)"
+    ],
+    "steps": [
+      "Steg kyllingen og skær i strimler.",
+      "Rør dressingen af mayo, citron, hakket ansjos, hvidløg og parmesan.",
+      "Vend alt sammen i salaten og rul i tortillaen."
+    ],
+    "src": "se:caesar salad wrap;vr:cæsarsalat"
+  },
+  {
+    "title": "Kylling-pesto-pasta (fryseret)",
+    "year": 2025,
+    "week": 12,
+    "emoji": "🧊",
+    "hue": 115,
+    "desc": "En frysevenlig aftensmad: kylling, pasta og pesto samlet i en bageform og klar til ovnen en travl dag.",
+    "ing": [
+      "400 g pasta",
+      "3 kyllingefileter",
+      "150 g pesto",
+      "250 ml fløde",
+      "200 g mozzarella",
+      "cherrytomater"
+    ],
+    "steps": [
+      "Kog pastaen næsten færdig og bland med pesto, fløde og stegt kylling.",
+      "Fyld i en fryseegnet form og top med mozzarella.",
+      "Fryses. Tø op og bag ved 200 grader i 30 minutter."
+    ],
+    "src": "vr:kylling pesto pasta;se:chicken pesto pasta bake"
+  },
+  {
+    "title": "Butter chicken",
+    "year": 2025,
+    "week": 11,
+    "emoji": "🍛",
+    "hue": 15,
+    "desc": "Mør kylling i en silkeblød, mild tomatsauce med smør og fløde. Klassikeren, der får alle til at tage ekstra ris.",
+    "ing": [
+      "600 g kyllingelår",
+      "200 ml yoghurt",
+      "garam masala",
+      "2 løg",
+      "4 fed hvidløg og ingefær",
+      "400 g flåede tomater",
+      "50 g smør",
+      "150 ml fløde",
+      "basmatiris og naan"
+    ],
+    "steps": [
+      "Mariner kyllingen i yoghurt og krydderi.",
+      "Steg kyllingen, tag den op og svits løg, hvidløg og ingefær.",
+      "Tilsæt tomat og lad simre 15 minutter, blend gerne.",
+      "Kom kylling, smør og fløde i og simr til mørt."
+    ],
+    "src": "se:butter chicken;vr:butter chicken"
+  },
+  {
+    "title": "Gyudon",
+    "year": 2025,
+    "week": 9,
+    "emoji": "🥢",
+    "hue": 30,
+    "desc": "Japansk risskål med tyndt skåret okse og løg i sød sojasauce, med blødt æg ovenpå.",
+    "ing": [
+      "300 g tyndt skåret oksekød",
+      "2 løg",
+      "300 ml dashi",
+      "3 spsk sojasauce",
+      "2 spsk mirin",
+      "1 spsk sukker",
+      "dampet ris",
+      "æg og syltet ingefær"
+    ],
+    "steps": [
+      "Simr dashi, soja, mirin og sukker.",
+      "Tilsæt løg, derefter oksekødet, og simr til lige mørt.",
+      "Server over varm ris med et blødt æg og syltet ingefær."
+    ],
+    "src": "se:gyudon;vr:gyudon"
+  },
+  {
+    "title": "Birria-tacos",
+    "year": 2025,
+    "week": 9,
+    "emoji": "🌮",
+    "hue": 10,
+    "desc": "Langtidssimret oksekød i krydret chilisauce, stegt i tortillas med ost og dyppet i fonden.",
+    "ing": [
+      "800 g oksesul",
+      "3 tørrede chilier",
+      "hvidløg, løg og spidskommen",
+      "laurbærblade",
+      "tortillas",
+      "ost",
+      "koriander og lime"
+    ],
+    "steps": [
+      "Blend udblødte chilier med hvidløg og krydderier.",
+      "Simr oksekød i saucen i 2,5-3 timer til det falder fra hinanden.",
+      "Dyp tortillas i fedtet, fyld med kød og ost og steg sprøde.",
+      "Server med fonden til at dyppe i."
+    ],
+    "src": "se:birria tacos;vr:birria"
+  },
+  {
+    "title": "Appelsinsalat",
+    "year": 2025,
+    "week": 9,
+    "emoji": "🍊",
+    "hue": 38,
+    "desc": "Skønt kontrastfyldt salat med saftige appelsiner, rødløg og oliven. Frisk og let ved siden af tunge retter.",
+    "ing": [
+      "3 appelsiner",
+      "1 rødløg",
+      "oliven",
+      "olivenolie",
+      "persille eller mynte",
+      "salt og peber"
+    ],
+    "steps": [
+      "Pil og skær appelsinerne i skiver.",
+      "Læg dem på et fad med tynde ringe af rødløg.",
+      "Dryp med olivenolie og drys med krydderurter, oliven og salt."
+    ],
+    "src": "vr:appelsinsalat"
+  },
+  {
+    "title": "Italiensk salat og tomatsuppe med grilled cheese",
+    "year": 2025,
+    "week": null,
+    "emoji": "🥪",
+    "hue": 4,
+    "desc": "Bagt tomatsuppe, sprød italiensk salat og gyldne grilled cheese-sandwiches. Hyggemad til en regnvejrsdag.",
+    "ing": [
+      "1 kg tomater",
+      "1 løg",
+      "hvidløg",
+      "bouillon",
+      "8 skiver brød",
+      "ost (cheddar eller gouda)",
+      "smør",
+      "romainesalat, pepperoncini og rødløg"
+    ],
+    "steps": [
+      "Kog tomater, løg og hvidløg i bouillon, blend glat.",
+      "Smør brød udvendigt, fyld med ost og steg gyldent.",
+      "Skær salat og vend med olie og rødvinseddike."
+    ],
+    "src": "se:tomato soup grilled cheese;vr:tomatsuppe"
+  },
+  {
+    "title": "Pastasalat",
+    "year": 2025,
+    "week": null,
+    "emoji": "🥗",
+    "hue": 120,
+    "desc": "Kold pastasalat med grøntsager, mozzarella og en frisk dressing. Fin som madpakke dagen efter.",
+    "ing": [
+      "300 g pasta",
+      "cherrytomater",
+      "agurk",
+      "mozzarellaperler",
+      "oliven",
+      "pesto eller olie og citron",
+      "basilikum"
+    ],
+    "steps": [
+      "Kog pasta og lad den køle.",
+      "Skær grøntsager og bland med mozzarella.",
+      "Vend alt med dressing og friske krydderurter."
+    ],
+    "src": "se:italian pasta salad;vr:pastasalat"
+  },
+  {
+    "title": "Laksebowl",
+    "year": 2025,
+    "week": 5,
+    "emoji": "🍚",
+    "hue": 175,
+    "desc": "Skål med ris, ovnbagt laks, avocado, agurk og edamamebønner, med sojadressing og sesam.",
+    "ing": [
+      "4 stykker laks",
+      "ris",
+      "1 avocado",
+      "agurk",
+      "edamamebønner",
+      "sojasauce, honning og sesamolie",
+      "sesamfrø og forårsløg"
+    ],
+    "steps": [
+      "Pensl laks med soja og honning og bag ved 200 grader i 10-12 minutter.",
+      "Kog ris.",
+      "Anret ris, laks, avocado, agurk og edamame.",
+      "Dryp med dressing og sesam."
+    ],
+    "src": "se:salmon rice bowl;vr:laksebowl"
+  },
+  {
+    "title": "Hjemmelavede pølsebrød",
+    "year": 2025,
+    "week": 5,
+    "emoji": "🌭",
+    "hue": 32,
+    "desc": "Bløde, luftige pølsebrød bagt fra bunden. Meget bedre end de købte.",
+    "ing": [
+      "500 g hvedemel",
+      "300 ml mælk",
+      "1 pose tørgær",
+      "50 g smør",
+      "1 spsk sukker",
+      "1 tsk salt",
+      "1 æg til pensling"
+    ],
+    "steps": [
+      "Ælt dej af alle ingredienser og lad den hæve 1 time.",
+      "Del i 8 stykker, rul til aflange brød og lad hæve igen.",
+      "Pensl med æg og bag ved 200 grader i 12-15 minutter."
+    ],
+    "src": "vr:pølsebrød;se:homemade hot dog buns"
+  },
+  {
+    "title": "Pasta med svampe i fløde",
+    "year": 2025,
+    "week": 5,
+    "emoji": "🍄",
+    "hue": 28,
+    "desc": "Cremet pasta med friske svampe, hvidløg og fløde. En hurtig hverdagsklassiker.",
+    "ing": [
+      "350 g pasta",
+      "400 g champignon",
+      "2 fed hvidløg",
+      "250 ml fløde",
+      "timian",
+      "parmesan",
+      "persille"
+    ],
+    "steps": [
+      "Steg svampene gyldne og tilsæt hvidløg og timian.",
+      "Hæld fløde i og kog ind til en cremet sauce.",
+      "Vend kogt pasta og parmesan i."
+    ],
+    "src": "vr:pasta svampe fløde;se:creamy mushroom pasta"
+  },
+  {
+    "title": "Cassoulet",
+    "year": 2025,
+    "week": 4,
+    "emoji": "🥘",
+    "hue": 20,
+    "desc": "Fransk bønnegryde med pølse, kød og hvidløg, langsomt bagt til en gylden skorpe.",
+    "ing": [
+      "400 g hvide bønner",
+      "300 g pølse (fx toulouse eller chorizo)",
+      "300 g svinekød",
+      "løg, gulerod og hvidløg",
+      "tomatpuré",
+      "bouillon",
+      "rasp"
+    ],
+    "steps": [
+      "Brun kød og pølse. Svits grøntsager og tilsæt tomatpuré.",
+      "Kom bønner og bouillon i og simr i ovnen i ca. 2 timer.",
+      "Drys med rasp og bag til en sprød skorpe."
+    ],
+    "src": "se:cassoulet;vr:cassoulet"
+  },
+  {
+    "title": "Kartoffel-porresuppe med pita",
+    "year": 2025,
+    "week": 4,
+    "emoji": "🥣",
+    "hue": 60,
+    "desc": "Blød, cremet suppe af kartofler og porrer, perfekt med varm pita.",
+    "ing": [
+      "4 kartofler",
+      "2 porrer",
+      "1 løg",
+      "1 l bouillon",
+      "smør",
+      "fløde eller mælk",
+      "pitabrød"
+    ],
+    "steps": [
+      "Svits løg og porre i smør.",
+      "Tilsæt kartofler og bouillon, kog til de er møre.",
+      "Blend og smag til med fløde, salt og peber.",
+      "Server med lune pitabrød."
+    ],
+    "src": "vr:kartoffel porre suppe;se:potato leek soup"
+  },
+  {
+    "title": "Laks med sauce soubise og purløgsolie",
+    "year": 2024,
+    "week": null,
+    "emoji": "🐟",
+    "hue": 190,
+    "desc": "Ovnstegt laks med en silkeblød løgsauce (soubise), skarp grøn purløgsolie, smørstegte kartofler, grillede asparges og cæsarsalat.",
+    "ing": [
+      "4 stykker laks",
+      "3 løg",
+      "100 ml fløde",
+      "smør",
+      "1 bundt purløg",
+      "100 ml neutral olie",
+      "600 g kartofler",
+      "grønne asparges",
+      "romainesalat og parmesan"
+    ],
+    "steps": [
+      "Kog løg møre i smør og fløde, blend til glat soubise.",
+      "Blend purløg med varm olie og sigt.",
+      "Steg kartofler i smør, grill asparges, bag laks.",
+      "Anret med saucerne og server med cæsarsalat."
+    ],
+    "src": "https://www.youtube.com/watch?v=xniS7kMpW4I;se:sauce soubise"
+  },
+  {
+    "title": "Gyudon, karaage-kylling og japansk kartoffelsalat",
+    "year": 2024,
+    "week": 32,
+    "emoji": "🍱",
+    "hue": 355,
+    "desc": "Japansk aften med sprød karaage-kylling, risskål med okse (gyudon) og cremet kartoffelsalat med Kewpie-mayo.",
+    "ing": [
+      "kyllingelår",
+      "sojasauce, ingefær, hvidløg",
+      "kartoffelstivelse",
+      "olie til friturestegning",
+      "tyndt skåret okse",
+      "ris",
+      "kartofler og agurk",
+      "japansk mayo"
+    ],
+    "steps": [
+      "Mariner kylling i soja, ingefær og hvidløg, vend i stivelse og fritér gylden.",
+      "Lav gyudon som beskrevet i den tidligere ret.",
+      "Kog kartofler og lav salat med mayo og agurk."
+    ],
+    "src": "https://www.delicious.com.au/recipes/japanese-garage-chicken/SBdUaLei"
+  },
+  {
+    "title": "Pølser med bagekartofler, coleslaw og græsk salat",
+    "year": 2024,
+    "week": 30,
+    "emoji": "🥔",
+    "hue": 32,
+    "desc": "Uformel sommermiddag med grillede pølser, ovnbagte kartofler, creme coleslaw, græsk salat og pita med tun.",
+    "ing": [
+      "pølser",
+      "4 bagekartofler",
+      "1/2 hvidkål",
+      "2 gulerødder",
+      "mayo og yoghurt",
+      "tomat, agurk og feta",
+      "pita og tunsalat"
+    ],
+    "steps": [
+      "Bag kartofler 1 time ved 200 grader.",
+      "Riv kål og gulerødder og vend med mayo, yoghurt og citron.",
+      "Hak græsk salat og grill pølser.",
+      "Fyld pita med tunsalat."
+    ],
+    "src": "vr:coleslaw;vr:græsk salat"
+  },
+  {
+    "title": "Kold sobasalat med grønkål, avocado og miso-sesamdressing",
+    "year": 2024,
+    "week": 30,
+    "emoji": "🥬",
+    "hue": 140,
+    "desc": "Kolde sobanudler med massage-grønkål, avocado og en nøddeagtig miso-sesamdressing.",
+    "ing": [
+      "250 g sobanudler",
+      "grønkål",
+      "1 avocado",
+      "2 spsk miso",
+      "2 spsk sesampasta",
+      "riseddike",
+      "sesamfrø"
+    ],
+    "steps": [
+      "Kog nudler, skyl i koldt vand.",
+      "Masser grønkål med lidt salt.",
+      "Rør dressing af miso, sesampasta og eddike.",
+      "Vend det hele sammen."
+    ],
+    "src": "https://www.seriouseats.com/cold-kale-salad-soba-noodle-sesame-dressing-recipe"
+  },
+  {
+    "title": "Sobasalat med tang, agurk og asparges",
+    "year": 2024,
+    "week": 30,
+    "emoji": "🥒",
+    "hue": 160,
+    "desc": "Let sobasalat med havsalat, tynde agurkestrimler og asparges i en let dressing.",
+    "ing": [
+      "250 g sobanudler",
+      "tørret tang (wakame)",
+      "1 agurk",
+      "grønne asparges",
+      "sojasauce",
+      "riseddike",
+      "sesamolie"
+    ],
+    "steps": [
+      "Udblød tang og kog nudler.",
+      "Blancher asparges og skær i stykker.",
+      "Vend alt med dressing af soja, eddike og sesamolie."
+    ],
+    "src": "https://www.seriouseats.com/soba-pasta-salad-seaweed-cucumber-asparagus-recipe"
+  },
+  {
+    "title": "Svampetoast",
+    "year": 2024,
+    "week": 29,
+    "emoji": "🍄",
+    "hue": 28,
+    "desc": "Sprødt ristet brød med sauterede svampe i fløde og timian. Luksus-toast på ti minutter.",
+    "ing": [
+      "4 skiver landbrød",
+      "300 g blandede svampe",
+      "2 fed hvidløg",
+      "smør",
+      "100 ml fløde",
+      "timian",
+      "1 æg per portion (valgfrit)"
+    ],
+    "steps": [
+      "Rist brødet.",
+      "Steg svampene i smør, tilsæt hvidløg og timian.",
+      "Hæld fløde i og kog lidt ind.",
+      "Server oven på toasten."
+    ],
+    "src": "vr:svampetoast;se:mushroom toast"
+  },
+  {
+    "title": "Blåbærsalat",
+    "year": 2024,
+    "week": 29,
+    "emoji": "🫐",
+    "hue": 248,
+    "desc": "Sommersalat med blåbær, feta, blandet salat og balsamico. Sød, syrlig og salt i ét.",
+    "ing": [
+      "blandet salat",
+      "150 g blåbær",
+      "100 g feta",
+      "rødløg",
+      "valnødder",
+      "balsamico og olivenolie"
+    ],
+    "steps": [
+      "Kom salat, blåbær og tyndt skåret rødløg i en skål.",
+      "Drys med feta og nødder.",
+      "Dryp med balsamico og olie."
+    ],
+    "src": "se:blueberry salad;vr:blåbærsalat"
+  },
+  {
+    "title": "Toscansk tomatsuppe",
+    "year": 2024,
+    "week": 28,
+    "emoji": "🍅",
+    "hue": 5,
+    "desc": "Rustik tomatsuppe med brød, hvidløg og basilikum, tyk og mættende.",
+    "ing": [
+      "800 g flåede tomater",
+      "2 fed hvidløg",
+      "1 løg",
+      "bouillon",
+      "2 skiver gammelt brød",
+      "basilikum",
+      "olivenolie",
+      "parmesan"
+    ],
+    "steps": [
+      "Svits løg og hvidløg i olie.",
+      "Tilsæt tomater, bouillon og brød og simr 25 minutter.",
+      "Mos let og afslut med basilikum og parmesan."
+    ],
+    "src": "se:tuscan tomato soup;vr:toscansk tomatsuppe"
+  },
+  {
+    "title": "Bibimbap",
+    "year": 2024,
+    "week": 28,
+    "emoji": "🍚",
+    "hue": 25,
+    "desc": "Koreansk risskål med farverige grøntsager, kød, spejlæg og pikant gochujang-sauce.",
+    "ing": [
+      "ris",
+      "spinat, gulerødder og svampe",
+      "hakket oksekød",
+      "gochujang",
+      "sesamolie og sojasauce",
+      "4 æg",
+      "kimchi"
+    ],
+    "steps": [
+      "Steg hvert grøntsag hver for sig og krydr med sesamolie.",
+      "Steg kød med soja og sukker.",
+      "Anret ris, grønt, kød og spejlæg.",
+      "Server med gochujang."
+    ],
+    "src": "https://www.youtube.com/shorts/5eSvGgT74s0;se:bibimbap"
+  },
+  {
+    "title": "Tomat- og røget fetatærte",
+    "year": 2024,
+    "week": 27,
+    "emoji": "🥧",
+    "hue": 10,
+    "desc": "Smørbagt butterdejstærte med saftige tomater og røget feta. Sommer på en tærte.",
+    "ing": [
+      "1 plade butterdej",
+      "300 g tomater",
+      "150 g røget feta",
+      "2 spsk creme fraiche",
+      "timian",
+      "olivenolie"
+    ],
+    "steps": [
+      "Pensl dejen med creme fraiche og fordel tomater og feta.",
+      "Drys med timian og olie.",
+      "Bag ved 200 grader i 25 minutter."
+    ],
+    "src": "https://www.seriouseats.com/easy-tomato-smoked-feta-tart-recipe"
+  },
+  {
+    "title": "Kyllingesalat med avocado, majs og misodressing",
+    "year": 2024,
+    "week": 27,
+    "emoji": "🌽",
+    "hue": 90,
+    "desc": "Saftig kylling, grillet majs og avocado i en salt-sød misodressing.",
+    "ing": [
+      "2 kyllingefileter",
+      "2 majskolber",
+      "1 avocado",
+      "salatblade",
+      "2 spsk hvid miso",
+      "riseddike og olie",
+      "sesamfrø"
+    ],
+    "steps": [
+      "Grill majs og kylling.",
+      "Skær majs af kolben og kylling i strimler.",
+      "Rør dressing af miso, eddike og olie.",
+      "Vend alt sammen med avocado."
+    ],
+    "src": "https://www.seriouseats.com/chicken-salad-miso-corn-avocado-recipe"
+  },
+  {
+    "title": "Tom yum-suppe",
+    "year": 2024,
+    "week": 26,
+    "emoji": "🌶️",
+    "hue": 8,
+    "desc": "Varm og sur thailandsk suppe med citrongræs, galangal, lime og rejer.",
+    "ing": [
+      "1 l bouillon",
+      "2 stilke citrongræs",
+      "galangal eller ingefær",
+      "limeblade",
+      "champignon",
+      "rejer",
+      "fiskesauce og lime",
+      "chilipasta"
+    ],
+    "steps": [
+      "Simr bouillon med citrongræs, galangal og limeblade.",
+      "Tilsæt svampe og rejer.",
+      "Smag til med fiskesauce, lime og chili."
+    ],
+    "src": "se:tom yum soup;vr:tom yum"
+  },
+  {
+    "title": "Mortadella-sando",
+    "year": 2024,
+    "week": 26,
+    "emoji": "🥪",
+    "hue": 15,
+    "desc": "Tykt skåret mortadella på blødt brød med pistacie-mayo og syltede grøntsager.",
+    "ing": [
+      "ciabatta eller focaccia",
+      "150 g mortadella",
+      "burrata eller mozzarella",
+      "pistacienødder",
+      "mayo",
+      "syltede peberfrugter"
+    ],
+    "steps": [
+      "Hak pistacier og rør med mayo.",
+      "Smør på brød, fyld med mortadella, ost og pickles."
+    ],
+    "src": "se:mortadella sandwich"
+  },
+  {
+    "title": "Frikadeller med nye kartofler",
+    "year": 2024,
+    "week": 26,
+    "emoji": "🥩",
+    "hue": 35,
+    "desc": "Klassiske danske frikadeller med smørdampede nye kartofler og agurkesalat.",
+    "ing": [
+      "500 g hakket svine- og kalvekød",
+      "1 løg",
+      "1 æg",
+      "mel og mælk",
+      "smør",
+      "nye kartofler",
+      "agurk og eddike"
+    ],
+    "steps": [
+      "Rør farsen med revet løg, æg, mel, mælk, salt og peber.",
+      "Form frikadeller og steg dem i smør 10-12 minutter.",
+      "Kog kartoflerne og server."
+    ],
+    "src": "vr:frikadeller"
+  },
+  {
+    "title": "Spaghetti bolognese",
+    "year": 2024,
+    "week": 25,
+    "emoji": "🍝",
+    "hue": 6,
+    "desc": "Rigtig bolognese: tyk, langtidssimret kødsauce, serveret over spaghetti med revet parmesan.",
+    "ing": [
+      "500 g hakket oksekød",
+      "1 løg, 2 gulerødder, 2 fed hvidløg",
+      "2 spsk tomatpuré",
+      "400 g flåede tomater",
+      "100 ml rødvin",
+      "spaghetti",
+      "parmesan"
+    ],
+    "steps": [
+      "Brun kødet og svits grøntsagerne.",
+      "Tilsæt puré, vin og tomater.",
+      "Simr under låg i mindst en time.",
+      "Kog pasta og server."
+    ],
+    "src": "vr:bolognese;se:bolognese sauce"
+  },
+  {
+    "title": "Zucchini-basilikumsuppe",
+    "year": 2024,
+    "week": 25,
+    "emoji": "🥒",
+    "hue": 125,
+    "desc": "Cremet grøn suppe, der smager af sommer. Hurtig og let.",
+    "ing": [
+      "3 zucchini",
+      "1 løg",
+      "1 kartoffel",
+      "bouillon",
+      "stor håndfuld basilikum",
+      "fløde",
+      "parmesan"
+    ],
+    "steps": [
+      "Svits løg, zucchini og kartoffel.",
+      "Kog møre i bouillon.",
+      "Blend med basilikum og fløde."
+    ],
+    "src": "vr:zucchinisuppe basilikum"
+  },
+  {
+    "title": "BLT-sandwich",
+    "year": 2024,
+    "week": 25,
+    "emoji": "🥓",
+    "hue": 355,
+    "desc": "Sprød bacon, salat og tomat på ristet brød med mayo. Så enkel, så god.",
+    "ing": [
+      "8 skiver bacon",
+      "4 skiver brød",
+      "salat",
+      "2 tomater",
+      "mayo"
+    ],
+    "steps": [
+      "Steg baconen sprød.",
+      "Rist brødet og smør med mayo.",
+      "Byg med salat, tomat og bacon."
+    ],
+    "src": "se:BLT sandwich"
+  },
+  {
+    "title": "Peach melba og hjemmelavet limonade",
+    "year": 2024,
+    "week": 25,
+    "emoji": "🍑",
+    "hue": 20,
+    "desc": "Klassisk sommerdessert med fersken, hindbærsauce og vaniljeis. Til at drikke: frisk limonade.",
+    "ing": [
+      "4 ferskner",
+      "200 g hindbær",
+      "sukker",
+      "vaniljeis",
+      "citroner",
+      "mynte"
+    ],
+    "steps": [
+      "Blancher ferskner og pil dem.",
+      "Kog hindbær med sukker og sigt til sauce.",
+      "Server med is.",
+      "Limonade: pres citroner, bland med sukker og vand."
+    ],
+    "src": "vr:peach melba;vr:limonade"
+  },
+  {
+    "title": "Forårsruller og grøntsagswok",
+    "year": 2024,
+    "week": 24,
+    "emoji": "🥟",
+    "hue": 130,
+    "desc": "Hjemmelavede sprøde forårsruller med en hurtig grøntsagswok ved siden af.",
+    "ing": [
+      "forårsrullepap",
+      "hvidkål, gulerødder og svampe",
+      "glasnudler",
+      "sojasauce",
+      "hvidløg og ingefær",
+      "olie til stegning"
+    ],
+    "steps": [
+      "Svits grøntsagerne og bland med nudler og soja.",
+      "Rul i pap og luk.",
+      "Steg gyldne.",
+      "Server med sød chilisauce."
+    ],
+    "src": "vr:forårsruller;se:spring rolls"
+  },
+  {
+    "title": "Hjemmelavet instant noodles",
+    "year": 2024,
+    "week": 24,
+    "emoji": "🍜",
+    "hue": 40,
+    "desc": "Nudler med dit eget krydderi. Billigere og bedre end poseudgaven.",
+    "ing": [
+      "nudler",
+      "bouillon",
+      "sojasauce",
+      "chiliolie",
+      "forårsløg",
+      "æg"
+    ],
+    "steps": [
+      "Kog nudler.",
+      "Lav bouillon med soja og chiliolie.",
+      "Server med æg og løg."
+    ],
+    "src": "se:instant noodles homemade"
+  },
+  {
+    "title": "Fiske-tacos med syltet rødløg, avocadocreme og pico de gallo",
+    "year": 2024,
+    "week": 24,
+    "emoji": "🌮",
+    "hue": 170,
+    "desc": "Sprøde fiskestykker i bløde tortillas med syrligt rødløg og cremet avocado.",
+    "ing": [
+      "500 g torsk",
+      "mel og krydderi",
+      "tortillas",
+      "1 rødløg",
+      "2 avocadoer",
+      "lime",
+      "tomater, løg og koriander"
+    ],
+    "steps": [
+      "Syltede rødløg: læg i eddike, sukker og salt.",
+      "Pico de gallo: hak tomat, løg og koriander.",
+      "Mos avocado med lime.",
+      "Steg fisk sprød og fyld tacos."
+    ],
+    "src": "se:fish tacos;vr:fisketacos"
+  },
+  {
+    "title": "Ramen",
+    "year": 2024,
+    "week": 23,
+    "emoji": "🍜",
+    "hue": 18,
+    "desc": "Dyb, rig ramen med langtidskogt bouillon, nudler og æg.",
+    "ing": [
+      "1,5 l bouillon",
+      "hvidløg, ingefær",
+      "miso eller soja",
+      "ramennudler",
+      "æg",
+      "nori",
+      "forårsløg"
+    ],
+    "steps": [
+      "Simr bouillon med aromater.",
+      "Smag til med miso eller soja.",
+      "Kog nudler og æg og anret."
+    ],
+    "src": "se:ramen;vr:ramen"
+  },
+  {
+    "title": "Chimichanga med mangosalsa",
+    "year": 2024,
+    "week": 17,
+    "emoji": "🥭",
+    "hue": 45,
+    "desc": "Sprød chimichanga med frisk, sød mangosalsa. Hjemmelavede pølsebrød for en gangs skyld.",
+    "ing": [
+      "tortillas",
+      "hakket kød eller bønner",
+      "ost",
+      "1 mango",
+      "rødløg",
+      "lime",
+      "koriander",
+      "jalapeño"
+    ],
+    "steps": [
+      "Bland fyld, rul i tortillas og luk.",
+      "Steg gyldne.",
+      "Hak mango, løg og chili til salsa."
+    ],
+    "src": "se:chimichanga;vr:mangosalsa"
+  },
+  {
+    "title": "Burger",
+    "year": 2024,
+    "week": 8,
+    "emoji": "🍔",
+    "hue": 8,
+    "desc": "Saftig hjemmelavet burger med ost, syltede agurker og hjemmerørt sauce.",
+    "ing": [
+      "600 g hakket okse",
+      "burgerboller",
+      "cheddar",
+      "salat, tomat, løg",
+      "syltede agurker",
+      "mayo og ketchup"
+    ],
+    "steps": [
+      "Form bøffer og steg dem.",
+      "Rist bollerne.",
+      "Byg burgeren."
+    ],
+    "src": "se:burger;vr:burger"
+  },
+  {
+    "title": "Pita med syltet citronkylling, fries med chilimayo",
+    "year": 2024,
+    "week": 7,
+    "emoji": "🍋",
+    "hue": 52,
+    "desc": "Kylling marineret i syltet citron fra Ottolenghi, i pita med pommes frites og chilimayo.",
+    "ing": [
+      "kyllingelår",
+      "syltet citron",
+      "hvidløg",
+      "pita",
+      "pommes frites",
+      "mayo og sriracha",
+      "agurk og salat"
+    ],
+    "steps": [
+      "Mariner kylling i hakket syltet citron.",
+      "Steg eller bag.",
+      "Rør chilimayo.",
+      "Server i pita med frites."
+    ],
+    "src": "se:preserved lemon chicken;vr:pita kylling"
+  },
+  {
+    "title": "Fire-oste-pizza",
+    "year": 2024,
+    "week": 6,
+    "emoji": "🍕",
+    "hue": 38,
+    "desc": "Hvid pizza med mozzarella, gorgonzola, parmesan og fontina.",
+    "ing": [
+      "pizzadej",
+      "mozzarella",
+      "gorgonzola",
+      "parmesan",
+      "fontina",
+      "olivenolie",
+      "honning"
+    ],
+    "steps": [
+      "Rul dejen ud.",
+      "Fordel ostene og bag ved højeste varme.",
+      "Dryp med honning."
+    ],
+    "src": "se:four cheese pizza;vr:pizza"
+  },
+  {
+    "title": "Peruviansk kylling",
+    "year": 2024,
+    "week": 6,
+    "emoji": "🍗",
+    "hue": 85,
+    "desc": "Saftig ovnstegt kylling i peruviansk marinade med grøn aji-sauce.",
+    "ing": [
+      "1 hel kylling",
+      "spidskommen, paprika, hvidløg",
+      "lime",
+      "sojasauce",
+      "koriander, jalapeño og mayo til sauce"
+    ],
+    "steps": [
+      "Mariner kylling natten over.",
+      "Bag ved 220 grader til sprød.",
+      "Blend sauce af koriander, chili og mayo."
+    ],
+    "src": "se:peruvian chicken;vr:peruviansk kylling"
+  },
+  {
+    "title": "Tomatquiche med fransk salat og ostebord",
+    "year": 2024,
+    "week": 5,
+    "emoji": "🧀",
+    "hue": 8,
+    "desc": "Fransk aften med tomatquiche, grøn salat med vinaigrette og et lille ostebord.",
+    "ing": [
+      "mørdej",
+      "4 æg",
+      "200 ml fløde",
+      "tomater",
+      "ost",
+      "dijonsennep",
+      "salat",
+      "udvalg af oste"
+    ],
+    "steps": [
+      "Forbag bunden.",
+      "Fordel sennep og tomater.",
+      "Pisk æg og fløde og hæld i.",
+      "Bag 35 minutter."
+    ],
+    "src": "vr:tomatquiche;se:tomato tart"
+  },
+  {
+    "title": "Kyllingeburgere",
+    "year": 2024,
+    "week": 4,
+    "emoji": "🍔",
+    "hue": 40,
+    "desc": "Møre kyllingeburgere. Tricket: kog kyllingen i vand først, så den bliver saftig.",
+    "ing": [
+      "kyllingebryst",
+      "burgerboller",
+      "mayo",
+      "salat, tomat",
+      "rasp og æg"
+    ],
+    "steps": [
+      "Pocher kylling forsigtigt i vand.",
+      "Pane og steg sprød.",
+      "Server i boller med mayo og salat."
+    ],
+    "src": "https://www.youtube.com/watch?v=4j9JK05aFqk"
+  },
+  {
+    "title": "Bønne- og svampegryde",
+    "year": 2024,
+    "week": 2,
+    "emoji": "🫘",
+    "hue": 25,
+    "desc": "Vegetarisk gryde med hvide bønner, svampe og krydderurter, toppet med gylden ostekrone.",
+    "ing": [
+      "400 g bønner",
+      "300 g svampe",
+      "løg og hvidløg",
+      "tomat",
+      "ost",
+      "persille"
+    ],
+    "steps": [
+      "Svits løg og svampe.",
+      "Tilsæt bønner og tomat.",
+      "Top med ost og bag."
+    ],
+    "src": "vr:bønnegryde svampe"
+  },
+  {
+    "title": "Portobelloburger",
+    "year": 2024,
+    "week": 2,
+    "emoji": "🍔",
+    "hue": 28,
+    "desc": "Stor portobellosvamp som bøf i en burgerbolle. Rigtig god vegetarburger.",
+    "ing": [
+      "4 portobello",
+      "balsamico og olie",
+      "burgerboller",
+      "ost",
+      "salat, tomat",
+      "mayo"
+    ],
+    "steps": [
+      "Mariner svampe i balsamico og olie.",
+      "Grill eller steg.",
+      "Byg burger."
+    ],
+    "src": "se:portobello burger;vr:portobelloburger"
+  },
+  {
+    "title": "Burrito og chili con carne",
+    "year": 2024,
+    "week": 1,
+    "emoji": "🌯",
+    "hue": 8,
+    "desc": "Mættende burritos fyldt med ris, bønner og chili con carne.",
+    "ing": [
+      "tortillas",
+      "ris",
+      "hakket kød",
+      "kidneybønner",
+      "chili, spidskommen",
+      "tomat",
+      "ost, creme fraiche"
+    ],
+    "steps": [
+      "Lav chili: brun kød, tilsæt tomat og bønner, simr 40 minutter.",
+      "Fyld tortillas og rul."
+    ],
+    "src": "se:chili con carne;vr:chili con carne"
+  },
+  {
+    "title": "Fransk løgsuppe",
+    "year": 2023,
+    "week": 51,
+    "emoji": "🧅",
+    "hue": 35,
+    "desc": "Dybt karamelliserede løg i bouillon, med gratineret ost på ristet brød ovenpå.",
+    "ing": [
+      "1 kg løg",
+      "50 g smør",
+      "100 ml hvidvin eller sherry",
+      "1,2 l oksebouillon",
+      "baguette",
+      "200 g gruyère"
+    ],
+    "steps": [
+      "Karamellisér løg langsomt i smør i 45 minutter.",
+      "Tilsæt vin og bouillon, simr 30 minutter.",
+      "Hæld i skåle, top med brød og ost og gratiner under grillen."
+    ],
+    "src": "https://www.seriouseats.com/french-onion-soup-recipe"
+  },
+  {
+    "title": "Sund pastasalat",
+    "year": 2023,
+    "week": 50,
+    "emoji": "🥗",
+    "hue": 110,
+    "desc": "Fuldkornspasta med masser af grønt, kikærter og citronvinaigrette.",
+    "ing": [
+      "fuldkornspasta",
+      "kikærter",
+      "agurk, tomat, peberfrugt",
+      "rødløg",
+      "citron og olivenolie",
+      "persille"
+    ],
+    "steps": [
+      "Kog pasta og afkøl.",
+      "Skær grønt og bland med kikærterne.",
+      "Vend med citron, olie, salt og peber."
+    ],
+    "src": "vr:pastasalat"
+  },
+  {
+    "title": "Brændende kærlighed",
+    "year": 2023,
+    "week": 49,
+    "emoji": "🔥",
+    "hue": 38,
+    "desc": "Dansk comfort food: kartoffelmos med sprødt bacon og løg ovenpå.",
+    "ing": [
+      "1 kg kartofler",
+      "smør og mælk",
+      "200 g bacon",
+      "2 løg",
+      "rødbeder"
+    ],
+    "steps": [
+      "Kog og mos kartoflerne med smør og mælk.",
+      "Steg bacon og løg sprøde.",
+      "Server mosen med baconen ovenpå og rødbeder ved siden af."
+    ],
+    "src": "vr:brændende kærlighed"
+  },
+  {
+    "title": "Pasta med chorizo og fløde",
+    "year": 2023,
+    "week": 49,
+    "emoji": "🌶️",
+    "hue": 12,
+    "desc": "Cremet pasta med røget chorizo, hvidløg og fløde.",
+    "ing": [
+      "350 g pasta",
+      "150 g chorizo",
+      "2 fed hvidløg",
+      "200 ml fløde",
+      "1 spsk tomatpuré",
+      "persille"
+    ],
+    "steps": [
+      "Steg chorizo, så den afgiver fedt.",
+      "Tilsæt hvidløg, puré og fløde og lad det koge ind.",
+      "Vend kogt pasta i og top med persille."
+    ],
+    "src": "vr:pasta med chorizo"
+  },
+  {
+    "title": "Porrepandekager med grøn dressing, couscous og grillet courgettesalat",
+    "year": 2023,
+    "week": 48,
+    "emoji": "🥞",
+    "hue": 128,
+    "desc": "Saftige porrepandekager med frisk, grøn urtedressing, couscous og grillet courgette.",
+    "ing": [
+      "2 porrer",
+      "2 æg, 150 g mel og 3 dl mælk",
+      "200 g couscous",
+      "2 courgetter",
+      "persille, purløg og 150 g yoghurt til dressing",
+      "citron"
+    ],
+    "steps": [
+      "Lav pandekagedej med fintskåret porre og steg små pandekager.",
+      "Grill courgetteskiver og vend med citron og olie.",
+      "Blend urter og yoghurt til dressing.",
+      "Server med couscous."
+    ],
+    "src": "vr:porrepandekager"
+  },
+  {
+    "title": "Hvid pizza med tomat og svampe",
+    "year": 2023,
+    "week": 48,
+    "emoji": "🍕",
+    "hue": 28,
+    "desc": "Pizza uden tomatsauce: creme fraiche, mozzarella, svampe og friske tomater.",
+    "ing": [
+      "pizzadej",
+      "creme fraiche",
+      "mozzarella",
+      "svampe",
+      "tomat",
+      "hvidløg"
+    ],
+    "steps": [
+      "Rul dej ud og smør med creme fraiche og hvidløg.",
+      "Fordel mozzarella, svampe og tomat.",
+      "Bag ved 250 grader til gyldne."
+    ],
+    "src": "vr:pizza hvid"
+  },
+  {
+    "title": "Pasta med blistrede cherrytomater",
+    "year": 2023,
+    "week": 48,
+    "emoji": "🍅",
+    "hue": 5,
+    "desc": "Cherrytomater stegt, til de revner og danner en hurtig sauce.",
+    "ing": [
+      "350 g pasta",
+      "500 g cherrytomater",
+      "hvidløg",
+      "olivenolie",
+      "basilikum",
+      "parmesan"
+    ],
+    "steps": [
+      "Steg tomater og hvidløg i olie til de blistrer.",
+      "Mos let med en ske.",
+      "Vend pasta og basilikum i."
+    ],
+    "src": "https://www.seriouseats.com/fast-easy-pasta-blistered-cherry-tomato-sauce-recipe"
+  },
+  {
+    "title": "Tomatsuppe og trefoldig grilled cheese",
+    "year": 2023,
+    "week": 47,
+    "emoji": "🧀",
+    "hue": 8,
+    "desc": "Tomatsuppe med tre slags ost i grilled cheese-sandwichen.",
+    "ing": [
+      "800 g flåede tomater",
+      "1 løg",
+      "bouillon",
+      "brød",
+      "cheddar, gouda og mozzarella",
+      "smør"
+    ],
+    "steps": [
+      "Kog tomater, løg og bouillon og blend til suppe.",
+      "Fyld brød med de tre oste og steg gyldent i smør."
+    ],
+    "src": "se:grilled cheese;se:tomato soup"
+  },
+  {
+    "title": "Naan-kebab, shoyu-grøntsager over ris og kyllingesuppe",
+    "year": 2023,
+    "week": 40,
+    "emoji": "🍢",
+    "hue": 35,
+    "desc": "En uge med forskellige hverdagsretter: naan-kebab, sojastegte grøntsager på ris og en varm kyllingesuppe.",
+    "ing": [
+      "naanbrød",
+      "lammekebab",
+      "yoghurtsauce",
+      "grøntsager",
+      "sojasauce",
+      "ris",
+      "kylling og suppegrønt"
+    ],
+    "steps": [
+      "Lav kebab og server i naan.",
+      "Steg grøntsager i soja og server på ris.",
+      "Kog kyllingesuppe af kylling og rodfrugter."
+    ],
+    "src": "vr:kyllingesuppe;se:naan kebab"
+  },
+  {
+    "title": "Bolognese og peanut-chilinudler",
+    "year": 2023,
+    "week": 31,
+    "emoji": "🥜",
+    "hue": 25,
+    "desc": "Sommer-bolognese og kolde nudler med peanutsauce og chiliolie.",
+    "ing": [
+      "hakket kød og tomat",
+      "nudler",
+      "peanutbutter",
+      "sojasauce",
+      "chiliolie",
+      "forårsløg"
+    ],
+    "steps": [
+      "Lav bolognese.",
+      "Rør peanutsauce af peanutbutter, soja og chiliolie, og vend i nudlerne."
+    ],
+    "src": "se:chili peanut noodles;vr:bolognese"
+  },
+  {
+    "title": "Gyros med græsk grilltallerken",
+    "year": 2023,
+    "week": 30,
+    "emoji": "🥙",
+    "hue": 52,
+    "desc": "Grillet gyros med pita, tzatziki, tomater og pommes frites.",
+    "ing": [
+      "svinekød i strimler",
+      "oregano, hvidløg",
+      "pita",
+      "tzatziki",
+      "tomat, løg",
+      "pommes frites"
+    ],
+    "steps": [
+      "Mariner kød i oregano og hvidløg og grill.",
+      "Server med tilbehør i pita."
+    ],
+    "src": "se:gyro;vr:gyros"
+  },
+  {
+    "title": "Cæsarsalat, bruschetta og salade niçoise",
+    "year": 2023,
+    "week": 29,
+    "emoji": "🥗",
+    "hue": 90,
+    "desc": "En sommerbuffet med tre franske og italienske klassikere.",
+    "ing": [
+      "romaine og parmesan",
+      "baguette, tomat og basilikum",
+      "tun, æg, bønner og oliven",
+      "dressing"
+    ],
+    "steps": [
+      "Lav hver salat for sig og server på fade til deling."
+    ],
+    "src": "se:salade nicoise;se:caesar salad"
+  },
+  {
+    "title": "Spätzle-carbonara og bønnesalat",
+    "year": 2023,
+    "week": 28,
+    "emoji": "🍝",
+    "hue": 45,
+    "desc": "Tyske spätzle som underlag for en cremet carbonara, med friske bønner i salat.",
+    "ing": [
+      "spätzle",
+      "bacon",
+      "æg og parmesan",
+      "bønner",
+      "persille",
+      "citron"
+    ],
+    "steps": [
+      "Kog spätzle og vend i stegt bacon.",
+      "Rør æg og ost og vend sammen af varmen.",
+      "Lav bønnesalat med citron."
+    ],
+    "src": "se:spätzle carbonara"
+  },
+  {
+    "title": "Burger og flæskesteg med kartofler",
+    "year": 2023,
+    "week": 27,
+    "emoji": "🍖",
+    "hue": 15,
+    "desc": "En uge med to klassikere: burgere og flæskesteg med sprød svær.",
+    "ing": [
+      "hakket okse",
+      "boller",
+      "flæskesteg med svær",
+      "kartofler",
+      "brun sovs"
+    ],
+    "steps": [
+      "Lav burger.",
+      "Flæskesteg: bag i ovnen til sværen bliver sprød."
+    ],
+    "src": "vr:flæskesteg;se:burger"
+  },
+  {
+    "title": "Hvid pizza med tre oste, salsiccia og østershatte",
+    "year": 2023,
+    "week": 26,
+    "emoji": "🍕",
+    "hue": 20,
+    "desc": "Hvid pizza med salsiccia, østershatte, frisk oregano og syltede rødløg.",
+    "ing": [
+      "pizzadej",
+      "tre slags ost",
+      "salsiccia",
+      "østershatte",
+      "oregano",
+      "syltede rødløg"
+    ],
+    "steps": [
+      "Rul dej ud, fordel ost og pålæg.",
+      "Bag ved høj varme.",
+      "Top med oregano og syltede løg."
+    ],
+    "src": "se:white pizza sausage mushroom"
+  },
+  {
+    "title": "Yakitori med grillede grøntsager og perlebygrisotto",
+    "year": 2023,
+    "week": 19,
+    "emoji": "🍢",
+    "hue": 15,
+    "desc": "Japanske kyllingespyd med grillede grøntsager og cremet risotto på perlebyg.",
+    "ing": [
+      "kyllingelår",
+      "sojasauce, mirin, sukker",
+      "perlebyg",
+      "bouillon",
+      "parmesan",
+      "grøntsager"
+    ],
+    "steps": [
+      "Mariner og grill spyd med glaze.",
+      "Kog byg som risotto med bouillon.",
+      "Server."
+    ],
+    "src": "se:yakitori;vr:perlebygsrisotto"
+  },
+  {
+    "title": "Mulligatawny",
+    "year": 2023,
+    "week": 18,
+    "emoji": "🍲",
+    "hue": 40,
+    "desc": "Krydret indisk-engelsk linsesuppe med karry og kokos.",
+    "ing": [
+      "røde linser",
+      "løg, æble, gulerod",
+      "karry",
+      "kokosmælk",
+      "bouillon",
+      "citron"
+    ],
+    "steps": [
+      "Svits grøntsager med karry.",
+      "Tilsæt linser og bouillon, kog møre.",
+      "Blend og rør kokos i."
+    ],
+    "src": "se:mulligatawny soup"
+  },
+  {
+    "title": "Okonomiyaki",
+    "year": 2023,
+    "week": 18,
+    "emoji": "🥞",
+    "hue": 18,
+    "desc": "Japansk kålpandekage med bacon, toppet med okonomisovs, mayo og bonito.",
+    "ing": [
+      "hvidkål",
+      "mel og æg",
+      "bacon",
+      "okonomisovs",
+      "japansk mayo",
+      "forårsløg"
+    ],
+    "steps": [
+      "Bland dej af kål, mel og æg.",
+      "Steg tykke pandekager med bacon.",
+      "Top med sovs og mayo."
+    ],
+    "src": "se:okonomiyaki"
+  },
+  {
+    "title": "Kyllingeburger på squash med hjemmelavet ketchup",
+    "year": 2023,
+    "week": 17,
+    "emoji": "🥒",
+    "hue": 125,
+    "desc": "Kyllingeburger uden bolle: squashskiver som brød og hjemmelavet ketchup.",
+    "ing": [
+      "hakket kylling",
+      "squash",
+      "tomatpuré",
+      "eddike, sukker",
+      "salat og tomat"
+    ],
+    "steps": [
+      "Form bøffer og steg.",
+      "Grill squash.",
+      "Kog ketchup af puré, eddike og sukker."
+    ],
+    "src": "vr:hjemmelavet ketchup;vr:kyllingeburger"
+  },
+  {
+    "title": "Kikærte-, kokos- og cashewkarry",
+    "year": 2023,
+    "week": 17,
+    "emoji": "🥥",
+    "hue": 38,
+    "desc": "Cremet vegetarkarry med kikærter, kokosmælk og cashewnødder.",
+    "ing": [
+      "kikærter",
+      "kokosmælk",
+      "cashewnødder",
+      "løg, hvidløg",
+      "karrypasta",
+      "ris"
+    ],
+    "steps": [
+      "Svits løg og karrypasta.",
+      "Tilsæt kikærter og kokos.",
+      "Simr og top med cashew."
+    ],
+    "src": "vr:kikærtekarry;se:chickpea curry"
+  },
+  {
+    "title": "Shio-ramen til fødselsdag",
+    "year": 2023,
+    "week": 15,
+    "emoji": "🎂",
+    "hue": 195,
+    "desc": "Fødselsdags-ramen med let saltet shio-bouillon.",
+    "ing": [
+      "kyllingebouillon",
+      "salt, mirin",
+      "nudler",
+      "æg",
+      "forårsløg"
+    ],
+    "steps": [
+      "Lav let, klar bouillon.",
+      "Anret med nudler og æg."
+    ],
+    "src": "se:shio ramen"
+  },
+  {
+    "title": "Muslinger med linguine",
+    "year": 2023,
+    "week": 14,
+    "emoji": "🦪",
+    "hue": 195,
+    "desc": "Muslinger i hvidløg og hvidvin, vendt med linguine.",
+    "ing": [
+      "1 kg muslinger",
+      "linguine",
+      "hvidløg",
+      "hvidvin",
+      "persille",
+      "smør"
+    ],
+    "steps": [
+      "Damp muslinger i vin og hvidløg.",
+      "Vend med pasta og smør."
+    ],
+    "src": "https://kitchenswagger.com/mussels-linguine-garlic-butter-sauce-recipe/"
+  },
+  {
+    "title": "Vietnamesiske frikadeller med nudelsalat",
+    "year": 2023,
+    "week": 13,
+    "emoji": "🍜",
+    "hue": 100,
+    "desc": "Duftende vietnamesiske frikadeller med nudelsalat, friske urter og pickles.",
+    "ing": [
+      "hakket svinekød",
+      "hvidløg, fiskesauce",
+      "risnudler",
+      "salat, mynte, koriander",
+      "syltede gulerødder",
+      "nuoc cham"
+    ],
+    "steps": [
+      "Form og steg frikadeller.",
+      "Kog nudler.",
+      "Anret med urter og pickles."
+    ],
+    "src": "se:vietnamese meatballs;vr:vietnamesiske frikadeller"
+  },
+  {
+    "title": "Pita-falafel",
+    "year": 2023,
+    "week": 7,
+    "emoji": "🧆",
+    "hue": 70,
+    "desc": "Sprød falafel i pita med hummus og friske grøntsager.",
+    "ing": [
+      "kikærter",
+      "persille, koriander",
+      "hvidløg",
+      "kommen",
+      "pita",
+      "tahini"
+    ],
+    "steps": [
+      "Blend kikærter og urter.",
+      "Form og steg.",
+      "Server i pita."
+    ],
+    "src": "se:falafel;vr:falafel"
+  },
+  {
+    "title": "Svampe i fløde med kartofler og dampede grøntsager",
+    "year": 2023,
+    "week": 7,
+    "emoji": "🍄",
+    "hue": 30,
+    "desc": "Cremet svamperagout, kogte kartofler og dampet grønt.",
+    "ing": [
+      "svampe",
+      "fløde",
+      "kartofler",
+      "broccoli, gulerod",
+      "persille"
+    ],
+    "steps": [
+      "Steg svampe.",
+      "Tilsæt fløde.",
+      "Server med kartofler og grønt."
+    ],
+    "src": "vr:svampe i fløde"
+  },
+  {
+    "title": "15-minutters chili",
+    "year": 2023,
+    "week": 7,
+    "emoji": "🌶️",
+    "hue": 8,
+    "desc": "En hurtig chili til travle dage.",
+    "ing": [
+      "hakket kød",
+      "kidneybønner",
+      "tomat",
+      "chili",
+      "spidskommen"
+    ],
+    "steps": [
+      "Brun kød.",
+      "Tilsæt resten og simr 15 minutter."
+    ],
+    "src": "se:15 minute chili"
+  },
+  {
+    "title": "Rösti og svinegryde",
+    "year": 2023,
+    "week": 6,
+    "emoji": "🥔",
+    "hue": 15,
+    "desc": "Schweizisk rösti af revne kartofler med langtidsstegt svinegryde.",
+    "ing": [
+      "kartofler",
+      "svinekød",
+      "løg",
+      "bouillon",
+      "smør"
+    ],
+    "steps": [
+      "Lav svinegryde.",
+      "Riv kartofler til rösti og steg sprød."
+    ],
+    "src": "se:rosti;vr:svinegryde"
+  },
+  {
+    "title": "Kimchi-ramen",
+    "year": 2023,
+    "week": 5,
+    "emoji": "🥬",
+    "hue": 4,
+    "desc": "Hurtig ramen med kimchi.",
+    "ing": [
+      "kimchi",
+      "ramen",
+      "æg",
+      "forårsløg"
+    ],
+    "steps": [
+      "Lav ramen med kimchi."
+    ],
+    "src": "se:quick kimchi ramen"
+  },
+  {
+    "title": "Spinat-ricottatærte med kartoffelskivebund",
+    "year": 2023,
+    "week": 5,
+    "emoji": "🥧",
+    "hue": 110,
+    "desc": "Saftig tærte med spinat og ricotta på bund af kartoffelskiver.",
+    "ing": [
+      "spinat",
+      "ricotta",
+      "kartofler",
+      "æg",
+      "ost"
+    ],
+    "steps": [
+      "Lav bund af kartoffelskiver.",
+      "Fyld og bag."
+    ],
+    "src": "vr:spinat ricotta tærte"
+  },
+  {
+    "title": "Kartoffelmos med sovs, rødbeder og veggiedeller",
+    "year": 2023,
+    "week": 4,
+    "emoji": "🥕",
+    "hue": 350,
+    "desc": "Hygge på tallerkenen: kartoffelmos med sovs, bagte rødbeder og rodfrugter og veggiedeller.",
+    "ing": [
+      "kartofler",
+      "rødbeder, rodfrugter",
+      "bønner til veggiedeller",
+      "sovs"
+    ],
+    "steps": [
+      "Mos kartofler.",
+      "Bag grønt.",
+      "Steg deller."
+    ],
+    "src": "vr:veggiedeller"
+  },
+  {
+    "title": "Frysepizza med gedeost og pærer",
+    "year": 2023,
+    "week": 4,
+    "emoji": "🍐",
+    "hue": 85,
+    "desc": "Frysepizza sat i vejret med gedeost og pære, og en salat ved siden af.",
+    "ing": [
+      "frysepizza",
+      "gedeost",
+      "pære",
+      "honning",
+      "salat"
+    ],
+    "steps": [
+      "Pynt pizza.",
+      "Bag.",
+      "Top med honning."
+    ],
+    "src": "vr:pizza gedeost pære"
+  },
+  {
+    "title": "Græsk pastasalat",
+    "year": 2023,
+    "week": 3,
+    "emoji": "🫒",
+    "hue": 150,
+    "desc": "Pastasalat med feta, oliven, agurk og oregano.",
+    "ing": [
+      "pasta",
+      "feta",
+      "oliven",
+      "agurk, tomat",
+      "oregano",
+      "olie og citron"
+    ],
+    "steps": [
+      "Kog pasta.",
+      "Bland.",
+      "Dress."
+    ],
+    "src": "vr:græsk pastasalat"
+  },
+  {
+    "title": "Mexicansk kyllingesuppe",
+    "year": 2023,
+    "week": 3,
+    "emoji": "🌮",
+    "hue": 20,
+    "desc": "Kraftig suppe med kylling, majs og bønner, toppet med tortillachips.",
+    "ing": [
+      "kylling",
+      "majs og bønner",
+      "tomat",
+      "chili og lime",
+      "koriander",
+      "tortillachips"
+    ],
+    "steps": [
+      "Simr alt sammen.",
+      "Top med chips og lime."
+    ],
+    "src": "se:chicken tortilla soup;vr:mexicansk kyllingesuppe"
+  },
+  {
+    "title": "Indisk fest",
+    "year": 2023,
+    "week": 3,
+    "emoji": "🍛",
+    "hue": 25,
+    "desc": "Kikærtemasala, paneer, naan, raita og pilauris. En hel indisk menu.",
+    "ing": [
+      "kikærter",
+      "paneer",
+      "naan",
+      "yoghurt",
+      "ris",
+      "garam masala"
+    ],
+    "steps": [
+      "Lav hver ret og server samlet."
+    ],
+    "src": "se:chana masala;vr:indisk"
+  },
+  {
+    "title": "4-dollar-pasta med polenta og tomatsalat",
+    "year": 2023,
+    "week": 3,
+    "emoji": "🍝",
+    "hue": 4,
+    "desc": "Italiensk aften med simpel pasta, polenta, tomatsalat, italiensk salat og brød.",
+    "ing": [
+      "pasta",
+      "polenta",
+      "tomater",
+      "salat",
+      "brød"
+    ],
+    "steps": [
+      "Lav hver ret.",
+      "Server samlet."
+    ],
+    "src": "se:polenta;vr:italiensk"
+  },
+  {
+    "title": "Risotto",
+    "year": 2023,
+    "week": 2,
+    "emoji": "🍚",
+    "hue": 48,
+    "desc": "Cremet risotto af arborioris, løg og parmesan.",
+    "ing": [
+      "arborioris",
+      "løg",
+      "hvidvin",
+      "bouillon",
+      "parmesan",
+      "smør"
+    ],
+    "steps": [
+      "Svits løg og ris.",
+      "Tilsæt bouillon lidt ad gangen.",
+      "Rør parmesan i."
+    ],
+    "src": "se:risotto;vr:risotto"
+  },
+  {
+    "title": "Fiskewraps",
+    "year": 2023,
+    "week": 2,
+    "emoji": "🌯",
+    "hue": 205,
+    "desc": "Wraps med sprød fisk, salat og dressing.",
+    "ing": [
+      "fisk",
+      "wraps",
+      "salat",
+      "dressing"
+    ],
+    "steps": [
+      "Steg fisk.",
+      "Rul."
+    ],
+    "src": "vr:fiskewraps"
+  },
+  {
+    "title": "Eggs benedict",
+    "year": 2023,
+    "week": 2,
+    "emoji": "🍳",
+    "hue": 50,
+    "desc": "Pocherede æg på ristet engelsk muffin med skinke og hollandaise.",
+    "ing": [
+      "æg",
+      "muffins",
+      "skinke",
+      "smør, æggeblomme og citron til hollandaise"
+    ],
+    "steps": [
+      "Lav hollandaise.",
+      "Pocher æg.",
+      "Anret."
+    ],
+    "src": "se:eggs benedict;vr:eggs benedict"
+  },
+  {
+    "title": "Fermenteret hot sauce",
+    "year": 2023,
+    "week": 2,
+    "emoji": "🌶️",
+    "hue": 5,
+    "desc": "Hjemmelavet hot sauce af fermenterede chilier med mango, hvidløg og æblecidereddike.",
+    "ing": [
+      "chilier",
+      "peber",
+      "tomat",
+      "mango",
+      "hvidløg",
+      "æblecidereddike og riseddike"
+    ],
+    "steps": [
+      "Fermenter chilier i saltlage.",
+      "Blend med mango og eddike."
+    ],
+    "src": "se:fermented hot sauce"
+  },
+  {
+    "title": "Sunday roast med løgsovs og ovnbagt kål",
+    "year": 2022,
+    "week": 52,
+    "emoji": "🥩",
+    "hue": 20,
+    "desc": "Søndagsstegen: sennepsmarineret højreb med løgsovs, kartoffelmos og ovnbagt kål med blåskimmelcreme.",
+    "ing": [
+      "1,2 kg højreb",
+      "sennep",
+      "3 løg",
+      "brun fond",
+      "kartofler og smør",
+      "1/2 hvidkål",
+      "blåskimmelost og fløde"
+    ],
+    "steps": [
+      "Gnid højrebet med sennep og steg ved lav varme til mørt.",
+      "Kog løg møre til sovs.",
+      "Mos kartofler.",
+      "Bag kålskiver og top med blåskimmelcreme."
+    ],
+    "src": "se:sunday roast;vr:højreb"
+  },
+  {
+    "title": "Spaghetti aglio e olio",
+    "year": 2022,
+    "week": 52,
+    "emoji": "🧄",
+    "hue": 50,
+    "desc": "Pasta med hvidløg, olie og chili. Fem ingredienser, ti minutter.",
+    "ing": [
+      "350 g spaghetti",
+      "6 fed hvidløg",
+      "100 ml olivenolie",
+      "chiliflager",
+      "persille",
+      "parmesan"
+    ],
+    "steps": [
+      "Kog spaghetti.",
+      "Steg hvidløg og chili i olie.",
+      "Vend pasta og kogevand i.",
+      "Top med persille."
+    ],
+    "src": "se:spaghetti aglio e olio;vr:aglio e olio"
+  },
+  {
+    "title": "Hakkebøffer med bløde løg",
+    "year": 2022,
+    "week": 50,
+    "emoji": "🥩",
+    "hue": 28,
+    "desc": "Saftige hakkebøffer med stegte løg og brun sovs, som mor lavede dem.",
+    "ing": [
+      "500 g hakket kød",
+      "1 æg",
+      "mælk og mel",
+      "løg",
+      "smør",
+      "bouillon til sovs"
+    ],
+    "steps": [
+      "Rør farsen og form bøffer.",
+      "Steg i smør.",
+      "Kog løg bløde og lav sovs i panden."
+    ],
+    "src": "vr:hakkebøffer"
+  },
+  {
+    "title": "Gullasch",
+    "year": 2022,
+    "week": 50,
+    "emoji": "🍲",
+    "hue": 15,
+    "desc": "Ungarsk gryderet med oksekød, paprika og løg, serveret med kartofler eller nudler.",
+    "ing": [
+      "800 g oksekød",
+      "3 løg",
+      "2 spsk paprika",
+      "2 spsk tomatpuré",
+      "bouillon",
+      "peberfrugt",
+      "kartofler"
+    ],
+    "steps": [
+      "Brun kød og løg.",
+      "Tilsæt paprika, puré og bouillon.",
+      "Simr 2 timer."
+    ],
+    "src": "se:goulash;vr:gullasch"
+  },
+  {
+    "title": "Kyllingebolognese",
+    "year": 2022,
+    "week": 50,
+    "emoji": "🍝",
+    "hue": 28,
+    "desc": "En lettere variant af bolognese med hakket kylling.",
+    "ing": [
+      "hakket kylling",
+      "løg, gulerod",
+      "tomat",
+      "pasta",
+      "basilikum"
+    ],
+    "steps": [
+      "Brun kylling og grøntsager.",
+      "Tilsæt tomat og simr 30 minutter.",
+      "Server med pasta."
+    ],
+    "src": "vr:kylling bolognese"
+  },
+  {
+    "title": "Vegetarfrikadeller med stuvet hvidkål",
+    "year": 2022,
+    "week": 49,
+    "emoji": "🥬",
+    "hue": 100,
+    "desc": "Frikadeller af bønner og grønt med klassisk stuvet hvidkål og kartofler.",
+    "ing": [
+      "bønner og havregryn",
+      "løg, gulerod",
+      "1/2 hvidkål",
+      "smør, mel og mælk",
+      "kartofler"
+    ],
+    "steps": [
+      "Mos bønner med havre og grønt, form og steg.",
+      "Kog kål og lav béchamel.",
+      "Kog kartofler."
+    ],
+    "src": "vr:vegetarfrikadeller;vr:stuvet hvidkål"
+  },
+  {
+    "title": "Smash burger",
+    "year": 2022,
+    "week": 49,
+    "emoji": "🍔",
+    "hue": 5,
+    "desc": "Tynde, sprøde burgerbøffer smadret på varm pande, med smeltet ost og blød bolle.",
+    "ing": [
+      "500 g hakket okse (20 % fedt)",
+      "burgerboller",
+      "amerikansk ost",
+      "syltede agurker",
+      "løg",
+      "burgerdressing"
+    ],
+    "steps": [
+      "Form kugler og smadr dem hårdt ned på en meget varm pande.",
+      "Vend efter 1 minut og læg ost på.",
+      "Rist bollerne og saml."
+    ],
+    "src": "se:smash burger"
+  },
+  {
+    "title": "Ærtesuppe",
+    "year": 2022,
+    "week": 48,
+    "emoji": "🥣",
+    "hue": 100,
+    "desc": "Gul ærtesuppe med flæsk og pølser, krydret med timian.",
+    "ing": [
+      "gule ærter",
+      "flæsk",
+      "gulerødder, løg, porre",
+      "pølser",
+      "timian"
+    ],
+    "steps": [
+      "Kog ærter med flæsk og grønt i 1,5 time.",
+      "Tilsæt pølser til sidst."
+    ],
+    "src": "vr:gule ærter suppe"
+  },
+  {
+    "title": "Ramen med chashu",
+    "year": 2022,
+    "week": 48,
+    "emoji": "🍜",
+    "hue": 20,
+    "desc": "Ramen med langtidsstegt svinekød (chashu), blødkogt æg og krydret bouillon. Også en vegetarversion.",
+    "ing": [
+      "svinekam",
+      "soja, mirin",
+      "nudler",
+      "æg",
+      "bouillon",
+      "løg"
+    ],
+    "steps": [
+      "Rul og braiser svinekød i soja og mirin.",
+      "Lav bouillon.",
+      "Server med æg."
+    ],
+    "src": "se:ramen chashu;vr:ramen"
+  },
+  {
+    "title": "Grilled cheese og tomatsuppe",
+    "year": 2022,
+    "week": 47,
+    "emoji": "🧀",
+    "hue": 8,
+    "desc": "Klassisk kombination til kolde dage.",
+    "ing": [
+      "brød",
+      "ost",
+      "smør",
+      "tomatsuppe"
+    ],
+    "steps": [
+      "Lav suppe af tomater.",
+      "Steg grilled cheese."
+    ],
+    "src": "se:grilled cheese;se:tomato soup"
+  },
+  {
+    "title": "Risengrød",
+    "year": 2022,
+    "week": 47,
+    "emoji": "🍚",
+    "hue": 355,
+    "desc": "Dansk risengrød med smør, kanel og sukker.",
+    "ing": [
+      "250 g grødris",
+      "1 l mælk",
+      "1 tsk salt",
+      "smør",
+      "kanel og sukker"
+    ],
+    "steps": [
+      "Kog ris i vand, tilsæt mælk.",
+      "Rør af og til, 40 minutter.",
+      "Server med smørklat."
+    ],
+    "src": "vr:risengrød"
+  },
+  {
+    "title": "Kikærtekarry",
+    "year": 2022,
+    "week": 47,
+    "emoji": "🍛",
+    "hue": 38,
+    "desc": "Hurtig, mættende kikærtekarry med tomat og spinat.",
+    "ing": [
+      "kikærter",
+      "tomat",
+      "løg, hvidløg, ingefær",
+      "karry",
+      "spinat",
+      "ris"
+    ],
+    "steps": [
+      "Svits krydderier.",
+      "Tilsæt kikærter og tomat.",
+      "Simr 20 minutter."
+    ],
+    "src": "se:chickpea curry"
+  },
+  {
+    "title": "Lasagne",
+    "year": 2022,
+    "week": 47,
+    "emoji": "🍝",
+    "hue": 5,
+    "desc": "Rigtig lasagne med kødsauce, béchamel og masser af ost.",
+    "ing": [
+      "lasagneplader",
+      "kødsauce",
+      "béchamel",
+      "mozzarella",
+      "parmesan"
+    ],
+    "steps": [
+      "Lav kødsauce og béchamel.",
+      "Lag plader, sauce og ost.",
+      "Bag 40 minutter."
+    ],
+    "src": "se:lasagna;vr:lasagne"
+  },
+  {
+    "title": "Shakshuka",
+    "year": 2022,
+    "week": 45,
+    "emoji": "🍳",
+    "hue": 8,
+    "desc": "Æg pocheret i krydret tomatsauce med peberfrugt.",
+    "ing": [
+      "tomater",
+      "peberfrugt",
+      "løg, hvidløg",
+      "spidskommen, paprika",
+      "æg",
+      "feta og persille"
+    ],
+    "steps": [
+      "Lav sauce.",
+      "Lav huller og slå æg i.",
+      "Kog til æggene er stivnede."
+    ],
+    "src": "se:shakshuka;vr:shakshuka"
+  },
+  {
+    "title": "Tunpasta",
+    "year": 2022,
+    "week": 45,
+    "emoji": "🐟",
+    "hue": 200,
+    "desc": "Hurtig pasta med tun, citron, kapers og persille.",
+    "ing": [
+      "pasta",
+      "dåsetun",
+      "kapers",
+      "citron",
+      "hvidløg",
+      "persille"
+    ],
+    "steps": [
+      "Kog pasta.",
+      "Svits hvidløg og tilsæt tun.",
+      "Vend med citron."
+    ],
+    "src": "vr:tunpasta"
+  },
+  {
+    "title": "Agurke-, tomat- og bønnesalat",
+    "year": 2022,
+    "week": 45,
+    "emoji": "🥒",
+    "hue": 130,
+    "desc": "Syrlig sommersalat med lime, brun farin og fiskesauce.",
+    "ing": [
+      "agurk",
+      "tomater",
+      "grønne bønner",
+      "lime",
+      "brun farin",
+      "fiskesauce"
+    ],
+    "steps": [
+      "Skær grønt.",
+      "Rør dressing af lime, sukker og fiskesauce.",
+      "Vend sammen."
+    ],
+    "src": "se:cucumber tomato green bean salad"
+  },
+  {
+    "title": "Green goddess-sandwich",
+    "year": 2022,
+    "week": 45,
+    "emoji": "🥪",
+    "hue": 120,
+    "desc": "Grøn, urtefyldt sandwich med avocado og cremet dressing.",
+    "ing": [
+      "brød",
+      "avocado",
+      "agurk",
+      "spirer",
+      "urter, mayo og yoghurt"
+    ],
+    "steps": [
+      "Blend dressing.",
+      "Byg sandwich."
+    ],
+    "src": "se:green goddess sandwich"
+  },
+  {
+    "title": "Baja-tacos",
+    "year": 2022,
+    "week": 44,
+    "emoji": "🌮",
+    "hue": 190,
+    "desc": "Sprøde fisketacos fra Baja California med kålsalat og lime-crema.",
+    "ing": [
+      "hvid fisk",
+      "øl og mel til dej",
+      "tortillas",
+      "kål",
+      "lime",
+      "creme fraiche"
+    ],
+    "steps": [
+      "Fritér fisk.",
+      "Lav kålsalat.",
+      "Saml."
+    ],
+    "src": "se:baja fish tacos"
+  },
+  {
+    "title": "Tacos al pastor",
+    "year": 2022,
+    "week": 44,
+    "emoji": "🌮",
+    "hue": 20,
+    "desc": "Marineret svinekød med ananas på tortillas. Klassisk mexicansk street food.",
+    "ing": [
+      "svinekød",
+      "chilier, ananas",
+      "løg",
+      "koriander",
+      "tortillas",
+      "lime"
+    ],
+    "steps": [
+      "Mariner kød i chili og ananas.",
+      "Steg.",
+      "Server på tortillas."
+    ],
+    "src": "se:tacos al pastor"
+  },
+  {
+    "title": "Sesamkylling og kålsalat",
+    "year": 2022,
+    "week": 43,
+    "emoji": "🥬",
+    "hue": 48,
+    "desc": "Sprød kålsalat med sesamkylling og asiatisk dressing.",
+    "ing": [
+      "kylling",
+      "kål",
+      "sesam",
+      "sojasauce",
+      "riseddike",
+      "forårsløg"
+    ],
+    "steps": [
+      "Steg kylling.",
+      "Skær kål.",
+      "Vend med dressing."
+    ],
+    "src": "https://www.bonappetit.com/recipe/sesame-chicken-and-cabbage-salad-recipe"
+  },
+  {
+    "title": "Pasta med tomatsovs",
+    "year": 2022,
+    "week": 43,
+    "emoji": "🍝",
+    "hue": 6,
+    "desc": "Simpel tomatsovs med hvidløg og basilikum.",
+    "ing": [
+      "pasta",
+      "tomater",
+      "hvidløg",
+      "basilikum",
+      "olivenolie"
+    ],
+    "steps": [
+      "Kog sovs.",
+      "Vend pasta."
+    ],
+    "src": "se:tomato sauce"
+  }
+]
